@@ -1,5 +1,5 @@
 플레이어 신고
-신고할 대상\n유저\n사유
+Target:\nPlayer ID:\nDescription:
 취소
 서버 규칙 위반에 대한 신고
 부정적인 행위에 대한 신고
