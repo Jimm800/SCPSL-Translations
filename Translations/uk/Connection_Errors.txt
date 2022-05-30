@@ -1,36 +1,38 @@
-<size=80>ВАС ВИКИНУТО</size>\nСервер примусово перервав з’єднання.\n<size=26>\nМожливо, ви тимчасово заблоковані адміністратором\або не відповідаєте вимогам сервера (наприклад, помилка з’єднання зі Steam).\nАвтори гри не несуть відповідальності за можливі тимчасові блокування.\n</size>
-<size=80>ВІД’ЄДНАНО</size>\nВибраний хост недоступний.
-<size=80>ВІД’ЄДНАНО</size>\nВказаний номер з’єднання не існує.
-<size=80>ВІД’ЄДНАНО</size>\nВказаний канал не існує.
-<size=80>ВІД’ЄДНАНО</size>\nСервер заповнений.
-<size=80>ВІД’ЄДНАНО</size>\nОтримано хибний пакет.
-<size=80>ВІД’ЄДНАНО</size>\nВичерпано час з’єднання.
-<size=80>ВІД’ЄДНАНО</size>\nВичерпано час з’єднання.
-<size=80>ВІД’ЄДНАНО</size>\nЦя дія не підтримується.
-<size=80>ВІД’ЄДНАНО</size>\nВаша версія гри відрізняється від версії на сервері.
-<size=80>ВІД’ЄДНАНО</size>\nХибне налаштування сервера.
-<size=80>ВІД’ЄДНАНО</size>\nХибна або недоступна адреса.
-<size=80>ВІД’ЄДНАНО</size>\nСталася неочікувана помилка!
-<size=80>ЗАЧЕКАЙТЕ</size>\n<size=35>Установлюється з’єднання...</size>
-<size=80>ПЕРЕЗАПУСК РАУНДУ</size>\n<size=35>Раунд перезапускається...</size>
-<size=80>ЗАЧЕКАЙТЕ</size>\n<size=35>Завантажується навчання...</size>
-<size=80>НЕСУМІСНІСТЬ ВЕРСІЙ</size>\nВаша версія гри відрізняється від версії на сервері\n(Клієнт — [your]; сервер — [server])
-<size=80>З'ЄДНАНО</size>\n<size=35>Завантажується рівень...</size>
-<size=35>Завантажується лабораторія...</size>
-<size=80>ВІД’ЄДНАНО</size>\nНа сервері сталася неочікувана помилка.
-<size=80>ВІД’ЄДНАНО</size>\nЦей сервер вимагає автентифікації від центральних серверів.
-<size=80>ВІД’ЄДНАНО</size>\nВи не входите до білого списку на цьому сервері.
-<size=80>ВІД’ЄДНАНО</size>\nВи маєте глобальне блокування.
-<size=80>ВІД’ЄДНАНО</size>\nВи маєте глобальне блокування: [reason].
-<size=80>ВІД’ЄДНАНО</size>\nВам заблоковано доступ до цього сервера.
-<size=80>ВІД’ЄДНАНО</size>\nВам заблоковано доступ до цього сервера.\nБлокування спливає о [time], [date].
-<size=80>ВІД’ЄДНАНО</size>\nТермін дії вашого токена автентифікації сплинув.\nІмовірно, сервер має хибне налаштування часу чи часової зони.\nЗверніться до адміністратора  сервера.
-<size=80>ВІД’ЄДНАНО</size>\nКількість під’єднань перевищено. Спробуйте знову за кілька секунд.
-<size=80>ВІД’ЄДНАНО</size>\nСервер не підтримує під’єднання з вашого географічного регіону.\nУ назві сервера чи в описі має бути більше інформації.
-<size=80>ВІД’ЄДНАНО</size>\nМодифікація сервера вигнала вас.\n\nПричина: [reason]\nЦе модифікація сервера, а не функція гри.\nЗверніться до адміністратора сервера.
-<size=80>ВІД’ЄДНАНО</size>\nВаш токен автентифікації відхилено сервером.\nПерезапустіть гру та спробуйте знову або зверніться до служби підтримки.
-<size=80>ВІД’ЄДНАНО</size>\nВам заблоковано доступ до цього сервера.\nПричина: [reason].
-<size=80>ВІД’ЄДНАНО</size>\nВам заблоковано доступ до цього сервера.\nБлокування спливає о [time], [date].\nПричина: [reason].
-<size=80>Зачекайте</size>\nТриває перевірка безпеки сервера...
-<size=80>ВІД’ЄДНАНО</size>\nНе вдалося перевірити безпеку сервера...
-<size=80>ВІД’ЄДНАНО</size>\nПеревірка безпеки сервера тривала надто довго.\nЗверніться до адміністратора сервера.
+<size=80>YOU HAVE BEEN KICKED</size>\nThe server was forced to stop the connection.
+<size=80>DISCONNECTED</size>\nThe specified host is not available.
+<size=80>DISCONNECTED</size>\nThe specified connection ID does not exist.
+<size=80>DISCONNECTED</size>\nThe specified channel does not exist.
+<size=80>DISCONNECTED</size>\nServer is full.
+<size=80>DISCONNECTED</size>\nReceived wrong packet.
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nOperation is not supported.
+<size=80>DISCONNECTED</size>\nYour game version is different from the server.
+<size=80>DISCONNECTED</size>\nInvalid server config.
+<size=80>DISCONNECTED</size>\nThe address is invalid or could not be resolved.
+<size=80>DISCONNECTED</size>\nAn unexpected problem has occurred!
+<size=80>PLEASE WAIT</size>\n<size=35>Establishing connection...</size>
+<size=80>ROUND RESTART</size>\n<size=35>The round is restarting...</size>
+<size=80>PLEASE WAIT</size>\n<size=35>Loading tutorial...</size>
+<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different from the server\n(Client - [your]; Server - [server])
+<size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
+<size=35>Loading the facility...</size>
+<size=80>DISCONNECTED</size>\nUnspecified error occurred on the server.
+<size=80>DISCONNECTED</size>\nThis server requires authentication by central servers.
+<size=80>DISCONNECTED</size>\nYou are not whitelisted on this server.
+<size=80>DISCONNECTED</size>\nYou have been globally banned.
+<size=80>DISCONNECTED</size>\nYou have been globally banned: [reason].
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]
+<size=80>DISCONNECTED</size>\nYour authentication token has expired.\nServer might have invalid time or timezone set.\nPlease contact an server administrator.
+<size=80>DISCONNECTED</size>\nYou have been rate limited. Try again in a few seconds.
+<size=80>DISCONNECTED</size>\nServer is not accepting connections from your geographic location.\nServer name or info may contain more details.
+<size=80>DISCONNECTED</size>\nYou have been kicked by a server modification.\n\nReason: [reason]\nThis is a server modification, not a game feature.\nContact an server administrator for more information.
+<size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and try again or contact studio technical support.
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nReason: [reason]
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]\nReason: [reason]
+<size=80>Please wait</size>\nProcessing server security verification...
+<size=80>DISCONNECTED</size>\nFailed to process server security verification.
+<size=80>DISCONNECTED</size>\nProcessing of server security verification was too slow for the server.\nPlease try again or contact server administrator.
+<size=80>AUTH ERROR</size>\nCentral Server Message: [message].
+<size=80>DISCONNECTED</size>\nServer is shutting down.
