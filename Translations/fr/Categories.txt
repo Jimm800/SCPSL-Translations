@@ -2,9 +2,9 @@ Aucun
 Carte d'accès
 Médical
 Radio
-Armes à feu
+Munitions
 Grenades
 Objets SCP
 Micro H.I.D.
-Munitions
-Gilets Pare-Balles
+Ammo
+Body Armor
