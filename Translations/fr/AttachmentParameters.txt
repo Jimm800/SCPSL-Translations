@@ -2,14 +2,14 @@ Précision - Zoom
 ---
 Dégâts
 Pénétration
-Cadence de tir
+Bruits des tirs
 Recul
-Recul en visée
-Précision des balles
+Cadence de tir
 Précision de tir
 Précision de visée
+Aiming accuracy
 Temps d'équipement
-Bruits des tirs
+Gunshot loudness
 Capacité du chargeur
 Temps d'équipement
 Temps de rechargement
