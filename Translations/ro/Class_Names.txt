@@ -1,21 +1,21 @@
 SCP-173
-Personal Clas-D
+Class-D Personnel
 Spectator
 SCP-106
 Nine-Tailed Fox Specialist
 SCP-049
-Om de Știință
+Scientist
 SCP-079
-Insurgența Haosului Recrut
+Chaos Insurgency Conscript
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Sergent
-Nine-Tailed Fox Căpitan
-Nine-Tailed Fox Privat
+Nine-Tailed Fox Sergeant
+Nine-Tailed Fox Captain
+Nine-Tailed Fox Private
 Tutorial
-Paza Facilității
+Facility Guard
 SCP-939-53
 SCP-939-89
-Insurgența Haosului Pușcaș
-Insurgența Haosului Jefuitor
-Insurgența Haosului Represor
+Chaos Insurgency Rifleman
+Chaos Insurgency Marauder
+Chaos Insurgency Repressor
