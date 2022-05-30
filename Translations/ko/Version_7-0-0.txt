@@ -1,4 +1,4 @@
-사망
+YOU DIED
 {KEYBINDING_INTERACTION} 키를 눌러 <color=yellow>무기 태블릿</color>을 장착
 {KEYBINDING_INTERACTION} 키를 눌러 <color=yellow>무기 태블릿</color>을 가져감
 이 <color=yellow>스마트 조립대</color>은 이미 <color=yellow>무기 태블릿</color>으로 연결됨
