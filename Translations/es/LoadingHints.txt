@@ -1,5 +1,5 @@
 Puedes desarmar a un jugador interactuando con el mientras llevas un arma.
-Existen 4 zonas principales en las instalaciones: Zona de contención ligera, Zona de contención pesada, zona de entrada y la superficie. 
+Existen 4 zonas principales en las instalaciones: Zona de contención ligera, Zona de contención pesada, zona de entrada y la superficie.
 Los Científicos y los Clase-D deben alcanzar la superficie para escapar.
 La zona de entrada tiene dos puertas, dichas puertas son la única ruta de acceso a la superficie. Necesitaras una tarjeta de acceso para abrirlas.
 Usar un ascensor es una forma fácil y rápida de escapar de la mayoría de SCPs.
@@ -20,7 +20,7 @@ Usar armadura corporal aumenta el numero de objetos y munición que puedes lleva
 Las balas perforadoras (AP) funcionan mejor contra objetivos blindados.
 Las balas de punta hueca (JHP) provocan mas daños contra objetivos sin blindaje pero son mas débiles contra armadura.
 Mantén pulsado el botón de recargar para descargar un arma, añadiendo su munición a tu inventario.
-Las armas de la insurgencia del caos son poderosas pero su munición no aparece en las instalaciones. Cada disparo cuenta.
+Las armas de la insurgencia del caos son poderosas pero su munición no aparece en las instalaciones. Make it count.
 Las granadas pueden usarse para romper puertas.
 Las granadas se pueden lanzar con menos fuerza usando el botón derecho del ratón.
 La Micro H.I.D. puede matar a la mayoría de SCPs muy rápido pero tiene una cantidad limitada de energía. Usala con cabeza!
@@ -33,7 +33,7 @@ Hasta cuatro botellas de SCP-207 pueden beberse, permitiéndote aumentar de form
 SCP-500 no solo te cura por completo si no que también elimina la mayoría de efectos negativos, también te regenera salud poco después.
 SCP-268 te hace invisible para todos los humanoides, SCP-079 y SCP-939 te pueden seguir percibiendo.
 SCP-268 no te salvara de SCP-096 si le has visto la cara, pero eso no te impide intentarlo.
-SCP-018 es altamente impredecible. Si es lanzada mas te vale buscar cobertura.
+SCP-018 es altamente impredecible. When it’s thrown, take cover.
 SCP-018 puede usarse para bloquear a tus perseguidores si rebota por un pasillo.
 SCP-914 puede cambiar cualquier objeto, incluyendo armas y munición.
 SCP-914 puede recargar radios y la Micro H.I.D.
