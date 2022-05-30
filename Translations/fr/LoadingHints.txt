@@ -20,7 +20,7 @@ Porter un gilet pare-balles augmente le nombre d'objets et de munitions que vous
 Les balles perforantes (AP) fonctionnent mieux contre des cibles dotées d'une armure.
 Les balles à pointe creuse (JHP) infligent des dégâts plus importants aux cibles non blindées, mais sont plus faibles contre les armures.
 Maintenez la touche de rechargement pour décharger une arme et ajouter ses munitions à votre inventaire.
-Les armes de l'Insurrection du Chaos sont puissantes, mais leurs munitions n'apparaissent pas dans la Fondation. Chaque balle compte.
+Les armes de l'Insurrection du Chaos sont puissantes, mais leurs munitions n'apparaissent pas dans la Fondation. Make it count.
 Les grenades peuvent être utilisées pour détruire les portes.
 Les grenades peuvent être lancées avec moins de force en utilisant le clique droit.
 La Micro H.I.D. peut tuer la plupart des SCP très rapidement, mais a une batterie limitée. Faites-en bon usage !
