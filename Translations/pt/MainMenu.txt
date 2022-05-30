@@ -1,46 +1,46 @@
 ENTRAR
-FECHAR
+DETALHES
 RESOLUÇÃO DA SOMBRAS
-OPÇÕES
+ATENÇÃO
 BASEADO EM <i>SCP: CONTAINMENT BREACH</i>
 VOLTAR
 IDIOMA
 ANTIALIASING
 TROCAR DETALHES:\nPixels de luz - Numero maximo de fonte de luz em cada pixel.\nV-Sync - Ativa a sincronização com a taxa de atualização do monitor.
-ENTRAR NO JOGO
+JOGAR
 PROCESSA\nMENTO
 CREDITOS
 SAIR DO JOGO
 Modo Tela cheia
-RESOLUÇÃO
+OPÇÕES
 CORREÇÃO DE COR
 Digite o endereço IP ...
 RESOLUÇÃO
-JOGAR
-PIXELS DE LUZ
-SOMBRA
-SOMBRA
 CRIAR JOGO
+PIXELS DE LUZ
+SHADOW TYPE
+SOMBRA
+ENTRAR NO JOGO
 Alterar configurações de pós-processamento: \nEssas alterações não afetam o desempenho. É recomendado deixar os valores no padrão.
-Modo de renderização leve:\nQuando ligado - deixa o jogo com graficos ruims. é recomendado liga-lo caso tenha um computador fraco.
+Modo de renderização leve:\nQuando ligado - deixa o jogo com graficos ruims. Disabling this setting is only recommended for low-end computers.
 V-SYNC
 CONECTAR
-GRÁFICOS
-Ao alterar as configurações de sombra, quanto menos sombra, melhor o desempenho do jogo.
+QUANTIDADE DE SANGUE
+Ao alterar as configurações de sombra, quanto menos sombra, melhor o desempenho do jogo. Setting these sliders at lower values may increase gameplay smoothness.
 MENU PRINCIPAL
-MODO DE RENDERIZAÇÃO LEVE
+GRÁFICOS
 MOTION BLUR
-DISTANCIA DA SOMBRA
-DETALHES
-3. SCP-914
+FECHAR
 TUTORIAIS
-ATENÇÃO
+3. SCP-914
+CONTROLES
+VOLUME
 Pesquisar servidores disponíveis
 Não mostrar isso denovo
 Gostaria de se conectar ?
 LISTA DE SERVIDORES
 OK
-PROCURAR PARTIDA
+SOMBRA
 2. Usando armas
 Usamos Discord como forum. Instalação não requerida.\n(Clique no logo para abrir)
 Por padrão, o servidor será iniciado em rede local.\nSeus amigos precisarão do endereço IP para se conectar.\nSe você quiser configurar um servidor público, selecione o arquivo LocalAdmin.exe e siga as instruções.\nCaso tiver alguma pergunta, por favor, pergunte ao nosso suporte técnico (link no menu principal)
@@ -49,14 +49,51 @@ O jogo apresentado esta em "public beta".\nTalves experiencie poblemas de conex�
 4. (mais tutorias logo...)
 CONEXÃO DIRETA
 SUPORTE TECNICO / FORUM
-VOLUME
+SOUND VOLUME
 Entre em um servidor a partir do endereço IP.
 BAIXANDO DADOS
 SEM SERVIDORES DISPONÍVEIS
 APERTE ESC PARA CANCELAR / FECHAR
-CONTROLES
-QUANTIDADE DE SANGUE
+KEY BINDING
+MAX BLOOD AMOUNT
 Limite de FPS
 Limite de FPS não funciona quando V-sync está ligado.
 Definir controles padrão
 We use Steam Discussions as a forum. (Click the logo below to open the forum)
+AUDIO SETTINGS
+MASTER VOLUME
+MENU MUSIC
+VOICE CHAT
+SOUND EFFECTS
+GAMEPLAY OPTIONS
+PROCURAR PARTIDA
+Class intro text will fade out much more quickly.
+SCP-079 - TOGGLE VIEW MODE
+Press once to swap between camera modes.
+SCP-079 - POST-PROCESSING
+If disabled, camera effects will be heavily reduced.
+HEAD BOB
+Enables first-person camera bobbing during movement.
+TOGGLE SPRINT
+Sprinting toggles on and off, instead of being held down.
+SEPARATE ARTIFICIAL HP BAR
+Gives artificial HP its own health bar, instead of an overlay.
+Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
+RESOLUÇÃO
+If enabled, your status will be displayed on Discord/Steam.
+DISPLAY EXACT HP VALUE
+Displays exact HP, instead of just the percentage.
+PUBLIC LOBBY
+If enabled, your steam friends can join you without permission.
+HIDE IP
+If enabled, any IP in client console is not displayed.
+TOGGLE SEARCH
+Item pickup will not require a held key; press again to cancel.
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+Toggle to show subtitles for cassie announcements.
+Flashes the taskbar when you spawn while the game is not in focus.
+Smoothes lines and removes visual distortions.
+Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.
