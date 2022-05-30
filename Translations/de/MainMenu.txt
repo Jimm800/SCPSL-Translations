@@ -1,36 +1,36 @@
-BEITRETEN
-SCHLIESSEN
-Schattenauflösung
-EINSTELLUNGEN
-Basiert auf <i>SCP: CONTAINMENT BREACH</i>
+VERBINDE
 ZURÜCK
-SPRACHE
+BILDSCHIRMAUFLÖSUNG
 KANTENGLÄTTUNG
+Basiert auf <i>SCP: CONTAINMENT BREACH</i>
+Zurücksetzen
+TASTENBELEGUNG
+EINSTELLUNGEN
 Ändere Details:\n-PIXEL LICHT QUELLEN- maximale Anzahl an Lichtquellen, welche in separaten Pixeln gerendert werden.\n-V-Sync - synchronisiert mit der Bildwiederholrate deines Monitors.
-SPIEL BEITRETEN
+GAMEPLAY OPTIONEN
 Nach-\nbearbeitung
 CREDITS
 SPIEL BEENDEN
-VOLLBILDMODUS
-BILDSCHIRMEINSTELLUNGEN
+Fullscreen mode
+SPRINTEN UMSCHALTEN
 FARBKORREKTUR
 IP-Adresse eingeben...
-BILDSCHIRMAUFLÖSUNG
+AUFHEBEN UMSCHALTEN
 SPIELEN
 PIXEL LICHT QUELLEN
-Schatten
-Schatten
-ERSTELLE SPIEL
-Das Ändern dieser Einstellung wirkt sich nicht auf die Spielperformance aus. Standard Einstellungen sind empfohlen.
+SPRACHCHAT
+SPRACHE
+CREATE GAME
+Change post-processing settings. Standard Einstellungen sind empfohlen.
 Rendere Licht:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist empfohlen diese Einstellung nur zu nutzen, wenn du ein schlechtes PC-Setup (low-end) besitzt.
 V-SYNC
-VERBINDE
-QUALITÄTSEINSTELLUNGEN
-Das Verschieben des Reglers auf einen niedrigeren Wert kann die allgemeine Performance erhöhen.
 HAUPTMENÜ
-Rendere Licht
+QUALITÄTSEINSTELLUNGEN
+Change shadow preferences. Das Ändern dieser Einstellung wirkt sich nicht auf die Spielperformance aus.
 BEWEGUNGSUNSCHÄRFE
-Schattendistanz
+ERSTELLE SPIEL
+VOLLBILDMODUS
+SCHLIESSEN
 Details
 3. SCP-914
 TUTORIALS
@@ -43,51 +43,51 @@ OKAY
 SPIEL FINDEN
 2. Waffen nutzen
 Wir nutzen Discord als Forum. Keine Installation nötig.\n(klick auf das Logo, um beizutreten)
-Normal wird der Server im lokalem Netzwerk aufgesetzt.\nSpieler brauchen deine <color=#ffff00>offene IP-Adresse und den Port (7777 bis 7782, Port forwarding nötig)</color> um beitreten zu können.\nWenn du einen öffentlichen Server aufsetzen willst, führe LocalAdmin.exe aus und folge den Anweisungen.\nWenn du Fragen hast, frage unseren Tech-Support. (link im Hauptmenü)
+Normal wird der Server im lokalem Netzwerk aufgesetzt.\nSpieler brauchen deine <color=#ffff00>offene IP-Adresse und den Port (7777 bis 7782, Port forwarding nötig)</color> um beitreten zu können.\nWenn du einen öffentlichen Server aufsetzen willst, führe LocalAdmin.exe aus und folge den Anweisungen.\nWenn du Fragen hast, frage unseren Tech-Support.
 1. Die Grundlagen
 Das Spiel befindet sich immer noch in der öffentlichen Beta.\nEs können Fehler auftreten.\nDer jetzige Zustand reflektiert nicht das finale Spiel.
 4. (mehr Tutorials folgen)
 DIREKT VERBINDEN
 TECH-SUPPORT / FORUM
-Allgemeine Spiellautstärke
+SOUNDEFFEKTE
 Gib die IP-Adresse oder Domain des Servers ein.
-DATEN WERDEN HERUNTERGELADEN
+ÖFFENTLICHE LOBBY
 KEINE SERVER VERFÜGBAR
 DRÜCKE ESC ZUM SCHLIESSEN / ABBRECHEN
-TASTENBELEGUNG
-MAX. SICHTBARES BLUT
+SPIEL BEITRETEN
+MAX.
 FPS Limit
 FPS Limit funktioniert nicht wenn V-Sync an ist!
-Zurücksetzen
+Set Default
 Wir nutzen die Steam Diskussionen als Forum. (Klicke auf das Logo, um das Forum aufzurufen)
 AUDIO EINSTELLUNGEN
-ALLG.-LAUTSTÄRKE
 HAUPTMENÜ MUSIK
-SPRACHCHAT
-SOUNDEFFEKTE
-GAMEPLAY OPTIONEN
+MENU MUSIC
+VOICE CHAT
+SICHTBARES BLUT
+DATEN WERDEN HERUNTERGELADEN
 INTRO SCHNELL AUSBLENDEN
 Das Klassen Intro wird bei Rundenstart schneller ausgeblendet.
-SCP-079 ANSICHT UMSCHALTEN
-Der Kameramodus wird durch einmaliges Betätigen umgeschaltet.
 SCP-079 NACHBEARBEITUNG
+Der Kameramodus wird durch einmaliges Betätigen umgeschaltet.
+SCP-079 ANSICHT UMSCHALTEN
 Wenn ausgeschaltet, werden Kamera Effekte stark reduziert.
-KAMERA WACKELN
+BEITRETEN
 Schaltet das Wackeln der first-person Kamera an während sich der Spieler bewegt.
-SPRINTEN UMSCHALTEN
-Sprinten wird ein/ausgeschaltet, anstatt die Taste gedrückt zu halten.
 SEPARATER HP-BALKEN
+Sprinten wird ein/ausgeschaltet, anstatt die Taste gedrückt zu halten.
+ZEIGE HP-PUNKTE AN
 Künstliche HP hat einen eigenen HP-Balken, statt eines Overlays.
-Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier.
+Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Click here to access the repo.
 RICH PRESENCE
 Wenn eingeschaltet, wird dein Status auf Discord/Steam angezeigt.
-ZEIGE HP-PUNKTE AN
+DISPLAY EXACT HP VALUE
 Zeigt die exakte Anzahl an HP-Punkten an, anstelle von Prozent.
-ÖFFENTLICHE LOBBY
+ALLG.-LAUTSTÄRKE
 Wenn eingeschaltet, können deine Steam Freunde dir ohne Erlaubnis beitreten.
 IP VERBERGEN
 Wenn eingeschaltet, werden keine IPs in der Client Konsole angezeigt.
-AUFHEBEN UMSCHALTEN
+BILDSCHIRMEINSTELLUNGEN
 Das Aufheben von Gegenständen erfordert kein Halten der Taste; Drücke erneut, um abzubrechen.
 Applies soft shadows to corners and tight areas to give models more depth.
 Gibt der Umgebung mehr Tiefe durch hohe Performanceeinbußen.
