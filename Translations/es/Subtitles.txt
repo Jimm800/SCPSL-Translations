@@ -10,7 +10,7 @@ contenido satisfactoriamente por el personal científico.
 contenido satisfactoriamente por el personal Clase-D.
 contenido satisfactoriamente por la insurgencia del caos.
 SCP-[scp]
-contenido satisfactoriamente. Unidad de contención desconocida.
+contained successfully. Unidad de contención desconocida.
 contained successfully. Unidad de contención [designation].
 Perdido en la secuencia de descontaminacion.
 [current] de [max] generadores activados.
