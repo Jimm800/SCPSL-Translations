@@ -1,17 +1,17 @@
 Munitie {0}/{1} {2}
 Schade
 Vuursnelheid
-Heupaccuratie
+Hip Accuracy
 ADS-Accuratie
 Gewicht
-Lengte
+Length
 LAAT VALLEN:
 Helm Efficiëntie
 Vest Efficiëntie
 Staminagebruik
 Beweegsnelheid
-Voorwerplimieten:
+Item Limits:
 Munitielimieten:
 {0} totaal
-Schildpenetratie
+Armor Penetration
 Accuratie tijdens Rennen
