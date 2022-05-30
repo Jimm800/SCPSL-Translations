@@ -19,12 +19,12 @@ Vous n'auriez pas dû en prendre plus de deux !
 Vous êtes mort d'une Tesla.
 Corps criblé de shrapnel et fortement brûlé par une explosion.
 Vous avez été tué par une explosion.
-Corps lacéré et mis en pièces.
+Massive lacerations and excessive blood loss.
 Nuque brisée à la base du crâne.
 Des marques de morsure profondes peuvent être observées sur le corps.
 Un impact et des écorchures sont présents sur le corps.
 Blessures par balle de calibre [ammotype].
-Traumatisme contondant mortel. Le corps est gravement mutilé.
+Le corps est gravement mutilé.
 Des signes de traumatisme grave aux deux fémurs suggèrent une mort par choc circulatoire.
 Vous avez été sacrifié pour reconfiner SCP-106.
 Tué automatiquement pour cause de tir allié.
