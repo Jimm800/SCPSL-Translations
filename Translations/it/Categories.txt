@@ -1,5 +1,5 @@
 Niente
-Tessera Magnetica
+Keycard
 Medicinali
 Radio
 Arma da fuoco
@@ -7,4 +7,4 @@ Granate
 Oggetti SCP
 Micro H.I.D.
 Munizioni
-Corazza
+Body Armor
