@@ -1,6 +1,6 @@
-GIB ANWEISUNGEN
-FOLGE ANWEISUNGEN
-GLEICHER RANG
+DU BIST GESTORBEN
+ERSTELLE SCHLUPFLOCH
+NUTZE SCHLUPFLOCH
 Klasse-D Personal entkam
 Wissenschaftler überlebten
 Getötet von SCPs
@@ -10,10 +10,10 @@ Gezündet
 Ungenutzt
 Die nächste Runde startet in [time] Sekunden.
 SPEZIALFÄHIGKEIT
-ERSTELLE SCHLUPFLOCH
-NUTZE SCHLUPFLOCH
-DU BIST GESTORBEN
+FOLGE ANWEISUNGEN
+GIB ANWEISUNGEN
 Du wurdest getötet von
+You were killed by
 als
 Passiv
 (versteckt)
