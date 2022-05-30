@@ -1,6 +1,6 @@
-VOCÊ PODE DAR ORDENS
 SIGA ORDENS
-O MESMO NIVEL DE PERMISSÃO
+FOLLOW ORDERS
+SAME RANK
 Class-D Personnel escaparam
 Cientistas sobreviveram
 Mortos por SCPs
@@ -15,3 +15,5 @@ USAR BURACO
 YOU DIED
 You were killed by
 as
+Passive
+(hidden)
