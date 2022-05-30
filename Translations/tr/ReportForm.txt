@@ -1,6 +1,6 @@
 Oyuncuyu Raporla
 Hedef:\nOyuncu ID\nAçıklama:
-İptal
+Cancel
 Sunucu kurallarını çiğnemekten raporla
 Saldırıdan veya hileden dolayı raporla
 RAPORLANIYOR
