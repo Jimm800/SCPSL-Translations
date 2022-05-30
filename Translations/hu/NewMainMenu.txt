@@ -1,93 +1,93 @@
-Hírek
-Szerverek
-Beállítások
-Kilépés
-Közösségi Média
+News
+Servers
+Settings
+Quit
+Social Media
 Internet
-Kedvencek
-Hivatalos
-Korábbi szerverek
-Barátok
-Szerverek keresése
-Szerver létrehozása
-Újracsatlakozás
-Közvetlen csatlakozás
-Frissítés
-Üres szerverek elrejtése
-Teli szerverek elrejtése
-Whitelist nélkül
-Videó
-Hang
-Irányítás
-Játékmenet
-Egyebek
-Ablakos Mód
-Teljes képernyő
-Keret nélküli ablak
-Teljes képernyős ablak
-Ablakos mód
+Favourites
+Official
+History
+Friends
+Search Servers
+Create Server
+Re-Join
+Direct Connect
+Refresh
+Hide Empty Games
+Hide Full Games
+No Whitelist
+Video
+Audio
+Controls
+Gameplay
+Others
+Window Mode
+Exclusive Fullscreen
+Borderless Window
+Maximized Window
+Windowed
 V-Sync
 FPS Limit
-Kikapcsolva
-Textúra minősége
-Matricák
-Árnyékok
-Árnyékok felbontása
-Árnyékok távolsága
-Elmosódás
-Színkorrekció
-Antianalízis
-Fényvisszaverési mód
-Főhangerő
-Hangeffektek
-Hangos csevegés
-Menü zenéje
-Felület hangereje
-Menü Témája
-Gyors intro elhalványulás
-Kamera billegése
-Sprint kapcsolása
-Pontos HP érték mutatása
-Részletes megjelenítés
-Nyilvános lobbi
-Keresés állítása
-SCP-079 - Nézeti mód kapcsolása
-SCP-079 - Utófeldolgozás
-Nyelv
-Főmenü
-Csatlakozás
-Vissza
-Ez a változtatás újraindítást igényel.\nÚjratöltöd a menüt most?
-Igen
-Nem
-Biztosan ki szeretnél lépni?
-Képernyő felbontása
-IP elrejtése
-Üdv újra, {username}!
-Stáb
-HITELESÍTÉS
-Csatlakozás a szerverekhez...
-<color=green>A kapcsolat létrejött</color>
-<color=red>Nem sikerült kapcsolódni (A részletekért nyisd meg a konzolt)</color>
-<color=red>Steam hitelesítési hiba (A részletekért nyisd meg a konzolt)</color>
-<color=red>Discord hitelesítési hiba (A részletekért nyisd meg a konzolt)</color>
-Kikapcsolva
-{0} másodperc
-Holttestek törlési ideje
-Steam Profil megjelenítése
-Lehetővé teszi más játékosok számára a Steam profilod megtekintését, ha a játékoslistán lévő ikonra kattintanak.
+Off
+Texture Quality
+Decals
+Shadows
+Shadow Resolution
+Shadow Distance
+Motion Blur
+Color Correction
+Anti Aliasing
+Render Lights
+Master Volume
+Sound Effects
+Voice Chat
+Menu Music
+Interface Volume
+Menu Theme
+Fast Intro Fade
+Head Bob
+Toggle Sprint
+Display Exact HP Value
+Rich Presence
+Public Lobby
+Toggle Search
+SCP-079 - Toggle View Mode
+SCP-079 - Post-Processing
+Language
+Main Menu
+Connect
+Back
+This change will require a reload.\nReload the menu now?
+Yes
+No
+Are you sure you want to quit?
+Screen Resolution
+Hide IP
+Welcome back, {username}!
+Credits
+AUTHENTICATING
+Connecting to central servers...
+<color=green>Connection established</color>
+<color=red>Connection failure (Check console for details)</color>
+<color=red>Steam authentication failure (Check console for details)</color>
+<color=red>Discord authentication failure (Check console for details)</color>
+Disabled
+Seconds
+Ragdoll Cleanup Time
+Display Steam Profile
+Allows players to view your Steam profile by clicking an icon on the player list.
 Do Not Track (DNT)
-Megtiltja a szerver számára az adataid felhasználását (IP cím, felhasználó ID, stb.) amelyek nem szükségesek a számára.
-Grafikus API
-A játékszerverek létrehozása közvetlenül a játékból már nem lehetséges.\nJelenleg 3 féleképpen lehet SCP:SL Szervert készíteni:\n- Letöltheted az SCP:SL dedikált szervert (Steam AppID: 996560) és futtathatod a számítógépeden.\n- Bérelhetsz egy VPS-t vagy dedikált szervert egy tárhelyszolgáltatótól és azon futtathatod az SCP:SL dedikált szervert\n- Bérelhetsz egy SCP:SL szervert egy jétékszerver szolgáltatótól, amely támogatja az SCP:SL-t (pl. ZAP Hosting)\n\nKattints a linkre további információkért.\nSegítségül hívhatod a tech support csapatunkat (link a Discord szerverünkhöz a főmenüben található).
-LÉTREHOZÁS MINDENKÉPPEN
-ITT OLVASHATSZ BŐVEBBEN
-SZERVER BÉRLÉSE
-VISSZA
-Másodperc
-Hogy a játékunkkal játszol!
-Tálca villogása újraéledéskor
-Környezeti Elzáródás
-Volumetrikus Fények
-Ragyogás
-Feliratok Kapcsolása
+Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.
+Graphics API
+Creating game servers directly from the game is no longer supported.\nThere are currently 3 ways of creating a SCP:SL server:\n- You can download SCP:SL dedicated server (Steam AppID: 996560) and run it on your computer\n- You can rent a VPS or a Dedicated Server from a hosting provider and run SCP:SL dedicated server there\n- You can rent a SCP:SL server from a game hosting provider that supports SCP:SL (eg. ZAP Hosting)\n\nClick the links below to get more info.\nYou can ask our tech support (link to our Discord server can be found in the main menu) for assistance.
+CREATE ANYWAY
+READ MORE
+RENT A SERVER
+CANCEL
+Second
+For playing our game!
+Flash Taskbar On Spawn
+Ambient Occlusion
+Volumetric Lights
+Bloom
+Toggle Subtitles
