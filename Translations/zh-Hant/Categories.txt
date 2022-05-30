@@ -3,8 +3,8 @@
 醫療物品
 無線電
 槍械
-投擲物
+Grenades
 SCP項目
 Micro H.I.D.
-彈藥
-防彈衣 
+防彈衣
+Body Armor
