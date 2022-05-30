@@ -1,8 +1,8 @@
-Mobile Task Force Unit Epsilon-11 aangewezen [designation] is de faciliteit binnengegaan. <splitsing>Al het overblijvende personeel wordt geadviseerd door te gaan met de standaard evacuatieprotocollen totdat een MTF squad uw bestemming bereikt.<split>
+<splitsing>Al het overblijvende personeel wordt geadviseerd door te gaan met de standaard evacuatieprotocollen totdat een MTF squad uw bestemming bereikt.<split>
 In afwachting van heropsluiting van: [count] SCP-Objecten.
 In afwachting van heropsluiting van 1 SCP-Object.
 Aanzienlijke bedreiging voor de veiligheid blijft binnen de faciliteit - wees voorzichtig.
-met succes geëlimineerd. Oorzaak eliminatie niet gespecificeerd.
+succesvol heropgesloten. Oorzaak eliminatie niet gespecificeerd.
 geëlimineerd door SCP-[scp].
 succesvol geëlimineerd door Automatisch Beveligingssysteem.
 succesvol geëlimineerd door Alpha Warhead.
@@ -10,7 +10,7 @@ succesvol geëlimineerd door Wetenschapspersoneel
 succesvol geëlimineerd door D-Klasse Personeel
 succesvol geëlimineerd door Chaos Insurgency
 SCP-[scp]
-succesvol heropgesloten. Heropsluitunit onbekend.
+met succes geëlimineerd. Heropsluitunit onbekend.
 succesvol heropgesloten. Heropsluitunit [designation].
 verloren in Ontsmettingsprocedure.
 [current] van de [max] generators geactiveerd.
