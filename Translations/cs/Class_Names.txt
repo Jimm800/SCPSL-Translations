@@ -1,21 +1,21 @@
 SCP-173
-Personál třídy-D
-Divák
+Class-D Personnel
+Spectator
 SCP-106
-Nine-Tailed Fox Specialista
+Nine-Tailed Fox Specialist
 SCP-049
-Vědec
+Scientist
 SCP-079
-Vzbouřenec chaosu Branec
+Chaos Insurgency Conscript
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Seržant
-Nine-Tailed Fox Kapitán
-Nine-Tailed Fox Vojín
-Tutoriál
+Nine-Tailed Fox Sergeant
+Nine-Tailed Fox Captain
+Nine-Tailed Fox Private
+Tutorial
 Facility Guard
 SCP-939-53
 SCP-939-89
-Vzbouřenec chaosu Střelec
-Vzbouřenec chaosu Represor
-Vzbouřenec chaosu Nájezdník
+Chaos Insurgency Rifleman
+Chaos Insurgency Marauder
+Chaos Insurgency Repressor
