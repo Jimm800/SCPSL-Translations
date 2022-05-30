@@ -1,17 +1,21 @@
-Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
 Fuja da instalação\nCoopere com os <color=#008f1e>Chaos Insurgency</color>\nEvite outros times.
 Você será respawnado logo.
 Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
-Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nElimine outros sujeitos
+Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nElimine outros sujeitos \nFollow the orders of your superiors.
 Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
-Fuja da instalação\nCoopere com os <color=#0096FF>MTF</color>\nEvite outros times.
+Ajude os <color=#FFFF7CFF>cientistas</color> a escapar\nCoopere com os <color=#0096FF>MTF</color>\nElimine outros sujeitos
 Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
 Ajude os <color=#FF8E00>Class-D Personnel</color> a escapar\nElimine outros sujeitos
 Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
 Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
-Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nElimine outros sujeitos
+Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nElimine outros sujeitos \nFollow the orders of your captain.
 Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nElimine outros sujeitos
 Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nElimine outros sujeitos
 Siga as tarefas para concluir.
-Ajude os <color=#FFFF7CFF>cientistas</color> a escapar\nCoopere com os <color=#0096FF>MTF</color>\nElimine outros sujeitos
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
+Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
+Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
