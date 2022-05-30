@@ -1,30 +1,30 @@
-Ateş et
-Yakınlaştır
 Zıpla
-Etkileşim
-Envanter
-Şarjör değiştir
+Yakınlaştır
 Koş
+Etkileşim
+Inventory
+Şarjör değiştir
+Run
 Sesli Sohbet
-Yavaş Yürüme
-İleri Hareket
+İncele
 Geri Hareket
-Sola Hareket
 Sağa Hareket
+Sola Hareket
+İleri Hareket
 Oyuncu Listesi
 Karakter Bilgisi
 Admin Paneli
-Fener Aç/Kapa
-Alternatif Sesli Sohbet
+Toggle Flashlight
+Alt Voice Chat
 Noclip
 Konsol
-Kart Kısayolu
-İncele
-Altıpatlar Kurma
-Eşya Fırlatma
+Keycard Hotkey
+Inspect
+Cock Revolver
+Throw Item
 Birincil Silah Kısayolu
 İkincil Silah Kısayolu
-Tıbbi Eşya Kısayolu
+Medical Hotkey
 Oyun Arayüzünü Gizle
 Noclip Sisini Değiştir
-Bomba Kısayolu
+Grenade Hotkey
