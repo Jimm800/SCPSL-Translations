@@ -1,4 +1,4 @@
 光源照明
 彈量計數器
-槍口消焰
+Flash Suppression
 夜視裝置
