@@ -1,92 +1,93 @@
-Novinky
-Servery
-Nastavení
-Odejít
-Sociální sítě
+News
+Servers
+Settings
+Quit
+Social Media
 Internet
-Oblíbené
-Oficiální
-Historie
-Přátelé
-Hledat server
-Vytvořit server
+Favourites
+Official
+History
+Friends
+Search Servers
+Create Server
 Re-Join
-Přímé připojení
-Načíst znova
-Skrýt prázdné servery
-Skrýt plné servery
-Bez whitelistu
-Grafika
-Zvuk
-Ovládání
-Hratelnost
-Ostatní
-Režim Zobrazení
-Celá obrazovka
+Direct Connect
+Refresh
+Hide Empty Games
+Hide Full Games
+No Whitelist
+Video
+Audio
+Controls
+Gameplay
+Others
+Window Mode
+Exclusive Fullscreen
 Borderless Window
 Maximized Window
-V okně
+Windowed
 V-Sync
 FPS Limit
-Vypnuto
-Kvalita textur
-Obtisky
-Stíny
-Rozlišení stínů
-Vzdálenost stínů
-Rozostření pohybu
-Korekce barev
+Off
+Texture Quality
+Decals
+Shadows
+Shadow Resolution
+Shadow Distance
+Motion Blur
+Color Correction
 Anti Aliasing
-Vykreslení světla
-Hlavní hlasitost
-Zvukové efekty
-Hlasová komunikace
-Hlasitost v menu
-Hlasitost rozhraní
-Nabídka zvuk menu
-Rychlé zmizení úvod.třídy
-Houpání kamery při chůzi
-Přepínaní sprintu
-Zobrazování přesné hodnoty HP
+Render Lights
+Master Volume
+Sound Effects
+Voice Chat
+Menu Music
+Interface Volume
+Menu Theme
+Fast Intro Fade
+Head Bob
+Toggle Sprint
+Display Exact HP Value
 Rich Presence
-Veřejná lobby
+Public Lobby
 Toggle Search
-SCP-079 - Přepnutí režimu zobrazení
-SCP-079 - Následné zpracování
-Jazyk
-Hlavní menu
-Připojit
-Zpět
-Tato změna bude vyžadovat opětovné načtení. \n Chcete znovu načíst nabídku?
-Ano
-Ne
-Jste si jisti, že chcete opustit hru?
-Rozlišení obrazovky
-SCHOVAT IP
-Vítej zpět, {username}!
+SCP-079 - Toggle View Mode
+SCP-079 - Post-Processing
+Language
+Main Menu
+Connect
+Back
+This change will require a reload.\nReload the menu now?
+Yes
+No
+Are you sure you want to quit?
+Screen Resolution
+Hide IP
+Welcome back, {username}!
 Credits
-AUTENTIFIKACE
-Připojení k centrálním serverům...
-<color=green>Spojení navázáno</color>
-<color=red>Selhání připojení (Podrobnosti najdete v konzole)</color>
-<color=red>Selhání autentizace Steam (Podrobnosti najdete v konzole)</color>
-<color=red>Selhání autentizace Discordu (Podrobnosti najdete v konzole)</color>
-Deaktivováno
-Sekund
-Čas vyčištění mrtvol ve hře
-Zobrazit profil služby Steam
-Umožňuje hráčům zobrazit váš profil Steam kliknutím na ikonu v seznamu hráčů.
-Nesledovat (DNT)
-Zakazuje serveru používat vaše data (IP adresa, ID uživatele atd.) Za účelem, který nesouvisí se zabezpečením serveru.
-Grafické API
-Vytváření herních serverů přímo ze hry již není podporováno. \nV současné době existují 3 způsoby, jak vytvořit server SCP: SL: \n- Můžete si stáhnout dedikovaný server SCP: SL (Steam AppID: 996560) a spustit jej v počítači \n- Můžete si pronajmout VPS nebo dedikovaný server od poskytovatele hostingu a spustit tam dedikovaný server SCP: SL \n- Můžete si pronajmout server SCP: SL od poskytovatele hostování her, který podporuje SCP: SL (např. ZAP Hosting) \n\nDalší informace získáte kliknutím na níže uvedené odkazy. \nMůžete požádat o naši technickou podporu (odkaz na náš server Discord najdete v hlavní nabídce).
-STEJNĚ VYTVOŘ
-PŘEČTI SI VÍCE
-PRONÁJEM SERVERU
-ZRUŠIT
-Sekund
-Za hraní naší hry!
-Probliknutí Hlavního Panelu Při Spuštění
+AUTHENTICATING
+Connecting to central servers...
+<color=green>Connection established</color>
+<color=red>Connection failure (Check console for details)</color>
+<color=red>Steam authentication failure (Check console for details)</color>
+<color=red>Discord authentication failure (Check console for details)</color>
+Disabled
+Seconds
+Ragdoll Cleanup Time
+Display Steam Profile
+Allows players to view your Steam profile by clicking an icon on the player list.
+Do Not Track (DNT)
+Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.
+Graphics API
+Creating game servers directly from the game is no longer supported.\nThere are currently 3 ways of creating a SCP:SL server:\n- You can download SCP:SL dedicated server (Steam AppID: 996560) and run it on your computer\n- You can rent a VPS or a Dedicated Server from a hosting provider and run SCP:SL dedicated server there\n- You can rent a SCP:SL server from a game hosting provider that supports SCP:SL (eg. ZAP Hosting)\n\nClick the links below to get more info.\nYou can ask our tech support (link to our Discord server can be found in the main menu) for assistance.
+CREATE ANYWAY
+READ MORE
+RENT A SERVER
+CANCEL
+Second
+For playing our game!
+Flash Taskbar On Spawn
 Ambient Occlusion
-Volumetrická světla
+Volumetric Lights
 Bloom
+Toggle Subtitles
