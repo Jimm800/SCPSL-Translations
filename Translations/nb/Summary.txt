@@ -1,17 +1,17 @@
-Runden er ferdig!
-SCPENE VANT
-MTF VANT
-OPPRØRSBEVEGELSEN VANT
-FASTLÅST SITUASJON
-Alle rømte subjekter er mistet. Nødetater er blitt avlyst.
-All trussel er uskadeliggjort. Dette fasilitetet er trygt igjen.
-Alt sikkerhetspersonell uskadeliggjort. Opprørs-okkupasjon i gang.
-Fasilitet-02 er under usikker kontroll. Vinneren er usikker.
-[summary_d_escaped] klasse d-personell rømte
-[summary_s_escaped] forsker(e) overlevde
-Detonasjonen av Stridshode Alpha drepte [summary_warhead_kills] sjeler.
-Stridshode Alpha ble ikke detonert i løpet av dette oppdraget.
-Oppdraget varte i [summary_round_minutes] minutter og [summary_round_seconds] sekunder.
-[summary_scp_terminated] uskadeliggjorte SCPer
-Neste runde om [summary_next_round_countdown] sekunder.
-SCPene drepte [summary_scpfrags] mennesker.
+The round has finished!
+SCPS WIN
+FOUNDATION WINS
+INSURGENCY WINS
+STALEMATE
+The escaped subjects have overrun the facility. Emergency response has been scrambled.
+All threats to safety have been neutralized. Site-02 is secure once again.
+Foundation presence has been exterminated. Operatives standing by for further orders.
+Site-02 is under certain control, but not without cost. The victor is undetermined.
+[summary_d_escaped] class-d escaped
+[summary_s_escaped] scientist(s) survived
+The Alpha Warhead's detonation terminated [summary_warhead_kills] beings.
+The Alpha Warhead was not detonated during this mission.
+The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+[summary_scp_terminated] terminated SCPs
+Next round in [summary_next_round_countdown] seconds.
+The SCPs killed [summary_scpfrags] human beings.
