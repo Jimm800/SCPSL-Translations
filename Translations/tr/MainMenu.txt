@@ -1,49 +1,49 @@
-KATIL
+OYNA
 KAPAT
-GÖLGE ÇÖZÜNÜRLÜĞÜ
-AYARLAR
+EKRAN ÇÖZÜNÜRLÜĞÜ
+DETAYLAR
 <i>SCP: CONTAINMENT BREACH</i>'TEN ESİNLENİLMİŞTİR.
+AYARLAR
 GERİ
-DİL
-KENAR YUMUŞATMA
+EKRAN AYARLARI
 Detayları değiştir:\n-PİKSEL IŞIK SAYISI - Işıklarını ayrı piksellerde veren maksimum ışık kaynağı sayısı.\n-Dikey Senkronizasyon - Görüntüleme cihazının yenileme hızı ile senkronizasyonu etkinleştirin.
-OYUNA KATIL
+OYUN OLUŞTUR
 İŞLEM\nSONRASI
-JENERİK
+OYNANIŞ AYARLARI
 OYUNDAN ÇIK
 Tam Ekran Modu
-EKRAN AYARLARI
-RENK DOĞRULUĞU
+KALİTE AYARLARI
+KOŞUYA GEÇİŞ
 IP Adresi Giriniz...
-EKRAN ÇÖZÜNÜRLÜĞÜ
-OYNA
+GÖLGE ÇÖZÜNÜRLÜĞÜ
+UYARI
 PİKSEL IŞIK SAYISI
-GÖLGE TİPİ
-GÖLGELER
-OYUN OLUŞTUR
+SESLİ SOHBET
+TUŞ ATAMA
+CREATE GAME
 İşlem sonrası ayarlarını değiştirmek. Bu ayarlar genellikle performansı etkilemez, varsayılan değerlerin bırakılması önerilir.
 Işık işleme modu:\nKapalıyken, grafik kalitesi önemli ölçüde azalır. Bu ayarın devre dışı bırakılması yalnızca düşük kaliteli bilgisayarlar için önerilir.
-Dikey Senkronizasyon
+ANA SES
 BAĞLAN
-KALİTE AYARLARI
-Gölge ayarlarını değiştirmek performansınızı etkileyebilir.
-ANA MENÜ
-IŞIK İŞLEME MODU
-HAREKET BULANIKLIĞI
 GÖLGE MESAFESİ
-DETAYLAR
+Gölge ayarlarını değiştirmek performansınızı etkileyebilir. Setting these sliders at lower values may increase gameplay smoothness.
+MENÜ MÜZİĞİ
+GÖLGE TİPİ
+HAREKET BULANIKLIĞI
+KAFA SALLANMASI
+DİL
 3. SCP-914
 ÖĞRETİCİLER
-UYARI
+VERİ İNDİRİLİYOR
 Mevcut sunuculara göz atın
 Bunu bir daha gösterme
 Nasıl bağlanmak istersin?
-SUNUCU TARAYICISI
-TAMAM
+SERVER BROWSER
+KATIL
 MAÇ BUL
 2. Silah Kullanımı
 Discord'u forum olarak kullanıyoruz. Yükleme gerektirmez.\n(Katılmak için logoya tıklayın)
-Varsayılan ayarlarda sunucu yerel ağ üzerinde kurulacaktır. \nArkadaşlarının bağlanabilmesi için bir IP adresine ihtiyacı olacak.\nEğer bir topluluk sunucusu kurmak istiyorsanız LocalAdmin.exe'yi seçip talimatları takip edin. \nEğer herhangibir sorunuz varsa teknik desteğimize başvurabilirsiniz. (Link Ana menüde)
+\nArkadaşlarının bağlanabilmesi için bir IP adresine ihtiyacı olacak.\nEğer bir topluluk sunucusu kurmak istiyorsanız LocalAdmin.exe'yi seçip talimatları takip edin.
 1. Temeller
 Sunduğumuz oyun hala toplu betadadır\nBazı bağlantı problemleri ve oyun hataları deneyimleyebilirsiniz.\nŞuanki durum son versiyonu yansıtmayabilir.
 4. (İleride daha fazla rehber eklenecektir)
@@ -51,48 +51,48 @@ DOĞRUDAN BAĞLAN
 TEKNİK DESTEK / FORUM
 SES DÜZEYİ
 Giriş yapmak istediğiniz sunucunun IP adresini giriniz.
-VERİ İNDİRİLİYOR
-MEVCUT BİR SUNUCU BULUNAMADI
+SUNUCU TARAYICISI
+NO SERVERS AVAILABLE
 KAPATMAK İÇİN ESC'YE BASINIZ / İPTAL
-TUŞ ATAMA
 MAKSİMUM KAN MİKTARI
+MAX BLOOD AMOUNT
 FPS Limiti
 FPS Limiti dikey senkronizasyon aktif iken çalışmaz!
-Varsayılana Ayarla
+Set Default
 Steam tartışmalarını forum olarak kullanıyoruz. (Alttaki logoya tıklayarak foruma ulaşabilirsiniz)
 SES AYARLARI
-ANA SES
-MENÜ MÜZİĞİ
-SESLİ SOHBET
+TAMAM
+MENU MUSIC
+VOICE CHAT
 SES EFEKTLERİ
-OYNANIŞ AYARLARI
-HIZLI TANITIM SOLGUNLAŞTIRMASI
+GÖLGELER
+VARLIK ZENGİNLEŞTİRME
 Sınıf tanıtım metni daha çabuk kaybolur.
 SCP-079 - GÖRÜNÜM MODUNU DEĞİŞTİR
 Kamera modları arasında geçiş yapmak için bir kere basınız.
 SCP-079 - İŞLEM-SONRASI
 Devre dışı bırakılırsa, kamera efektleri çok azalır.
-KAFA SALLANMASI
+TOPLULUK LOBİSİ
 Birinci şahıs kamerasının hareket halinde sallanmasını etkinleştirir.
-KOŞUYA GEÇİŞ
-Koşmak için basılı tutmak yerine, aç-kapa yapabilirsin.
+KENAR YUMUŞATMA
+Sprinting toggles on and off, instead of being held down.
 HP ÇUBUĞUNU YAPAY AYIRMA
 HP'na sahte bir kaplama yerine kendi sağlık çubuğunu verir.
 Çevirilerimiz GitHub'da açık kaynak kodludur!\nYardım etmek ister misin? Depoya erişmek için buraya tıklayın.
-VARLIK ZENGİNLEŞTİRME
+JENERİK
 Aktifleştirildiğinde bilgilerin Steam ve Discord üzerinden gösterilir.
 ASIL HP DEĞERİNİ GÖSTER
 HP değerini yüzde olarak göstermek yerine asıl değerini gösterir.
-TOPLULUK LOBİSİ
+PUBLIC LOBBY
 Etkinleştirildiğinde, Steam arkadaşlarınız izin almadan size katılabilirler.
 IP GİZLE
 Etkinleştirildiğinde, herhangibir IP işlemci konsolunda gösterilmez.
-ARAT
+TOGGLE SEARCH
 Eşya almak basılı bir tuş gerektirmez; iptal etmek için tekrar basın.
 Modellere daha fazla derinlik kazandırmak için köşelere ve dar alanlara yumuşak gölgeler uygular.
 Performansı fazlaca kullanarak çevreye daha fazla derinlik kazandırır.
 Işık yoğunluğuna göre bir ışıma uygulayarak aydınlatmaya daha fazla derinlik verir.
-Cassie anonslarının altyazılarını görmek için bu ayarı açın.
+Toggle to show subtitles for cassie announcements.
 Oyun altta iken doğduğunuzda görev çubuğu yanıp söner.
 Çizgileri yumuşatır ve görsel bozulmaları ortadan kaldırır.
 Ekran yırtılmasını durdurmak için oyun içi kare hızını monitörünüzün yenileme hızıyla senkronize eder.
