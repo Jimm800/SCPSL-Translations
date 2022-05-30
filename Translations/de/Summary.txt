@@ -1,8 +1,8 @@
 Die Runde ist beendet!
-<size=100>SCPs HABEN GEWONNEN</size>
-<size=100>FOUNDATION HAT GEWONNEN</size>
-<size=100>INSURGENCY HAT GEWONNEN</size>
-<size=100>UNENTSCHIEDEN</size>
+SCPS WIN
+FOUNDATION WINS
+INSURGENCY WINS
+STALEMATE
 Die entkommenen Subjekte haben die Einrichtung überrannt. Notfallmaßnahmen wurden eingeleitet.
 Alle Sicherheitsbedrohungen wurden neutralisiert. Site-02 ist nun wieder sicher.
 Foundation Präsenz wurde vernichtet. Einsatzkräfte stehen bereit für weitere Befehle.
