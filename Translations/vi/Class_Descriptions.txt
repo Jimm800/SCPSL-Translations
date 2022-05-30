@@ -1,21 +1,21 @@
-Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP</color><color=#ffff00>\nNhấn chuột trái+W và nhắm vào mục tiêu để giết.\nLượng máu càng thấp thì tốc độ sẽ càng nhanh.</color>
-Thoát khỏi cơ sở giam giữ.\nHợp tác với <color=#008f1e>Chaos Insurgency.</color>\nTránh các phe khác.
-Bạn sẽ sớm hồi sinh.
-Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP</color><color=#ffff00>\nNhấn chuột trái+W và nhắm vào mục tiêu để giết.\nBạn có thể đi xuyên qua cửa.\nNhấn chuột trái để tấn công và dịch chuyển mục tiêu đến không gian của bạn.\nNhấn Tab để mở Menu kĩ năng.</color>
-Giúp <color=#FFFF7CFF>Nhà khoa học</color> thoát hiểm.\n Tiêu diệt các phe khác.\nChỉ huy cấp dưới.\nTuân Lệnh cấp trên.
-Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP</color><color=#ffff00>\nNhấn chuột trái vào mục tiêu để giết ngay lập tức.\nTương tác với người mới chết để hồi sinh họ.</color>
-Thoát khỏi cơ sở giam giữ.\nHợp tác với <color=#008f1e>Chaos Insurgency.</color>\nTránh các phe khác.
-Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP.</color>
-Giúp <color=#FF8E00>Tù nhân</color> tẩu thoát. Tiêu diệt các phe khác.
-Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP.</color>
-Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP.</color>Nhấn chuột trái để tấn công mục tiêu.</color>
-Giúp <color=#FFFF7CFF>Nhà khoa học</color> thoát hiểm.\n Tiêu diệt các phe khác.\nChỉ huy cấp dưới.\nTuân lệnh cấp trên.
-Giúp <color=#FFFF7CFF>Nhà khoa học</color> thoát hiểm.\n Tiêu diệt các phe khác.\nChỉ huy cấp dưới.
-Giúp <color=#FFFF7CFF>Nhà khoa học</color> thoát hiểm.\n Tiêu diệt các phe khác.\nTuân lệnh cấp trên.
-Hoàn thành các nhiệm vụ để hoàn thành mục tiêu.
-Giúp <color=#FFFF7CFF>Nhà khoa học</color> thoát hiểm.\nHợp tác với các <color=#0096FF>MTF</color>\nTiêu diệt các phe khác.
-Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP.</color>
-Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP.</color>
-Giúp <color=#FF8E00>Tù nhân</color> tẩu thoát.\nTiêu diệt các mục tiêu còn lại.
-Giúp <color=#FF8E00>Tù nhân</color> tẩu thoát.\nTiêu diệt các mục tiêu còn lại.
-Giúp <color=#FF8E00>Tù nhân</color> tẩu thoát.\nTiêu diệt các mục tiêu còn lại.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nHold your aim key while being observed to blink.\nYou resist some damage from gunfire, and have a regenerating shield.</color>
+Escape from the facility.\nCooperate with the <color=#008F1e>Chaos Insurgency.</color>\nAvoid other teams.
+You will respawn soon.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nYou can walk through doors.\nLeft click hurts and TPs enemies to your dimension.\nHold TAB to access your TP abilities.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your superiors.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to insta-kill enemies with a short cooldown.\nInteract with a recently-dead human to revive them as an ally.</color>
+Escape from the facility.\nCooperate with the <color=#0096FF>MTF.</color>\nAvoid other teams.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to attack with a short windup.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your captain.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nFollow the orders of your superiors.
+Follow the tasks to complete your objective.
+Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
