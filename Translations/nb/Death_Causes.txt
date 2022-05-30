@@ -1,22 +1,22 @@
-Vaporisert av Alpha Warhead.
-Knekte ben og føtter antyder at dødelig skade ble forårsaket av et fall.
-Tegn på alvorlig trauma i bein i begge lårbein antyder død ved sirkulatorisk sjokk.
-Forfalt i Lomme-Dimensjonen.
-Det er rester av SCP-106.
-Alvorlig elektriske brannskader.
-Dødelig stump vold; kroppen er svært forslått og blodig.
-[ammotype] skuddsår.
-Avorlige brudd ved foten av hodeskallen.
-Store mengder vevsnedbrytning forekommer på kroppen.
-Plutselig opphør av livsstegn. Ingen klare traumer.
-Ukjent dødsårsak.
-Det er <b>[user]</b> sin kropp - de var [class]!\n\nÅrsak til død: [cause]
-Massive kutt og store blodtap.
-Store og dype bitemerker på kroppen kan observeres.
-Smeltet av et svært korroderende stoff.
-Fragmentering og kraftig forbrenning forårsaket av eksplosjon.
-Blek hud og blod fra munnen tyder på indre blødninger forårsaket av stoffinntak.
-Innesperret.
-Stump vold og mindre kutt finnes på kroppen.
-Alvorlig blodtap forårsaket av dype sår.
-Sykelig gul hud og et harsk lukt tyder på død av gift.
+Vaporized by the Alpha Warhead.
+Shattered legs and feet suggest fatal trauma caused by a fall.
+Signs of severe trauma to both femur bones suggests death by circulatory shock.
+Decayed in the Pocket Dimension.
+It's remnants of SCP-106.
+Severe electrical burns.
+Fatal blunt trauma; the body is badly mutilated and pulped.
+[ammotype] bullet wounds.
+Cervical fracture at the base of the skull.
+Massive amounts of tissue decay are present on the body.
+Sudden cessation of life signs. No clear trauma.
+Unknown cause of death.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Massive lacerations and excessive blood loss.
+Large, deep bite marks on the body can be observed.
+Melted by a highly corrosive substance.
+Shrapnel and severe burns caused by an explosion.
+Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
+Recontained.
+Blunt trauma and minor scratches are present on the body.
+Severe blood loss caused by deep wounds.
+Sickly yellow skin and a rancid smell suggests death by poison.
