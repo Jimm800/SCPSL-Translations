@@ -1,17 +1,17 @@
 SCP-173
 D계급 인원
-관전자
+Spectator
 SCP-106
-구미호 상등병
+Nine-Tailed Fox Specialist
 SCP-049
 과학자
 SCP-079
 혼돈의 반란 징집병
 SCP-096
 SCP-049-2
-구미호 병장
-구미호 대위
-구미호 이등병
+Nine-Tailed Fox Sergeant
+Nine-Tailed Fox Captain
+Nine-Tailed Fox Private
 튜토리얼
 시설 경비
 SCP-939-53
