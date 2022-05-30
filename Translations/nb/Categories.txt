@@ -1,10 +1,10 @@
-Ingen
-Nøkkelkort
-Legemidler
+None
+Keycard
+Medical Items
 Radio
-Skytevåpen
-Granater
-SCP-Elementer
+Firearms
+Grenades
+SCP Items
 Micro H.I.D.
-Ammunisjon
-Kroppsbeskyttelse
+Ammo
+Body Armor
