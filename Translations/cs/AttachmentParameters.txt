@@ -1,19 +1,21 @@
-ADS míření
+ADS zoom
 ---
-Poškození
-Průbojnost munice
-Rychlost střelby
-Zpětný ráz
-Zpětný ráz při míření
-Přesnost střel
-Přesnost při střelbě bez míření
-Přesnost míření
-Rychlost zařízení zbraně
-Hlasitost střelby
-Kapacita zásobníku
-Doba vybavení
-Doba dobití
+Damage
+Penetration
+Fire rate
+Recoil
+Recoil when aiming
+Bullet accuracy
+Hip-firing accuracy
+Aiming accuracy
+Equip time
+Gunshot loudness
+Magazine capacity
+Equip time
+Reload time
 ---
-Rychlost míření
-Rozptyl kulek
-Konzistence vzoru
+Aiming speed
+Pellet spread
+Pattern consistency
+Projectiles number
+Reload speed
