@@ -1,5 +1,5 @@
-KUOLIT
-Paina {KEYBINDING_INTERACTION} asettaaksesi <color=yellow>aseiden hallintatabletin</color>.
-Paina {KEYBINDING_INTERACTION} ottaaksesi <color=yellow>aseiden hallintatabletin</color>.
-Tällä <color=yellow>työpisteellä</color> on jo jonkun muun <color=yellow>aseiden hallintatabletti</color> yhdistettynä.
-Tarvitset <color=yellow>aseiden hallintatabletin</color> käyttääksesi <color=yellow>työpistettä</color>.
+YOU DIED
+Press {KEYBINDING_INTERACTION} to place the <color=yellow>Weapon Manager Tablet</color>.
+Press {KEYBINDING_INTERACTION} to pick up the <color=yellow>Weapon Manager Tablet</color>.
+This <color=yellow>workstation</color> already has someone else's <color=yellow>Weapon Manager Tablet</color> connected.
+You need a <color=yellow>Weapon Manager Tablet</color> to use this <color=yellow>workstation</color>.
