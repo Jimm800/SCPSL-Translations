@@ -1,4 +1,4 @@
 Işık Kaynağı
-Mermi Sayacı
-Ateş Gizleyici
+Ammo Counter
+Flash Suppression
 Gece Görüş
