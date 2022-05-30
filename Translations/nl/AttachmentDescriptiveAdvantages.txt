@@ -1,4 +1,4 @@
 Lichtbron
-Munitieteller
-Flitsonderdrukking
+Ammo Counter
+Flash Suppression
 Nachtvisie
