@@ -2,7 +2,7 @@ Caramelle
 Caramella Rainbow
 È un pezzo duro di rock candy, confezionato con tutti i tipi di sapori.
 Concede un gran numero di piccoli bonus, tra cui rigenerazione della salute, rinvigorimento, e AHP.
-Caramella Gialla
+Yellow Candy
 L'odore travolgente del limone ti fa rabbrividire un po'.
 Consente di muoversi più velocemente e sprint più a lungo per un breve periodo di tempo.
 Caramella Viola
