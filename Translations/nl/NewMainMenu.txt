@@ -1,7 +1,7 @@
 Nieuws
 Servers
 Instellingen
-Afsluiten
+Uit
 Social Media
 Internet
 Favorieten
@@ -12,9 +12,9 @@ Zoek naar servers
 Maak een server
 Re-Join
 Direct Connect
-Ververs
-Verberg lege servers
-Verberg volle servers
+Terug
+Hide Empty Games
+Hide Full Games
 Geen Whitelist
 Video
 Audio
@@ -28,12 +28,12 @@ Volledige Venster
 Venster
 V-Sync
 FPS Limiet
-Uit
+Uitgeschakeld
 Textuur Kwaliteit
-Maximale hoeveelheid bloed
+Aftiteling
 Schaduwen
 Schaduw resolutie
-Schaduwafstand
+Shadow Distance
 Bewegingsonscherpte
 Kleurcorrectie
 Anti Aliasing
@@ -53,10 +53,10 @@ Openbare Lobby
 Wissel Zoekmodus
 SCP-079 - Schakel Weergavemodus
 SCP-079 - Nabewerking
-Taal
+Language
 Hoofdmenu
 Verbind
-Terug
+Back
 Deze optie vereist een menu herlaad.\nWilt u het menu nu herladen?
 Ja
 Nee
@@ -64,14 +64,14 @@ Weet je zeker dat je het spel wilt verlaten?
 Scherm Resolutie
 Verberg IP
 Welkom terug, {username}!
-Aftiteling
+Credits
 AUTHENTICEREN
 Verbinding maken met centrale servers...
 <color=green>Verbinding gemaakt</color>
 <color=red>Verbinding mislukt (Kijk in de console voor details)</color>
 <color=red>Steam authenticatie mislukt (Kijk in de console voor details)</color>
 <color=red>Discord authenticatie mislukt (Kijk in de console voor details)</color>
-Uitgeschakeld
+Afsluiten
 {0} Seconden
 Ragdoll Cleanup Time
 Toon Steam Profiel
@@ -79,3 +79,15 @@ Staat spelers toe om uw Steam profiel te zien door op een icoon te drukken op de
 Do Not Track (DNT)
 Verbiedt de server om uw IP te gebruiken (IP address, user ID, etc.) voor doeleinden die niet te maken hebben met de serverbeveiliging.
 Graphics API
+Creating game servers directly from the game is no longer supported.\nThere are currently 3 ways of creating a SCP:SL server:\n- You can download SCP:SL dedicated server (Steam AppID: 996560) and run it on your computer\n- You can rent a VPS or a Dedicated Server from a hosting provider and run SCP:SL dedicated server there\n- You can rent a SCP:SL server from a game hosting provider that supports SCP:SL (eg. ZAP Hosting)\n\nClick the links below to get more info.\nYou can ask our tech support (link to our Discord server can be found in the main menu) for assistance.
+CREATE ANYWAY
+READ MORE
+RENT A SERVER
+CANCEL
+Second
+For playing our game!
+Flash Taskbar On Spawn
+Ambient Occlusion
+Volumetric Lights
+Bloom
+Toggle Subtitles
