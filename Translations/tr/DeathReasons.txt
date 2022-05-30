@@ -1,18 +1,18 @@
 Bu ceset <b>[user]</b> kişisine ait - o bir [class]!\n\nÖlüm sebebi: [cause]
 Yeniden barındırıldı.
 Alfa Savaş Başlığı tarafından buharlaştırıldı.
-Yaşam belirtilerinin aniden kesilmesi. Belirli bir travma yok.
+Yaşam belirtilerinin aniden kesilmesi. No clear trauma.
 Bilinmeyen ölüm nedeni.
 Şiddetli elektrik yanıkları.
 Oksijen yoksunluğu asfiksi ölümüyle sonuçlandı.
 Derin yaraların neden olduğu ciddi kan kaybı.
-Kan kaybından öldün.
+Cep Boyutunda çürümüş.
 Parçalanmış bacaklar ve ayaklar, düşmenin neden olduğu ölümcül travmaya işaret eder.
 Düşmekten öldün.
-Cep Boyutunda çürümüş.
+Decayed in the Pocket Dimension.
 Yüksek derecede aşındırıcı bir madde tarafından eritildi.
 Hastalıklı sarı bir cilt ve kokuşmuş bir koku, zehirle ölüme işaret eder.
-Zehir ömrünü sonlandırdı.
+The poison has finished you.
 Soluk cilt ve ağızdan sızan kan, madde alımının neden olduğu iç kanamaya işaret eder.
 SCP-207 yaşamını sonlandırdı.
 İkiden fazla almamalıydın!
