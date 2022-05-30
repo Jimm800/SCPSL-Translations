@@ -5,15 +5,17 @@ Penetratie
 Vuursnelheid
 Terugslag
 Terugslag tijdens Richten
-Kogelaccuratie
-Heupvuuraccuratie
-Richtaccuratie
+Bullet accuracy
+Hip-firing accuracy
+Aiming accuracy
 Uitrusttijd
-Schotvolume
-Magazijn Grootte
+Gunshot loudness
+Magazine capacity
 Uitrusttijd
 Herlaadtijd
 ---
 Richtsnelheid
 Korrelverspreiding
 Patroonconsistentie
+Projectiles number
+Reload speed
