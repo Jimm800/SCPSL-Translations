@@ -1,11 +1,11 @@
 Il round è finito!
-Gli SCP hanno vinto
+SCPS WIN
 LA FONDAZIONE HA VINTO
 LA CHAOS INSURGENCY HA VINTO
 PAREGGIO
-Tutti i soggetti evasi sono dispersi. I soccorsi sono stati disturbati.
+I soccorsi sono stati disturbati. Emergency response has been scrambled.
 Tutte le minacce neutralizzate. Questo Sito è ora di nuovo sicuro.
-La presenza all'interno della Fondazione è stata eliminata. L'occupazione da parte della Chaos Insurgency è ora in corso.
+La presenza all'interno della Fondazione è stata eliminata. Operatives standing by for further orders.
 Il Sito-02 è sotto controllo incerto. Il vincitore rimane indeterminato.
 [summary_d_escaped] Classe D scappati
 [summary_s_escaped] Scienziati scappati.
