@@ -1,10 +1,10 @@
-Nimic
-Cartelă de Acces
-Obiecte Medicale
+None
+Keycard
+Medical Items
 Radio
-Arme
-Grenade
-Obiecte SCP
+Firearms
+Grenades
+SCP Items
 Micro H.I.D.
-Amuniție
-Armură
+Ammo
+Body Armor
