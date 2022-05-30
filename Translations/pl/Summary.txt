@@ -3,10 +3,10 @@ SCP WYGRYWA
 FUNDACJA WYGRYWA
 REBELIA WYGRYWA
 SYTUACJA PATOWA
-Uciekłe podmioty opanowały całą placówkę. Zarządzanie kryzysowe zostało zainicjowane.
-Zneutralizowano zagrożenie. Ośrodek 02 jest ponownie bezpieczny.
+Uciekłe podmioty opanowały całą placówkę. Zneutralizowano zagrożenie.
+All threats to safety have been neutralized. Ośrodek 02 jest ponownie bezpieczny.
 Cały personel fundacji został zgładzony. Żołnierze oczekują dalszych rozkazów.
-Ośrodek 02 jest pod niepewną kontrolą. Zwycięzca zostaje nieokreślony.
+Site-02 is under certain control, but not without cost. Zwycięzca zostaje nieokreślony.
 [summary_d_escaped] klas d uciekło
 [summary_s_escaped] naukowców przetrwało
 Eksplozja głowicy Alfa unicestwiła [summary_warhead_kills] istot.
