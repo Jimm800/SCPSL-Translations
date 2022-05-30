@@ -6,12 +6,12 @@ Usare un ascensore è una via semplice per evadere da molti SCP.
 Un Classe-D evaso entrerà a far parte della Chaos Insurgency, uno Scienziato evaso diventerà della Nine-Tailed Fox.
 L'Adrenalina può essere usata per ricaricare instantaneamente la tua stamina e può darti diversi vantaggi nel combattimento.
 La radio ha 4 modifiche del raggio. Più lungo è il raggio e più velocemente si scaricherà la batteria.
-La Nine-Tailed Fox e la Chaos Insurgency spawnano alla fine opposta della Surface Zone, la prima al GateB, la seconda al GateA.
+Mobile Task Force units and Chaos Insurgents arrive at opposite ends of the Surface Zone.
 L'Alpha Warhead ucciderà instantaneamente tutti coloro che si troveranno all'interno della Struttura quando esploderà. Dovrà essere attivata dalla Surface Zone.
 La sequenza della detonazione della Alpha Warhead può essere cancellata in una stanza della Heavy Containment Zone.
 La stanza dell'Intercom si trova nella Entrance Zone e può essere usato per parlare con tutti i giocatori della Struttura.
 Potrai lancirare gli oggetti (tasto "T" di default). Questo potrà essere usata per aprire le porte con carte magnetiche o per rompere i vetri.
-La Light Containment Zone verrà bloccata dopo 15 minuti; uccidendo tutti coloro che si troveranno all'interno. Scappa finché puoi!
+La Light Containment Zone verrà bloccata dopo 15 minuti; uccidendo tutti coloro che si troveranno all'interno. Scappa finché puoi! Escape while you can!
 Massimizza il tuo vantaggio regolando gli accessori delle tue armi in base alla situazione in cui ti trovi.
 Più accessori ha un'arma su di essa, più pesante diventa. Ciò influisce sull'utilizzo della resistenza e sulla velocità di movimento.
 I soppressori non solo attutiscono i colpi, ma nascondono anche i lampi di fuoco della canna.
