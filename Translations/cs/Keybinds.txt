@@ -1,20 +1,30 @@
-Střílení
+Shoot
 Zoom
-Skočit
-Interakce
-Inventář
-Přebít zbraň
-Běžet
-Hlas. komunikace
-Plížit se
-Jít vpřed
-Jít vzad
-Jít doleva
-Jít doprava
-Seznam hráčů
-Info. o postavě
-Admin Konzole
-Zap/Vyp Svítilnu
-Hlas.K. Vysílačka
+Jump
+Interact
+Inventory
+Reload
+Run
+Voice Chat
+Sneak
+Move Forward
+Move Backward
+Move Left
+Move Right
+Player List
+Character Info
+Remote Admin
+Toggle Flashlight
+Alt Voice Chat
 Noclip
-Herní Konzole
+Game Console
+Keycard Hotkey
+Inspect
+Cock Revolver
+Throw Item
+Primary Weapon Hotkey
+Secondary Weapon Hotkey
+Medical Hotkey
+Hide GUI
+Toggle Noclip Fog
+Grenade Hotkey
