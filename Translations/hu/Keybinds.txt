@@ -1,30 +1,30 @@
-Lövés
-Célzás
-Ugrás
-Interakció
-Eszköztár
-Újratöltés
-Futás
-Hangos Csevegés
-Settenkedés
-Mozgás Előre
-Mozgás Hátra
-Mozgás Balra
-Mozgás Jobbra
-Játékoslista
-Karakter Információ
-Távoli Admin
-Zseblámpa Kapcsolása
-Alternatív Hangos Csevegés
+Shoot
+Zoom
+Jump
+Interact
+Inventory
+Reload
+Run
+Voice Chat
+Sneak
+Move Forward
+Move Backward
+Move Left
+Move Right
+Player List
+Character Info
+Remote Admin
+Toggle Flashlight
+Alt Voice Chat
 Noclip
-Játékkonzol
-Kulcskártya Gyorsbillentyű
-Megvizsgálás
-Revolver Kakas Hátraakasztása
-Tárgy Elhajítása
-Elsődleges Fegyver Gyorsbillentyű
-Másodlagos Fegyver Gyorsbillentyű
-Orvosi Gyorsbillentyű
-GUI Eltüntetése
-Noclip Köd Kapcsolása
-Gránát Gyorsbillentyű
+Game Console
+Keycard Hotkey
+Inspect
+Cock Revolver
+Throw Item
+Primary Weapon Hotkey
+Secondary Weapon Hotkey
+Medical Hotkey
+Hide GUI
+Toggle Noclip Fog
+Grenade Hotkey
