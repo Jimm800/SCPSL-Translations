@@ -1,17 +1,17 @@
-Runda s-a terminat!
-SCPS CÂȘTIGĂ
-FUNDAȚIA CÂȘTIGĂ
-INSURGENȚA CÂȘTIGĂ
-EGALITATE
-Subiecții evadați au depășit facilitatea. Răspunsul în caz de urgență a fost amestecat.
-Toate amenințările la adresa siguranței au fost neutralizate. Site-02 este din nou securizat.
-Prezența securității a fundației a fost exterminată. Agenți în așteptare pentru comenzi suplimentare.
-Site-02 este sub control sigur. Învingătorul este nedeterminat.
-Au scăpat [summary_d_escaped] clas-d
-Au supravețuit [summary_s_escaped] oameni de știință
-Detonația de Alfa Warhead a terminat [summary_warhead_kills] ființe.
-Nu a fost detonată Alfa Warhead în această misiune.
-Această misiune a durat [summary_round_minutes] (de) minute și [summary_round_seconds] (de) secunde.
-[summary_scp_terminated] SCP eliminați.
-Următoarea rundă în [summary_next_round_countdown] de secunde.
-SCP-urile au ucis [summary_scpfrags] ființe umane.
+The round has finished!
+SCPS WIN
+FOUNDATION WINS
+INSURGENCY WINS
+STALEMATE
+The escaped subjects have overrun the facility. Emergency response has been scrambled.
+All threats to safety have been neutralized. Site-02 is secure once again.
+Foundation presence has been exterminated. Operatives standing by for further orders.
+Site-02 is under certain control, but not without cost. The victor is undetermined.
+[summary_d_escaped] class-d escaped
+[summary_s_escaped] scientist(s) survived
+The Alpha Warhead's detonation terminated [summary_warhead_kills] beings.
+The Alpha Warhead was not detonated during this mission.
+The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+[summary_scp_terminated] terminated SCPs
+Next round in [summary_next_round_countdown] seconds.
+The SCPs killed [summary_scpfrags] human beings.
