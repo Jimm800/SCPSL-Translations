@@ -10,39 +10,39 @@
 ゲームに参加
 ポスト\nプロセス
 クレジット
-ゲームをやめる
+ゲーム設定
 全画面モード
 画面設定
 色彩補正
 IPアドレスを入力...
 画面解像度
 プレイ
-ピクセルごとの光源数
+PIXEL LIGHT COUNT
 影のタイプ
-影
-マッチを作成
-ポストプロセスの設定を変更します。通常これらの設定はパフォーマンスに影響を与えません。デフォルトのままにすることをお勧めします。
-光源レンダリングモード:\nオフの場合、グラフィックの品質が大幅に低下します。この設定を無効にするのは、低スペックのコンピューターに推奨されます。
-垂直同期
+SHADOWS
+ゲームをやめる
+ポストプロセスの設定を変更します。通常これらの設定はパフォーマンスに影響を与えません。デフォルトのままにすることをお勧めします。 These settings generally don't affect performance, leaving default values is recommended.
+光源レンダリングモード:\nオフの場合、グラフィックの品質が大幅に低下します。この設定を無効にするのは、低スペックのコンピューターに推奨されます。 Disabling this setting is only recommended for low-end computers.
+V-SYNC
 接続
 品質設定
-影の設定を変更します。これらのスライダーを低い値に設定すると、ゲームプレイのパフォーマンスが向上します。
+影の設定を変更します。これらのスライダーを低い値に設定すると、ゲームプレイのパフォーマンスが向上します。 Setting these sliders at lower values may increase gameplay smoothness.
 メインメニュー
-光源レンダリングモード
+RENDER LIGHTS
 モーションブラー
-影描画距離
+SHADOW DISTANCE
 詳細
 3. SCP-914
-チュートリアル
+TUTORIALS
 警告
 参加できるサーバーを検索する
 再度表示しない
 どの方法で接続しますか？
 サーバーブラウザー
-了解
-マッチを探す
+OKAY
+FIND MATCH
 2. 武器を使う
-Discordをフォーラムとして使用しています。インストールは不要です。\n（ロゴをクリックして参加してください）
+Discordをフォーラムとして使用しています。インストールは不要です。\n（ロゴをクリックして参加してください） No installation needed.\n(click the logo to join)
 デフォルトでは、サーバーはローカルネットワーク上にセットアップされます。\nフレンドは接続するためにIPアドレスが必要です。\n公開サーバーをセットアップする場合は、LocalAdmin.exeを起動し、指示に従います。\n質問は、我々の技術サポートにお問い合わせください（メインメニューにリンクがあります）
 1. 基本
 このゲームはまだオープンベータ版です。\n接続の問題や他の多くのバグが発生する可能性があります。\n現在の状態でアップデートは終わりではありません。
@@ -59,26 +59,26 @@ ESCを押して閉じるかキャンセル
 FPS制限
 垂直同期が有効な場合、FPS制限は機能しません!
 デフォルトに戻す
-Steamディスカッションをフォーラムとして使用しています。（以下のロゴをクリックしてフォーラムを開きます）
+Steamディスカッションをフォーラムとして使用しています。（以下のロゴをクリックしてフォーラムを開きます） (Click the logo below to open the forum)
 オーディオ設定
-全体音量
+MASTER VOLUME
 メニューBGM音量
 ボイスチャット
 効果音
-ゲーム設定
-説明の非表示を高速化
+GAMEPLAY OPTIONS
+FAST INTRO FADE
 クラスの説明文は、はるかに速くフェードアウトします。
 SCP-079 - カメラモードのトグル
 1回押すとカメラモードが切り替わります。
 SCP-079 - ポストプロセス
 無効にすると、エフェクトが大幅に減少します。
-視点の揺れ
+HEAD BOB
 移動時の一人称視点のカメラの揺れを有効にします。
 スプリントのトグル
 スプリントを押したままにするのではなく、オンとオフを切り替えるようにします。
 追加HPバーの分割
 HPに重ねてではなく、新しい追加HPバーを表示します。
-私たちの翻訳はgithubでのオープンソースです!\nお困りですか?リポジトリにアクセスするにはここをクリックしてください。
+私たちの翻訳はgithubでのオープンソースです!\nお困りですか?リポジトリにアクセスするにはここをクリックしてください。 Click here to access the repo.
 リッチプレセンス
 有効にすると、Discord/Steamにステータスが表示されます。
 正確なHPを表示
@@ -87,5 +87,13 @@ HPに重ねてではなく、新しい追加HPバーを表示します。
 有効にすると、Steamのフレンドは許可なく参加できます。
 IPを非表示
 有効にすると、コンソールにIPが表示されなくなります。
-拾得のトグル
+マッチを探す
 アイテムの拾得に、キーを押し続ける必要がなくなります。もう一度押すとキャンセルされます。
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+Toggle to show subtitles for cassie announcements.
+Flashes the taskbar when you spawn while the game is not in focus.
+Smoothes lines and removes visual distortions.
+Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.
