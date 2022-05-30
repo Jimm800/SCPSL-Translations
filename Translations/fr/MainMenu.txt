@@ -1,48 +1,48 @@
 JOUER
-FERMER
-QUALITÉ DES OMBRES
-PARAMÈTRES
-BASÉ SUR <i>SCP: CONTAINMENT BREACH</i>
 RETOUR
-LANGUE
+RÉSOLUTION DE L'ÉCRAN
+DÉTAILS
+BASÉ SUR <i>SCP: CONTAINMENT BREACH</i>
+RECHERCHE
+TUTORIELS
 ANTICRÉNELAGE
-Changer les détails :\n- NOMBRE DE PIXELS DE LUMIÈRE: nombre maximum de sources lumineuses par pixel.\n- SYNC. VERTICALE: Synchronise la fréquence de rafraîchissement du périphérique d'affichage.\n- ANTICRÉNELAGE : Lisse les pixels pour éviter l'effet escalier.
-<size=36>REJOINDRE UNE PARTIE</size>
+Changer les détails :\n- NOMBRE DE PIXELS DE LUMIÈRE: nombre maximum de sources lumineuses par pixel.\n- SYNC.
+QUITTER LE JEU
 POST\n<size=25>TRAITEMENT</size>
 CRÉDITS
-QUITTER LE JEU
+OPTIONS DU JEU
 Mode plein écran
-PARAMÈTRES ÉCRAN
+LISTE DES SERVEURS
 CORRECTION COULEUR
 Entrez l'adresse IP...
-RÉSOLUTION DE L'ÉCRAN
+VOLUME GÉNÉRAL
 JOUER
-Lumières par pixel
-TYPES D'OMBRES
-OMBRES
-<size=30>CRÉER UNE PARTIE</size>
-Modification des paramètres de post-traitement.\nCes paramètres n'affectent pas la performance.\nLaisser la valeur par défaut est recommandé.
-Rendu de la lumière :\nLorsqu'il est OFF : cela rend le jeu moins beau (et réduit fortement la visibilité), il est seulement recommandé de le désactiver pour les petites configurations.
-Synchronisation verticale
-CONNEXION
-GRAPHISMES
-Changer les préférences des ombres. Réduire cette valeur peut augmenter la fluidité du jeu.
-MENU PRINCIPAL
 MODE DE RENDU DE LA LUMIÈRE
-FLOU CINÉTIQUE
+TYPES D'OMBRES
+FERMER
+CREATE GAME
+Changer les préférences des ombres. Modification des paramètres de post-traitement.\nCes paramètres n'affectent pas la performance.\nLaisser la valeur par défaut est recommandé.
+Rendu de la lumière :\nLorsqu'il est OFF : cela rend le jeu moins beau (et réduit fortement la visibilité), il est seulement recommandé de le désactiver pour les petites configurations. Disabling this setting is only recommended for low-end computers.
+V-SYNC
+CONNEXION
+QUALITÉ DES OMBRES
+Change shadow preferences. Réduire cette valeur peut augmenter la fluidité du jeu.
+MENU PRINCIPAL
 DISTANCE DES OMBRES
-DÉTAILS
-3. SCP-914
-TUTORIELS
+MOUVEMENTS DE TÊTE
+PARAMÈTRES ÉCRAN
 ATTENTION
+3. SCP-914
+PARAMÈTRES
+OMBRES
 Voir les serveurs disponibles
 Ne plus voir ce message
 De quelle manière voulez-vous vous connecter ?
-LISTE DES SERVEURS
-OK
 TROUVER UN SERVEUR
+OK
+TÉLÉCHARGEMENT DES DONNÉES
 2. L'utilisation des armes
-Nous utilisons discord comme un forum, aucune installation n’est requise.\n(Cliquez sur le logo pour rejoindre)
+Nous utilisons les Discussions Steam comme un forum. Nous utilisons discord comme un forum, aucune installation n’est requise.\n(Cliquez sur le logo pour rejoindre)
 Par défaut, le serveur est défini sur votre réseau local.\nVos amis aurons besoin de votre IP publique pour se connecter.\nSi vous voulez créer un serveur public, ouvrez LocalAdmin.exe et suivez les instructions.\nSi vous avez des questions, vous pouvez contacter notre support technique (lien au menu principal).
 1. Les bases
 Le jeu est toujours en bêta.\nVous pouvez rencontrer des bugs en jeu ainsi que des bugs de connexion.\nL'état actuel ne reflète pas la version finale.
@@ -51,43 +51,43 @@ CONNEXION DIRECTE
 SUPPORT TECHNIQUE / FORUM
 VOLUME DU SON
 Entrez l'adresse IP spécifique du serveur.
-TÉLÉCHARGEMENT DES DONNÉES
+DOWNLOADING DATA
 AUCUN SERVEUR DISPONIBLE
 APPUYEZ SUR ÉCHAP POUR FERMER / ANNULER
-<size=50>CONTRÔLES</size>
+KEY BINDING
 QUANTITÉ DE SANG MAX
 Limite IPS
 <size=20>La limite des IPS ne fonctionne pas si la V-Sync est active</size>
 Réglages par défaut
-Nous utilisons les Discussions Steam comme un forum. (Cliquez sur le logo pour ouvrir ce forum)
+We use Steam Discussions as a forum. (Cliquez sur le logo pour ouvrir ce forum)
 PARAMÈTRES AUDIO
-VOLUME GÉNÉRAL
-MUSIQUE DU MENU
 TCHAT VOCAL
+MUSIQUE DU MENU
+VOICE CHAT
 EFFETS SONORES
-OPTIONS DU JEU
+OPTION POUR COURIR
 FONDU RAPIDE DE L'INTRO
 Le texte d'introduction des classes (en jeu) disparaîtra plus rapidement.
-<size=40>SCP-079 - OPTION VISION AVANCÉE</size>
-Appuyez une fois pour passer d'un mode à l'autre.
 SCP-079 - POST-TRAITEMENT
+Appuyez une fois pour passer d'un mode à l'autre.
+<size=40>SCP-079 - OPTION VISION AVANCÉE</size>
 Désactivé, les effets de caméra seront fortement réduits.
-MOUVEMENTS DE TÊTE
+HEAD BOB
 Active les mouvements de caméra.
-OPTION POUR COURIR
+ENTRÉE PUBLIQUE
 Permet de courir en permanence ou non au lieu d'appuyer sur le bouton.
-<size=40>BARRE DE VIE ARTIFICIELLE SÉPARÉE</size>
+SEPARATE ARTIFICIAL HP BAR
 Donne à la vie artificielle sa propre barre au lieu d'un overlay.
 Nos traductions sont open-source sur GitHub !\nEnvie d'aider ? Cliquez-ici pour accéder au dossier.
 RICH PRESENCE
 Si activé, votre statut sera affiché sur Discord/Steam.
-<size=40>AFFICHAGE DES POINTS DE VIE EXACTS</size>
+DISPLAY EXACT HP VALUE
 Affiche la valeur exacte des points de vie au lieu des pourcentages.
-ENTRÉE PUBLIQUE
+PUBLIC LOBBY
 Si activé, vos amis Steam peuvent vous rejoindre directement.
 CACHER L'IP
 Si activé, l'adresse IP n'apparaîtra pas dans la console client.
-RECHERCHE
+TOGGLE SEARCH
 Prendre l'objet ne nécessitera pas de rester appuyé sur le bouton ; Appuyez encore pour annuler.
 Applique des ombres atténuées dans les coins et zones étroites pour donner plus de relief aux modèles.
 Donne à l'environnement plus de profondeur au prix de haute performance.
