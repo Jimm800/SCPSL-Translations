@@ -22,9 +22,9 @@ Gagnant d'un Événement SCP:SL
 Développeur Full Stack SCP:SL
 Game Designer SCP:SL
 Développeur chargé du Gameplay SCP:SL
-Modérateur Global en chef SCP:SL
 Modérateur Global SCP:SL
-Game Designer en Chef SCP:SL
+Modérateur Global en chef SCP:SL
+Responsable Game Design SCP:SL
 Développeur du Gameplay en Chef SCP:SL
 Level Designer SCP:SL
 Partenaire SCP:SL
@@ -34,21 +34,25 @@ Sound Designer SCP:SL
 Directeur du Jeu SCP:SL
 Responsable des serveurs Officiels SCP:SL
 Spécialiste des Vérifications Northwood
-Spécialiste du code Natif Northwood
+Animateur SCP:SL
 Testeur Qualité SCP:SL
 Testeur Qualité en Chef SCP:SL
 Abonné Twitch SCP:SL
 Audio Manager SCP:SL
-Coordinateur des Avis Northwood
+Superviseur des Avis Northwood
 Superviseur des Vérifications Northwood
 Superviseur Officiel des Serveurs SCP:SL
-Superviseur des Avis Northwood
 Responsable de la Vérification Northwood
-Gestionnaire de Bot Northwood
 Directeur de Traduction Northwood
-Responsable Game Design SCP:SL
-Animateur SCP:SL
+Gestionnaire de Bot Northwood
 Directeur des Relations Publiques de Northwood
-Support SCP:SL
+Game Designer en Chef SCP:SL
 Doubleur SCP:SL
+Coordinateur des Avis Northwood
+Support SCP:SL
 Investisseur de la Fondation SCP:SL
+SCP:SL Foundation Investor
+Northwood Studio Director
+SCP:SL Game Director Assistant
+Spécialiste du code Natif Northwood
+Northwood Tech Support Manager
