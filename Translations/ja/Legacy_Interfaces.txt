@@ -1,6 +1,6 @@
-指示をする
-指示に従う
-同じ階級
+GIVE ORDERS
+FOLLOW ORDERS
+SAME RANK
 Dクラス職員 脱出済み
 研究員 脱出済み
 SCPに殺害された
@@ -15,5 +15,5 @@ Alpha Warhead
 死亡した
 彼によって殺された
 の
-パッシブ
+Passive
 (非表示)
