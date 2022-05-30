@@ -8,7 +8,7 @@ Cancelar
 I N V E N T Á R I O
 BRILHO
 OPÇÕES
-SAIR
+CONTINUAR
 ALPHA WARHEAD ESTA DESATIVADA
 ACESSO NEGADO
 CHAT DE VOZ
@@ -24,10 +24,21 @@ Tem certeza que deseja sair desse servidor?
 Opções basicas. Lista completa das configurações no menu principal.
 ESPERANDO POR JOGADORES...
 RESUMO
-CONTINUAR
+SAIR
 VOLUME PRINCIPAL
 conectado(s)
 Você escapou como cientista e se juntou as tropas MTF.
 Você escapou como Classe-D e se juntou a tropa Chaos Insurgents.
 VOCÊ É
 Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Wait [time] until you can use [item] again.
+Press <color=yellow><b>F1</b></color> for help.
+You have been cuffed.\n<size=40>Follow orders or ask teammates for help.</size>
+You were recaptured by the Nine-Tailed Fox.\nWith one less threat in the facility, they were able to reinforce.
+You were taken prisoner as a scientist by the Chaos Insurgency.\nThey were able to gain an advantage from the information you gave them.
+ROUND STARTS IN: <color=yellow>{0}</color>s
+ROUND START IS <color=#FF5050>PAUSED</color>
+AIMING SENS. REDUCTION
+Press [key] to cancel the throw.
+ADS Toggle
+Mute Spectator Chat
