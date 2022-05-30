@@ -42,3 +42,5 @@ Korte loop~Ingekorte versie van de standaardloop, gebruikt om de treksnelheid en
 Choke~Verhoogt de totale spreidingsradius maar verbetert de consistentie van het patroon.
 Verlengde loop~Vermindert de spreidingsradius enigszins, maar verhoogt het totale gewicht en de lengte van het wapen.
 Geen Kolf~Korte configuraties gaan gepaard met een hoge mobiliteit, maar het verwijderen van de kolf van een geweer maakt het onmogelijk om veilig op het vizier te richten.
+Single-Shot System~Standard system. One trigger-pull leads to one discharge.
+Double-Shot System~Modified trigger mechanism which actuates both sears with a single pull.
