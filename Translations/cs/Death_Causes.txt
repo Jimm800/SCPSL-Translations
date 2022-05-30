@@ -1,22 +1,22 @@
-Vypařen hlavicí Alpha.
-Pád ukončil jeho život.
-Zemřel za lepší zítřky.
-Ztratil se v Kapesní Dimenzi.
-Nepřežil schůzku s SCP-106.
-Elektrický šok z velmi vysokého napětí.
-Byl rozdrcen těžkým předmětem.
-Na těle je mnoho střelných ran. Vypadá to, že byla použita munice typu [ammotype].
-Zlámaný vaz a bezvládně visící hlava.
-Nepřežil schůzku s SCP-106.
-Byl "vyléčen" z moru.
-Příčina smrti neznámá.
-Tohle je tělo <b>[user]</b>, třídy [class]!\n\nPříčina smrti: [cause]
-Byl roztrhán na kousky SCP-096.
-Byl zakousnut do lebky.
-Byl rozežrán žíravinou.
-Střepiny a těžké popáleniny způsobené výbuchem.
-Bledá kůže a krev vytékající z úst naznačují vnitřní krvácení způsobené požitím látky.
-Znovu-uvězněn.
-Na těle jsou tupá poranění a drobné škrábance.
-Težká ztráta krve způsobená hlubokými ranami.
-Chorobně žlutá kůže a žluklý zápach naznačují smrt jedem.
+Vaporized by the Alpha Warhead.
+Shattered legs and feet suggest fatal trauma caused by a fall.
+Signs of severe trauma to both femur bones suggests death by circulatory shock.
+Decayed in the Pocket Dimension.
+It's remnants of SCP-106.
+Severe electrical burns.
+Fatal blunt trauma; the body is badly mutilated and pulped.
+[ammotype] bullet wounds.
+Cervical fracture at the base of the skull.
+Massive amounts of tissue decay are present on the body.
+Sudden cessation of life signs. No clear trauma.
+Unknown cause of death.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Massive lacerations and excessive blood loss.
+Large, deep bite marks on the body can be observed.
+Melted by a highly corrosive substance.
+Shrapnel and severe burns caused by an explosion.
+Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
+Recontained.
+Blunt trauma and minor scratches are present on the body.
+Severe blood loss caused by deep wounds.
+Sickly yellow skin and a rancid smell suggests death by poison.
