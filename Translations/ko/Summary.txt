@@ -1,12 +1,12 @@
 <size=21>라운드가 종료되었습니다!</size>
 SCP 승리
 재단 승리
-반란 승리
-무승부
-탈출한 모든 실험체들의 행방이 묘연해졌습니다. 긴급 대응이 취소되었습니다.
+INSURGENCY WINS
+STALEMATE
+The escaped subjects have overrun the facility. 긴급 대응이 취소되었습니다.
 모든 위험요소를 제거했습니다. 제02기지가 다시 안전해졌습니다.
 재단의 존재가 소멸되었습니다. 대원들이 추가 명령을 기다리고 있습니다.
-제02기지의 통제권이 누구의 것인지 불확실합니다. 승자가 결정되지 않았습니다.
+Site-02 is under certain control, but not without cost. 승자가 결정되지 않았습니다.
 [summary_d_escaped]명의 D계급이 탈출했습니다.
 [summary_s_escaped]명의 과학자가 생존했습니다.
 알파 핵탄두의 폭파로 [summary_warhead_kills] 명이 제거되었습니다.
