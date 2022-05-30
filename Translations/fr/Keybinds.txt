@@ -1,16 +1,16 @@
 Tirer
 Zoomer
-Sauter
+Courir
 Interagir
 Inventaire
 Recharger
-Courir
+Sauter
 Chat Vocal
-Marche Furtive
+Sneak
 Avancer
 Reculer
-Aller à Gauche
 Aller à Droite
+Aller à Gauche
 Liste des Joueurs
 Informations
 Panel Admin
@@ -18,13 +18,13 @@ Lampe Torche
 Chat Vocal Alt
 Noclip
 Console
-Raccourci Carte
+Keycard Hotkey
 Inspecter l'Objet
 Armer le Revolver
 Jeter un Objet
 Raccourci Arme Principale
 Raccourci Arme Secondaire
-Raccourci Soin
+Medical Hotkey
 Masquer l'Interface
-Brouillard en Noclip
+Toggle Noclip Fog
 Raccourci Grenade
