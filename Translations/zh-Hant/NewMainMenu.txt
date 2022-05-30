@@ -13,13 +13,13 @@
 重新加入
 直接連接
 刷新
-隱藏無人伺服器
-隱藏已滿伺服器
-無白名單伺服器
+遊戲
+Hide Full Games
+No Whitelist
 影像
 音效
 控制
-遊戲
+遊玩我們的遊戲！
 其他
 視窗模式
 全螢幕
@@ -28,8 +28,8 @@
 視窗化
 垂直同步
 FPS限制
-無限制
-紋理質量
+取消
+Texture Quality
 貼花
 陰影
 陰影解析度
@@ -41,14 +41,14 @@ FPS限制
 主音量
 音效
 語音聊天
-主畫面音量
+Menu Music
 界面音量
-主旋律
+Menu Theme
 快速介紹
-搖頭效果
+Head Bob
 切换衝刺模式
-顯示準確的生命值
-Steam狀態顯示
+Display Exact HP Value
+Rich Presence
 公開大廳
 切換搜尋
 SCP-079 - 切換觀察模式
@@ -58,14 +58,14 @@ SCP-079 - 後期處理
 連線
 返回
 這個更改需要重新載入遊戲。\n是否立即重新載入主畫面？
-是
 否
+是
 你確定要退出嗎?
 螢幕解析度
 隱藏IP
 歡迎回來, {username}!
-製作人員名單
-身份驗證中
+Credits
+AUTHENTICATING
 正在連接至中央伺服器...
 <color=green>已建立連接</color>
 <color=red>連接失敗 (檢查控制台來獲得更多詳細訊息)</color>
@@ -83,9 +83,9 @@ SCP-079 - 後期處理
 仍然創建
 查閱更多
 租用伺服器
-取消
+CANCEL
 秒
-遊玩我們的遊戲！
+For playing our game!
 陣營生成時工作列閃爍
 環境光遮蔽
 體積光
