@@ -1,7 +1,7 @@
 這是[class] - <b>[user]</b>的屍體！ \n\n死因：[cause]
-重新收容。
+Recontained.
 在Alpha核彈頭的爆破中蒸發。
-突發性死亡，無明顯外傷。
+Sudden cessation of life signs. No clear trauma.
 死因不明。
 重度電擊灼燒。
 因缺氧而窒息致死。
@@ -10,10 +10,10 @@
 從高處摔落造成的腿骨粉碎性骨折。
 你摔落致死。
 腐爛於口袋次元。
-被强酸性氣體腐蝕殆盡。
+Melted by a highly corrosive substance.
 中毒身亡，屍體泛黃且散發惡臭。
 你中毒致死。
-攝入不明物質導致臟器大出血。
+Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
 SCP-207终结了你。
 你不該拿走超過兩顆的！
 你已被特斯拉電網攔截消滅。
@@ -28,5 +28,5 @@ SCP-207终结了你。
 股骨挫傷造成的迴圈休克致死。
 為重新收容SCP-106，你被獻祭了。
 因誤傷友軍被自動處死。
-冰冷的皮膚和凍傷的手指表明死於體溫過低。 
-你被凍死了。 
+冰冷的皮膚和凍傷的手指表明死於體溫過低。
+你被凍死了。
