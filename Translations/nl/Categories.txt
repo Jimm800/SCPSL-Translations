@@ -7,4 +7,4 @@ Granaten
 SCP-Voorwerpen
 Micro H.I.D.
 Munitie
-Lichaamsschild
+Body Armor
