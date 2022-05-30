@@ -1,30 +1,30 @@
 Strzał
 Przybliżenie
-Skok
-Interakcja
-Ekwipunek
-Przeładowanie broni
 Bieg
+Interakcja
+Rzut przedmiotem
+Przeładowanie broni
+Run
 Czat głosowy
 Skradanie
 Ruch w przód
 Ruch w tył
-Ruch w lewo
 Ruch w prawo
+Ruch w lewo
 Lista graczy
 Informacje o postaci
 Remote Admin
-Latarka
+Przełącz mgłę w noclipie
 Drugi czat głosowy
 Noclip
 Konsola gry
-Skrót na kartę dostępu
-Oglądanie broni
-Zakorkowanie rewolwera
-Rzut przedmiotem
+Keycard Hotkey
+Inspect
+Cock Revolver
+Throw Item
 Skrót na broń pierwszą
 Skrót na broń drugą
 Skrót na przedmioty medyczne
 Schowaj interfejs
-Przełącz mgłę w noclipie
+Toggle Noclip Fog
 Skrót na granat
