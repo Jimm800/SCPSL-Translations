@@ -1,4 +1,4 @@
-Fényforrás
-Lőszerszámláló
-Elrejti a lángot
-Éjjellátás
+Light Source
+Ammo Counter
+Flash Suppression
+Night Vision
