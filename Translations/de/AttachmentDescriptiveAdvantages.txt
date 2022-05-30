@@ -1,4 +1,4 @@
 Lichtquelle
 Patronenzähler
-Mündungsfeuerunterdrückung
+Flash Suppression
 Nachtsicht
