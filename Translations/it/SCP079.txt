@@ -5,7 +5,7 @@ PREMI [KEY] PER MOSTRARE LA MAPPA DELLA STRUTTURA
 Esperienza guadagnata:
 Lavoro cooperativo
 Assist per l'uccisione del personale di Classe D
-Assist per l'uccisione di un Chaos Insurgency
+CI termination assist
 Assist per l'uccisione di un MTF
 Assist per l'uccisione di uno Scienziato
 Assist per l'uccisione di un SCP
