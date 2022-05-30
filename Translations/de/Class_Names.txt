@@ -6,7 +6,7 @@ Nine-Tailed Fox Spezialist
 SCP-049
 Wissenschaftler
 SCP-079
-Chaos Insurgency Rekrut
+Chaos Insurgency Unterdrücker
 SCP-096
 SCP-049-2
 Nine-Tailed Fox Unteroffizier
@@ -18,4 +18,4 @@ SCP-939-53
 SCP-939-89
 Chaos Insurgency Gewehrschütze
 Chaos Insurgency Marodeur
-Chaos Insurgency Unterdrücker
+Chaos Insurgency Rekrut
