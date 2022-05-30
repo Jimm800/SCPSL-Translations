@@ -1,21 +1,21 @@
 SCP-173
-Klasse D-personell
-Tilskuer
+Class-D Personnel
+Spectator
 SCP-106
-NTF Spesialist
+Nine-Tailed Fox Specialist
 SCP-049
-Vitenskapsmann
+Scientist
 SCP-079
-Chaos opprørskonskript
+Chaos Insurgency Conscript
 SCP-096
 SCP-049-2
-NTF Sersjant
-NTF Kaptein
-NTF Privat
-Veiledning
-Anleggvakt
+Nine-Tailed Fox Sergeant
+Nine-Tailed Fox Captain
+Nine-Tailed Fox Private
+Tutorial
+Facility Guard
 SCP-939-53
 SCP-939-89
-Chaos Opprører Riflemann
-Kaos Opprørsoppspreder
-Chaos Opprør Plyndrer
+Chaos Insurgency Rifleman
+Chaos Insurgency Marauder
+Chaos Insurgency Repressor
