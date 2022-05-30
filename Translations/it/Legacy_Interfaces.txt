@@ -1,6 +1,6 @@
-PUOI DARGLI ORDINI
-SEGUI I SUOI ORDINI
 STESSO GRADO
+SEGUI I SUOI ORDINI
+PUOI DARGLI ORDINI
 Classe D fuggiti
 Scienziati sopravvissuti
 Morti causate dagli SCP
@@ -10,7 +10,7 @@ Detonata
 Non utilizzata
 Il prossimo round inizierà fra [time] secondi.
 ABILITÀ SPECIALE
-CREA UN BUCO NERO
+CREATE SINKHOLE
 UTILIZZA IL BUCO NERO
 SEI MORTO
 Sei stato ucciso da
