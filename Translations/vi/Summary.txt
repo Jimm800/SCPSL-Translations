@@ -1,17 +1,17 @@
-vòng chơi đã hoàn thành!
-SCP thắng
-MTF thắng
-CLASS-D thắng
-HÒA
-SCP chịu trách nhiệm cho việc giết [summary_scpfrags] mạng người.
-Mối nguy đã được loại bỏ. Cơ sở đã an toàn trở lại.
-Tất cả bảo vệ cơ sở đã bị tiêu diệt.
-Tất cả các phe đều có lợi ích và thiệt hại ngang nhau. Không có phe thắng.
-[summary_d_escaped] tù nhân tẩu thoát
-[summary_s_escaped] nhà khoa học sống sót
-Đầu đạn hạt nhân kích nổ giết [summary_warhead_kills] mạng.
-Đầu đạn hạt nhân không được kích nổ trong nhiệm vụ này.
-Nhiệm vụ này diễn ra trong [summary_round_minutes] phút và [summary_round_seconds] giây.
-[summary_scp_terminated] SCP bị tiêu diệt
-Vòng chơi tiếp theo trong [summary_next_round_countdown] giây.
-Bạn đã gây [summary_damages] sát thương và giết [summary_kills] người chơi.
+The round has finished!
+SCPS WIN
+FOUNDATION WINS
+INSURGENCY WINS
+STALEMATE
+The escaped subjects have overrun the facility. Emergency response has been scrambled.
+All threats to safety have been neutralized. Site-02 is secure once again.
+Foundation presence has been exterminated. Operatives standing by for further orders.
+Site-02 is under certain control, but not without cost. The victor is undetermined.
+[summary_d_escaped] class-d escaped
+[summary_s_escaped] scientist(s) survived
+The Alpha Warhead's detonation terminated [summary_warhead_kills] beings.
+The Alpha Warhead was not detonated during this mission.
+The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+[summary_scp_terminated] terminated SCPs
+Next round in [summary_next_round_countdown] seconds.
+The SCPs killed [summary_scpfrags] human beings.
