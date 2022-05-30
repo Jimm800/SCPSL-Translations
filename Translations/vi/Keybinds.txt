@@ -1,30 +1,30 @@
-Bắn
-Phóng to
-Nhả
-Tương tác
-Túi đồ
-Nạp đạn
-Chạy
-Voice chat
-Đi chậm
-Đi tiến
-Đi lùi
-Sang trái
-Sang phải
-Danh sách ngươi chơi
-Thông tin nhân vật
-Điều khiển QTV
-Bật tắt đèn pin
-Nói chuyện qua bộ đàm
+Shoot
+Zoom
+Jump
+Interact
+Inventory
+Reload
+Run
+Voice Chat
+Sneak
+Move Forward
+Move Backward
+Move Left
+Move Right
+Player List
+Character Info
+Remote Admin
+Toggle Flashlight
+Alt Voice Chat
 Noclip
-Điều khiển game
-Thẻ khóa
-Soi xét
-Xoay cò
-Ném đồ
-Vũ khí chính
-Vũ khí phụ
-Vật phẩm cứu thương
-Ẩn GUI
-Bật tắt noclip sương
-Lựu đạn
+Game Console
+Keycard Hotkey
+Inspect
+Cock Revolver
+Throw Item
+Primary Weapon Hotkey
+Secondary Weapon Hotkey
+Medical Hotkey
+Hide GUI
+Toggle Noclip Fog
+Grenade Hotkey
