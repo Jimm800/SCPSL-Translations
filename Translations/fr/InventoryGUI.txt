@@ -1,8 +1,8 @@
 Munitions {0}/{1} {2}
 Dégâts
-Cadence de tir
-Précision de tir
+Fire Rate
 Précision de visée
+Précision de tir
 Masse
 Longueur
 LÂCHER:
