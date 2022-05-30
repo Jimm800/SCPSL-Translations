@@ -1,6 +1,6 @@
 Yok~Etkisi olmayan varsayılan seçenek.
 Tam Nişangah~Çift hizalama sağlayan basit, hafif bir nişangah cihazı.
-Noktalı Nişangah~Nişan alınan yeri küçük bir noktayla gösteren yakınlaştırma sağlamayan görüş. 
+Noktalı Nişangah~Nişan alınan yeri küçük bir noktayla gösteren yakınlaştırma sağlamayan görüş.
 Holografik Nişangah~Holografik retikül ile yakınlaştırma sağlamayan görüş. Yakın dövüşte etkilidir.
 Gece Görüş Dürbünü~Gece görüş cihazı ile güçlendirilmiş teleskopik görüş. Ağır, ancak tüm aydınlatma koşullarında etkilidir.
 Mermi Sayaçlı Nişangah~Mermi sayma cihazı ile tam nişangah.
@@ -11,7 +11,7 @@ Katlanabilir Dipçik~Silahı daha kompakt hale getirir, bu da hareketliliği art
 Hafif Dipçik~Silahın ağırlığını azaltır ama nişan alırkenki geri tepmenin kontrolünü zorlaştırır.
 Ağır Dipçik~Artan ağırlıktan dolayı hareketliliği azaltır ancak nişan alırken silahı daha stabil hale getirir.
 Geri Tepme Azaltıcı Dipçik~Tek tek atışlar arasındaki kuvveti dağıtmaya çalışan bir sistemle donatılmış dipçik.
-Ön Kabza~Dikey ileri kavrayıcı. Namlu çıkışının kontrolünü kolaylaştırır.
+Ön Kabza~Dikey ileri kavrayıcı. Makes it easier to handle the muzzle rise.
 Lazer Görüşü~Hedefe görsel referans noktası sağlar, bu da nişah almadan ateşlemeye yardımcı olur, ancak konumunuzu kolayca ortaya çıkarabilir.
 Fener~Açılıp kapanabilir ışık kaynağı. Silahın toplam ağırlığını artırır ancak karanlık ortamlarda hayat kurtarıcı olabilir.
 Mermi Sayacı~Mühimmat sayma cihazı. Özellikle yüksek kapasiteli şarjörlerde faydalı olduğu kanıtlanmış deneysel teknoloji.
@@ -22,17 +22,17 @@ Alev Gizleyici~Namludan çıkan ateşi ortadan kaldırır. Karanlıkta ateş etm
 Namlu Freni~Geri tepme kompansatörü. Geri tepmeyi azaltmak için itici gazlar kullanır, ancak silah seslerinin akustik yoğunluğunu artırır.
 Namlu Güçlendirici~Atış hızını artırır, bu da saniyede daha fazla hasar vermesini sağlar, ancak silahı kontrol etmek daha zordur.
 TMK Şarjörü~Tam metal kaplamalı mermiler içeren standart şarjör.
-ZD Şarjörü~Zırh delici mermiler içeren standart şarjör.
-UD Şarjörü~Ucu delikli mermiler bulunduran standart şarjör.
+AP Magazine~Standard magazine that contains armor-piercing bullets.
+JHP Magazine~Standard magazine that contains hollow-point bullets.
 Genişletilmiş TMK Şarjörü~Tam metal kaplamalı mermiler içeren genişletilmiş şarjör.
-Genişletilmiş ZD Şarjörü~Zırh delici mermiler içeren genişletilmiş şarjör.
-Genişletilmiş UD Şarjörü~Ucu delikli mermiler bulunduran genişletilmiş şarjör.
+Extended AP Magazine~Extended magazine that contains armor-piercing bullets.
+Extended JHP Magazine~Extended magazine that contains hollow-point bullets.
 TMK Tamburu~Tam metal kaplamalı mermiler içeren yüksek kapasiteli tambur şarjörü.
-ZD Tamburu~Zırh delici mermiler içeren yüksek kapasiteli tambur şarjörü.
 UD Tamburu~Ucu delikli mermiler içeren yüksek kapasiteli tambur şarjörü.
+ZD Tamburu~Zırh delici mermiler içeren yüksek kapasiteli tambur şarjörü.
 D-K TMK Şarjörü~Tam metal kaplamalı mermiler içeren düşük kapasiteli şarjör.
-D-K ZD Şarjörü~Zırh delici mermiler içeren düşük kapasiteli şarjör.
-D-K UD Şarjörü~Ucu delikli mermiler bulunduran düşük kapasiteli şarjör.
+Low-Cap AP Magazine~Low-capacity magazine that contains armor-piercing bullets.
+Low-Cap JHP Magazine~Low-capacity magazine that contains hollow-point bullets.
 4-Toplu Silindir~Daha az kartuş tutar ancak zırhlı düşmanlara daha fazla hasar verir.
 6-Toplu Silindir~Klasik altıpatlar.
 8-Toplu Silindir~Daha fazla kartuş tutar ancak tetiği daha ağır çeker, isabetli atış için daha fazla zamana ihtiyacı vardır.
