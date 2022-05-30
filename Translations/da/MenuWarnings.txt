@@ -1,4 +1,4 @@
-ADVARSEL
+WARNING
 OKAY
-<b>Intel-grafik</b> er blevet fundet og er <b>ikke understøttet</b>.\nDet <b>anbefales</B> at anvende et <b>ikke-integreret</b> grafikkort.\nSpillet kan <b>lukke ned uden varsel</b> med den aktuelle opsætning.
-En vigtig systemopdatering, der kræves af stemmechatten, kan ikke findes. Sørg for, at dit Windows er opdateret, ellers vil spillet muligvis ikke fungerer korrekt. Hvis dette problem fortsætter, skal du kontakte vores tekniske support for yderligere hjælp.
+<b>Intel graphics</b> have been detected which is <b>not supported</b>.\nIt is <b>recommended</b> to use a <b>non-integrated</b> graphics card.\nThe game may <b>often crash</b> with the current setup.
+An important system update that is required by the voice chat cannot be found. Please ensure that your Windows is fully up to date, otherwise the game may not function properly. If this issue persists, please contact our tech support team for further assistance
