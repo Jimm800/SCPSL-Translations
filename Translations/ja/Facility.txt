@@ -2,17 +2,17 @@
 はい
 強制スタート
 SCP-106 再収容手順\n手動実行
-上下反転
+Invert Y-axis
 概要
 キャンセル
 イ ン ベ ン ト リ
 ブライトネス
 設定
-切断
+DISCONNECT
 ALPHA WARHEADは使用不可
 アクセス拒否
 ボイスチャット
-インベントリが一杯
+INVENTORY OVERLOAD
 マウス感度
 ハッキング
 取得中...
@@ -21,12 +21,12 @@ ALPHA WARHEADは使用不可
 ドアはSCP-079によってロックされています
 全画面モード
 サーバーから抜けますか？
-基本設定。メニュー内の設定の全リスト。
+Basic options. 基本設定。メニュー内の設定の全リスト。
 プレイヤーを待っています
 概要
-続ける
-メイン音量
 接続済み
+メイン音量
+connected
 あなたは研究員として脱出し、機動部隊に参加しました。
 あなたはDクラス職員として脱出し、カオス・インサージェンシーに参加しました。
 あなたは
@@ -38,3 +38,7 @@ ALPHA WARHEADは使用不可
 あなたはカオス・インサージェンシーにより研究員として捕虜にされました。\n彼らはあなたの情報をもとに利益を得ました。
 ラウンド開始まで: <color=yellow>{0}</color>秒
 ラウンド開始まで: <color=#FF5050>停止中</color>
+AIMING SENS. REDUCTION
+Press [key] to cancel the throw.
+ADS Toggle
+Mute Spectator Chat
