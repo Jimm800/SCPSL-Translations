@@ -2,16 +2,20 @@ SCP-173
 Classe-D Personal
 Espectador
 SCP-106
-Cientista Nine-Tailed Fox
+Tenente Nine-Tailed Fox
 SCP-049
 Cientista
 SCP-079
 Chaos Insurgency
 SCP-096
 SCP-049-2
-Tenente Nine-Tailed Fox
 Comandante Nine-Tailed Fox
 Guarda Nine-Tailed Fox
+Cientista Nine-Tailed Fox
 TUTORIAL
 Guarda da instalação
 SCP-939
+SCP-939-89
+Chaos Insurgency Rifleman
+Chaos Insurgency Marauder
+Chaos Insurgency Repressor
