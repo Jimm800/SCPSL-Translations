@@ -1,14 +1,14 @@
-Disparar
-Zoom
 Saltar
+Zoom
+Correr
 Interactuar
 Inventario
 Recargar
-Correr
+Run
 Chat de Voz
-Ir a hurtadillas
-Moverse Recto
+Disparar
 Moverse Hacia Atrás
+Moverse Recto
 Moverse Hacia la Izquierda
 Moverse Hacia la Derecha
 Lista de Jugadores
@@ -18,8 +18,8 @@ Alternar modo de linterna
 Chat de Voz Alternativo
 Noclip
 Consola
-Atajo Tarjeta
-Inspeccionar 
+Keycard Hotkey
+Inspeccionar
 Percutor del revolver
 Lanzar objeto
 Atajo de arma primaria
