@@ -1,18 +1,21 @@
-Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color>kanssa.<color=#FFFF00>\nPidä pohjassa tähtäämisnäppäintäsi räpäyttääksesi.\nSinä kestät jotain vahinkoa luodeista, ja sinulla on uudistuva suoja.</color>
-Pakene laitoksesta.\nToimi <color=#008F1E>Chaos Insurgency:n</color> kanssa.\nVaro muita tiimejä.
-Synnyt uudelleen kohta.
-Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color> kanssa.<color=#FFFF00>\nVoit kävellä ovien läpi.\nVasen hiirinappi tekee vahinkoa ja teleportoi ihmiset sinun tasku-ulottuvuuteen.\nPidä TAB pohjassa käyttääksesi teleportaatio-funktioitasi.</color>
-Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nTapa kaikki muut.\nOhjaa sotilaitasi. \nSeuraa komentajasi määräyksiä.
-Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color> kanssa.<color=#FFFF00>\nPaina vasenta hiirinappia tappaaksesi vihollisesi.\nKoske lähiaikoina kuolleeseen ihmiseen herättääkseen heidät sinun puolellesi.</color>
-Pakene laitoksesta.\nToimi <color=#0096FF>MTF:n</color> kanssa.\nVaro muita tiimejä.
-Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color> kanssa.
-Auta <color=#FF8E00>D-Luokkaa</color> pakenemaan.\nTapa kaikki muut.
-Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color> kanssa.
-Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color> kanssa.<color=#FFFF00>\nPaina vasenta hiirinappia hyökätäksesi pienellä ajoituksella.</color>
-Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nTapa kaikki muut.\nOhjaa sotilaitasi. \nSeuraa komentajasi määräyksiä.
-Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nTapa kaikki muut.\nOhjaa sotilaitasi.
-Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nTapa kaikki muut.\nSeuraa komentajasi ja luutnanttien määräyksiä.
-Suorita tavoitteesi loppuun noudattamalla tehtäviä.
-Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nToimi toisten <color=#0096FF>MTF:n</color> kanssa.\nTapa kaikki muut.
-Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color> kanssa.
-Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#F00>SCP:eiden</color> kanssa.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nHold your aim key while being observed to blink.\nYou resist some damage from gunfire, and have a regenerating shield.</color>
+Escape from the facility.\nCooperate with the <color=#008F1e>Chaos Insurgency.</color>\nAvoid other teams.
+You will respawn soon.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nYou can walk through doors.\nLeft click hurts and TPs enemies to your dimension.\nHold TAB to access your TP abilities.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your superiors.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to insta-kill enemies with a short cooldown.\nInteract with a recently-dead human to revive them as an ally.</color>
+Escape from the facility.\nCooperate with the <color=#0096FF>MTF.</color>\nAvoid other teams.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to attack with a short windup.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your captain.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nFollow the orders of your superiors.
+Follow the tasks to complete your objective.
+Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
