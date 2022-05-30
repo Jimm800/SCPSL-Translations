@@ -1,8 +1,8 @@
 ADS倍率
 ---
-威力
+Damage
 貫通力
-連射力
+Fire rate
 反動
 ADS時の反動
 銃弾の精度
@@ -17,3 +17,5 @@ ADS時の精度
 ADS速度
 ペレット拡散
 パターンのまとまり
+Projectiles number
+Reload speed
