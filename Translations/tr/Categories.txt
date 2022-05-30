@@ -1,10 +1,10 @@
 Yok
 Kart
-Tıbbi Eşya
-Telsiz
+Medical Items
+Radio
 Silahlar
 Bombalar
 SCP Eşyaları
 Mikro Y.Y.D.
-Mermi
+Ammo
 Koruyucu Yelek
