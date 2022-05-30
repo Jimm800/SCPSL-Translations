@@ -4,18 +4,18 @@ SCP-173
 SCP-106
 Девятихвостая Лиса — Специалист
 SCP-049
-Научный Сотрудник
+Scientist
 SCP-079
-Повстанец Хаоса — Новобранец
+Chaos Insurgency Conscript
 SCP-096
 SCP-049-2
 Девятихвостая Лиса — Сержант
 Девятихвостая Лиса — Капитан
-Девятихвостая Лиса — Рядовой
+Nine-Tailed Fox Private
 Обучение
-Охранник Комплекса
+Facility Guard
 SCP-939-53
 SCP-939-89
-Повстанец Хаоса — Стрелок
-Повстанец Хаоса — Мародёр
-Повстанец Хаоса — Усмиритель
+Chaos Insurgency Rifleman
+Chaos Insurgency Marauder
+Chaos Insurgency Repressor
