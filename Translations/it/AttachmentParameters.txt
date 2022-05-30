@@ -4,18 +4,18 @@ Danno
 Penetrazione
 Rateo di fuoco
 Rinculo
-Rinculo in modalità mirino
+Recoil when aiming
 Precisione del proiettile
 Precisione Hip-firing
 Precisione di mira
 Tempo di equipaggio
-Rumorosità dello sparo
+Gunshot loudness
 Capacità del caricatore
 Tempo di estrazione
 Tempo di ricarica
 ---
 Velocità di mira
-Dispersione dei colpi
-Densità dei pallettoni
+Pellet spread
+Pattern consistency
 Numero di proiettili
 Velocità di ricarica
