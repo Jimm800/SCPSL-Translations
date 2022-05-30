@@ -1,13 +1,13 @@
 Powiększenie przy ADS
 ---
-Obrażenia
+Odrzut
 Penetracja
 Szybkostrzelność
-Odrzut
-Odrzut przy ADS
+Recoil
+Recoil when aiming
 Trafialność pocisków
-Celność z biodra
-Celność przy ADS
+Hip-firing accuracy
+Aiming accuracy
 Czas dobywania
 Głośność wystrzału
 Pojemność magazynka
@@ -15,7 +15,7 @@ Czas dobywania
 Czas przeładowania
 ---
 Prędkość zmiany postawy strzeleckiej
-Rozrzut śrutu
+Pellet spread
 Spójność rozrzutu
 Ilość pocisków
 Prędkość przeładowywania
