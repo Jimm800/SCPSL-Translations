@@ -5,15 +5,15 @@ Northwood Direttore della comunità
 Northwood Manager di Discord
 Northwood Assistente Esecutivo
 Northwood Responsabile dei Feedback
-Northwood Risorse Umane
 Northwood Direttore Risorse Umane
+Northwood Manager della Wiki
 Northwood Marketing Platform Manager
 Northwood Staff
 Northwood Manager di steam
 Northwood Amministratore di Sistema
-Northwood Manager della Wiki
-SCP:SL Direttore Artistico
+Northwood Manager delle Verificazioni
 SCP:SL Supervisore Artistico
+SCP:SL Direttore Artistico
 SCP:SL Artista
 SCP:SL Programmatore backend
 SCP:SL Responsabile della programmazione backend
@@ -33,22 +33,26 @@ SCP:SL Responsabile Controllo Qualità
 SCP:SL Designer del suono
 SCP:SL Direttore dello sviluppo di gioco
 SCP:SL Manager server ufficiale
-Northwood Specialista di codice nativo
 Northwood Specialista in verificazione server
+SCP:SL Doppiatore
 SCP:SL Controllo Qualità
 SCP:SL Supervisore Controllo Qualità
 SCP:SL Abbonato Twitch
 SCP:SL Gestore Audio
-Northwood Team di Feedback
+Northwood Supervisore del Feedback
 Northwood Supervisore delle Verifiche
 SCP:SL Supervisore del Server Ufficiale
-Northwood Supervisore del Feedback
-Northwood Manager delle Verificazioni
-Northwood Bot Manager
+Northwood Team di Feedback
 Northwood Manager delle Traduzioni
+Northwood Bot Manager
+Northwood Direttore delle pubbliche relazioni
 SCP:SL Game Design Manager
 SCP:SL Animatore
-Northwood Direttore delle pubbliche relazioni
+Northwood Specialista di codice nativo
 SCP:SL Helper
-SCP:SL Doppiatore
 SCP:SL Investitore della Fondazione
+SCP:SL Foundation Investor
+Northwood Risorse Umane
+SCP:SL Game Director Assistant
+Northwood Tech Support Supervisor
+Northwood Tech Support Manager
