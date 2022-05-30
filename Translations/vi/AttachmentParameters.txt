@@ -1,19 +1,21 @@
-Ngắm bắn
+ADS zoom
 ---
-Sát thương
-Xuyên giáp
-Tốc độ bắn
-Độ giật
-Độ giật khi ngắm
-Độ chính xác
-Độ chính xác khi không ngắm
-Độ chính xác khi ngắm
-Thời gian rút súng
-Âm thanh khai hỏa
-Sức chứa băng đạn
-Thời gian rút súng
-Thời gian nạp đạn
+Damage
+Penetration
+Fire rate
+Recoil
+Recoil when aiming
+Bullet accuracy
+Hip-firing accuracy
+Aiming accuracy
+Equip time
+Gunshot loudness
+Magazine capacity
+Equip time
+Reload time
 ---
-Tốc độ ngắm
-Độ phân tán đạn
-Độ đều của đạn
+Aiming speed
+Pellet spread
+Pattern consistency
+Projectiles number
+Reload speed
