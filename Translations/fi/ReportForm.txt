@@ -1,7 +1,7 @@
-Ilmianna Pelaaja
-Kohde:\nPelaajan ID:\nKuvaus:
-Peruuta
-Ilmianna palvelimen sääntörikkomuksista
-Ilmianna huijauksesta tai hyökkäyksestä
-LÄHETETÄÄN
-Odota...
+Report Player
+Target:\nPlayer ID:\nDescription:
+Cancel
+Report for breaking server rules
+Report for cheating or raiding
+REPORTING
+Please wait...
