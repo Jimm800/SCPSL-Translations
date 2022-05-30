@@ -1,4 +1,4 @@
 Daje światło
-Wyświetla stan amunicji
-Tłumi płomień
+Ammo Counter
+Flash Suppression
 Umożliwia widzenie w ciemności
