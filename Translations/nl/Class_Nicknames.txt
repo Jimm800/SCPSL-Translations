@@ -8,7 +8,7 @@ De Dokter
 Het Oude AI
 -
 The Shy Guy
-De Genezen
+The Cured
 -
 -
 -
@@ -16,3 +16,6 @@ De Genezen
 -
 Met Vele Stemmen
 Met Vele Stemmen
+-
+-
+-
