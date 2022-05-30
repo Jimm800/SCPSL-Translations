@@ -1,93 +1,93 @@
 DOŁĄCZ
-ZAMKNIJ
-ROZDZIELCZOŚĆ CIENI
-USTAWIENIA
+DETALE
+LICZBA ŚWIATEŁ
+CZAT GŁOSOWY
 NA PODSTAWIE <i>SCP: CONTAINMENT BREACH</i>
-POWRÓT
-JĘZYK
+POŁĄCZ
+UWAGA
 ANTYALIASING
 Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, które są renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS do częstotliwości monitora.
 DOŁĄCZ DO GRY
 POST\nPROCESSING
-AUTORZY
-WYJDŹ
+ROZDZIELCZOŚĆ
+ZAMKNIJ
 Tryb pełnoekranowy
-USTAWIENIA EKRANU
+PRZEŁĄCZANE PODNOSZENIE
 KOREKCJA KOLORÓW
 Wpisz adres IP...
-ROZDZIELCZOŚĆ
-GRAJ
-LICZBA ŚWIATEŁ
+USTAWIENIA RENDEROWANIA ŚWIATEŁ
+POWRÓT
+GŁOŚNOŚĆ DŹWIĘKU
 TYP CIENI
-CIENIE
-STWÓRZ GRĘ
-Zmień ustawienia post-processingu. Nie wpływają one na wydajność. Zalecane jest pozostawienie domyślnych ustawień.
+WYJDŹ
+CREATE GAME
+Zmień ustawienia post-processingu. Zalecane jest pozostawienie domyślnych ustawień.
 Tryb renderowania świateł:\nGdy wyłączone - pogarsza znacznie wygląd gry. Zalecane jest wyłączenie tej opcji tylko w przypadku, gdy posiadasz słaby sprzęt
 V-SYNC
-POŁĄCZ
+CIENIE
 USTAWIENIA JAKOŚCI
 Zmień preferencje cieni. Zmniejszenie wartości tych suwaków może zwiększyć płynność gry.
 MENU GŁÓWNE
-USTAWIENIA RENDEROWANIA ŚWIATEŁ
-ROZMYCIE W RUCHU
-WIELKOŚĆ CIENI
-DETALE
+ROZDZIELCZOŚĆ CIENI
+PRZEŁĄCZANY BIEG
+USTAWIENIA DŹWIĘKU
+SZYBSZE OPISY
 3. SCP-914
 PORADNIKI
-UWAGA
+AUTORZY
 Przeglądaj dostępne serwery
 Nie pokazuj ponownie
 Jak chcesz się połączyć?
 WYSZUKIWARKA SERWERÓW
 OK
-ZNAJDŹ GRĘ
-2. Bronie
+ANIMACJA CHODZENIA
+2. Using weapons
 Używamy Discorda jako forum. Instalacja nie jest wymagana.\n(kliknij na logo poniżej, aby dołączyć)
 Domyślnie serwer uruchomi się w sieci lokalnej.\nTwoi znajomi będą potrzebowali Twojego IP, aby dołączyć.\nJeśli chcesz stworzyć serwer publiczny, otwórz LocalAdmin.exe i postępuj zgodnie z instrukcjami.\nJeżeli masz wątpliwości, zapytaj naszą pomoc techniczną (link w menu głównym)
-1. Podstawy
+1. The basics
 Prezentowana gra to otwarta beta.\nMożesz doświadczyć wielu błędów.\nAktualny stan nie świadczy o wersji finalnej.
 4. (więcej poradników później)
 POŁĄCZ BEZPOŚREDNIO
 POMOC TECHNICZNA / FORUM
-GŁOŚNOŚĆ DŹWIĘKU
+GŁOŚNOŚĆ OGÓLNA
 Wpisz adres IP wybranego hosta.
-POBIERANIE LISTY
+WIELKOŚĆ CIENI
 BRAK AKTYWNYCH SERWERÓW
 WCIŚNIJ ESC ABY ANULOWAĆ/ZAMKNĄĆ
-STEROWANIE
+JĘZYK
 MAKSYMALNA ILOŚĆ KRWI
 Limitowanie FPS
 Limitowanie FPS nie działa, gdy V-SYNC ON!
 Przywróć domyślne
 Używamy sekcji "Dyskusje" na Steam jako forum. (Kliknij na logo poniżej, by otworzyć)
-USTAWIENIA DŹWIĘKU
-GŁOŚNOŚĆ OGÓLNA
+USTAWIENIA EKRANU
+STWÓRZ GRĘ
 MUZYKA W MENU
-CZAT GŁOSOWY
+VOICE CHAT
 EFEKTY DŹWIĘKOWE
 USTAWIENIA ROZGRYWKI
-SZYBSZE OPISY
+ROZMYCIE W RUCHU
 Opis aktualnej klasy przy rozpoczęciu rundy zniknie o wiele szybciej.
 SCP-079 - SPOSÓB ZMIANY WIDOKU
 Naciśnij raz, aby przełączyć się pomiędzy trybami ruchu kamery.
 SCP-079 - POST-PROCESSING
 Gdy wyłączony, efekty na kamerze zostaną znacząco zmniejszone.
-ANIMACJA CHODZENIA
+ZNAJDŹ GRĘ
 Włącza ruch kamery podczas biegu.
-PRZEŁĄCZANY BIEG
+STEROWANIE
 Bieganie można włączać i wyłączać bez przytrzymywania klawisza.
-ODDZIELNY PASEK DODATKOWEGO ZDROWIA
-Przenosi dodatkowe zdrowie na osobny pasek, zamiast nakładać je na główny.
-Możesz pomóc w edycji naszych tłumaczeń, odwiedzając portal GitHub!\nNaciśnij tutaj, by tam przejść
+SEPARATE ARTIFICIAL HP BAR
+Gives artificial HP its own health bar, instead of an overlay.
+Możesz pomóc w edycji naszych tłumaczeń, odwiedzając portal GitHub!\nNaciśnij tutaj, by tam przejść Click here to access the repo.
 RICH PRESENCE
 Gdy włączone, twój status w grze zostanie pokazany na Discordzie/Steamie.
-WYŚWIETL DOKŁADNĄ ILOŚĆ ZDROWIA
+DISPLAY EXACT HP VALUE
 Wyświetlaj dokładną liczbę punktów życia, zamiast wartości procentowej.
 PUBLICZNE LOBBY
 Gdy włączone, twoi znajomi na Steam będą mogli dołączyć do gry bez wymagania twojej zgody.
 UKRYJ IP
 Gdy włączone, adresy IP nie są wyświetlane w konsoli.
-PRZEŁĄCZANE PODNOSZENIE
+TOGGLE SEARCH
 Podnoszenie przedmiotu nie będzie wymagać trzymania przycisku; naciśnij ponownie by anulować.
 Nakłada miękkie cienie na krawędziach w celu dodania im głębi.
 Nadaje środowiskowi więcej głębi dużym kosztem wydajności.
