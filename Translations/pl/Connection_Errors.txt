@@ -17,7 +17,7 @@
 <size=80>NIEZGODNOŚĆ WERSJI</size>\nTwoja wersja gry różni się od wersji serwera\n(Twoja: [your], Serwera: [server])
 <size=80>POŁĄCZONO</size>\n<size=35>Ładowanie placówki...</size>
 <size=35>Ładowanie placówki...</size>
-<size=80>ROZŁĄCZONO</size>\nWystąpił nieoczekiwany błąd.
+<size=80>ROZŁĄCZONO</size>\nSerwer został wyłączony.
 <size=80>ROZŁĄCZONO</size>\nTen serwer wymaga uwierzytelnienia.
 <size=80>ROZŁĄCZONO</size>\nNie znajdujesz się na whiteliście tego serwera.
 <size=80>ROZŁĄCZONO</size>\nZostałeś globalnie zbanowany.
@@ -35,4 +35,4 @@
 <size=80>ROZŁĄCZONO</size>\nOdpowiedź na wyzwanie bezpieczeństwa została odrzucona przez serwer.
 <size=80>ROZŁĄCZONO</size>\nOdpowiedź na wyzwanie bezpieczeństwa została przesłana zbyt późno.\nProszę spróbować ponownie lub skontaktować się z administracją serwera.
 <size=80>BŁĄD UWIERZYTELNIANIA</size>\nWiadomość od serwerów centralnych: [message].
-<size=80>ROZŁĄCZONO</size>\nSerwer został wyłączony.
+<size=80>DISCONNECTED</size>\nServer is shutting down.
