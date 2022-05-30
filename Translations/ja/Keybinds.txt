@@ -2,7 +2,7 @@
 ズーム
 ジャンプ
 インタラクト
-インベントリ
+Inventory
 リロード
 スプリント
 ボイスチャット
@@ -18,3 +18,13 @@
 特殊ボイスチャット
 Noclip
 ゲームコンソール
+Keycard Hotkey
+Inspect
+Cock Revolver
+Throw Item
+Primary Weapon Hotkey
+Secondary Weapon Hotkey
+Medical Hotkey
+Hide GUI
+Toggle Noclip Fog
+Grenade Hotkey
