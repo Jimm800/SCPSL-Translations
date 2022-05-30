@@ -1,19 +1,19 @@
-VOUS POUVEZ LUI DONNER DES ORDRES
 SUIVEZ SES ORDRES
-MÊME NIVEAU D'ACCRÉDITATION
+CAPACITÉ SPÉCIALE
+VOUS ÊTES MORT
 Classe-D échappés
 Scientifiques survivants
-Victimes des SCP
 SCP tués
+Victimes des SCP
 Ogive Alpha
-Activée
+Passif
 Désactivée
 La prochaine partie débutera dans [time] secondes.
-CAPACITÉ SPÉCIALE
+MÊME NIVEAU D'ACCRÉDITATION
 CRÉER UN PORTAIL
 UTILISER LE PORTAIL
-VOUS ÊTES MORT
 Vous avez été tué par :
+You were killed by
 en tant que :
-Passif
+Activée
 (caché)
