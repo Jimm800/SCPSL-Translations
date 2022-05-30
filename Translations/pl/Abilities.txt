@@ -6,12 +6,12 @@ Bezbronny:Niczego nie masz. Znajdź coś. Cokolwiek.
 Karta dostępu:Masz kartę dostępu, nie jest najlepsza, ale postaraj się jej nie zgubić.
 Standardowe wyposażenie:Jesteś wyposażony w karabin, granaty, radio, rozbrajacz i kartę dostępu.
 Uzbrojony i niebezpieczny:Wysłano cię z lekkim karabinem maszynowym, urządzeniem hakującym (specjalną kartą dostępu) oraz apteczką.
-Karkołomna prędkość:Nie ważne gdzie się ukryją, odnajdziesz ich w mgnieniu oka. Zwiększ swą prędkość ruchu oraz dystans teleportowania się, kosztem swojej śmiertelności. Umiejętność mija krótko po tym, gdy ktoś cię zaobserwuje lub ją anulujesz.
+Karkołomna prędkość:Nie ważne gdzie się ukryją, odnajdziesz ich w mgnieniu oka. Zwiększ swą prędkość ruchu oraz dystans teleportowania się, kosztem swojej śmiertelności. Lasts until shortly after being witnessed, or cancelled manually.
 Mrugnięcie:Kiedy ciebie ujrzą, spraw by żałowali urywania kontaktu wzrokowego nawet na moment. Kiedy ikona oka stanie się czerwona, przytrzymaj i przenieś wskaźnik do określonego miejsca. Puść, aby się teleportować i zabić najbliższą osobę w zasięgu 2 metrów.
 Przejście:Możesz utworzyć pole czarnej mazi do którego możesz się w każdej chwili teleportować. Teleportacja trwa kilka sekund.\nPonowne utworzenie pola spowoduje zmianę miejsca teleportacji.
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
 Nietykalny: Pociski nie zadają ci prawie żadnych obrażeń, lecz poświęcenie ludzkiej ofiary w twojej komorze przechowawczej powoduje twoje natychmiastowe zabezpieczenie.
-Wymiar Łuzowy:Chwytasz i teleportujesz ofiarę do wymiaru łuzowego, który pozbawia ją życia coraz szybciej. Jeśli nie wybierze poprawnego wyjścia, zginie w męczarniach.
+Wymiar Łuzowy:Chwytasz i teleportujesz ofiarę do wymiaru łuzowego, który pozbawia ją życia coraz szybciej. Humans must choose the correct exit, or die.
 Skopofobia:Zaczynasz spokojnym, wpadasz w szał, gdy ktoś cię ujrzy lub zrani. Zaspokój swój gniew zabijając winnych - podążaj za ich światłem zanim szał minie. Każdy cel zwiększy twoje AHP, zapobiegające obrażeniom od innych osób do jego wyczerpania.
 Spróbuj nie płakać (gdy spokojny):Jest to ciężkie. Oparcie się o drzwi może pomóc; staniesz się cichszy, opierając się o nie, uspokajając się... czekając na kogoś kto je otworzy.
 Atak (podczas szału):Przedrzyj się przez wszystko na swojej drodze, aby dostać się do osoby, która wyrządziła Ci krzywdę. Atakując, niszczysz drzwi i zabijasz ludzi.
