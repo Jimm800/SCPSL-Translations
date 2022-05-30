@@ -1,4 +1,4 @@
-SPRACHCHAT LAUTSTÄRKE
+INVENTAR VOLL
 Ja
 START ERZWINGEN
 SCP-106 EINDÄMMUNGS-\nPROZEDUR EINLEITEN
@@ -6,13 +6,13 @@ Invertiere Y-Achse
 ZUSAMMENFASSUNG
 Abbrechen
 I N V E N T A R
-HELLIGKEIT
-EINSTELLUNGEN
-SERVER VERLASSEN
+SPIELLAUTSTÄRKE
+ZUSAMMENFASSUNG
+SPRACHCHAT
 ALPHA SPRENGKOPF IST DEAKTIVIERT
 ZUGANG VERWEIGERT
-SPRACHCHAT
-INVENTAR VOLL
+Zuschauerchat stummschalten
+WARTE AUF SPIELER
 MAUSEMPFINDLICHKEIT
 HACKE
 HEBE AUF...
@@ -22,14 +22,14 @@ TÜR WURDE VON SCP-079 VERRIEGELT
 Vollbildmodus
 Bist du dir sicher, dass du den Server verlassen möchtest?
 Grundeinstellungen. Volle Liste von Einstellungen befinden sich im Hauptmenü.
-WARTE AUF SPIELER
-ZUSAMMENFASSUNG
-WEITER
-SPIELLAUTSTÄRKE
+SPRACHCHAT LAUTSTÄRKE
+EINSTELLUNGEN
+HELLIGKEIT
+DU BIST
 verbunden
 Du bist als Wissenschaftler entkommen und trittst der MTF bei.
 Du bist als Klasse-D entkommen und trittst der Chaos Insurgency bei.
-DU BIST
+WEITER
 Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
 Warte [time] bis du wieder [item] benutzen kannst.
 Drücke <color=white><b>F1</b></color> für mehr Informationen.
@@ -38,7 +38,7 @@ Du wurdest von der MTF wieder eingefangen.\nMit einer Gefahr weniger in der Einr
 Du wurdest als Wissenschaftler von der Chaos Insurgency gefangen genommen.\nSie haben einen Vorteil bekommen, dank den Informationen welche du Ihnen gegeben hast.
 RUNDE STARTET IN: <color=yellow>{0}</color>s
 RUNDENSTART IST <color=#FF5050>PAUSIERT</color>
-<size=18>REDUZIERUNG DER ZIELEMPFINDLICHKEIT</size>
+AIMING SENS. REDUCTION
 Drücke [key] um den Wurf abzubrechen.
 Zielen Umschalten
-Zuschauerchat stummschalten
+Mute Spectator Chat
