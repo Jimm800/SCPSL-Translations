@@ -6,5 +6,5 @@
 <color=red>ACCESSO NEGATO</color>
 <color=green>ACCESSO GARANTITO</color>
 <color=#07A2FF>KEYCARD RICHIESTA</color>
-<color=orange>PROCEDI</color>
 <color=orange>IN CHIUSURA</color>
+<color=orange>PROCEDI</color>
