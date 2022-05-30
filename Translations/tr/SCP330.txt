@@ -5,7 +5,7 @@ Sağlık yenileme, enerji ve AHP dahil olmak üzere çok sayıda ufak özellikle
 Sarı Şeker
 Limonun ezici kokusu sizi biraz ürkütüyor.
 Daha hızlı hareket etmenizi ve kısa bir süre için daha uzun süre koşmanızı sağlar.
-Mor Şeker
+Pembe Şeker
 Sulu bir üzüm kokusuna sahiptir. Ağzınız sulanmaya başlar.
 Hasara karşı geçici direnç sağlar ve sağlığı yavaş yavaş yeniler.
 Kırmızı Şeker
@@ -17,6 +17,6 @@ Sağlığın uzun süreli yenilenmesini ve çoğu durum etkisine karşı geçici
 Mavi Şeker
 Yumuşak ve tatlı kokuyor, hatmiye benzer bir şey.
 Geçici bir kalkan sağlar.
-Pembe Şeker
+Mor Şeker
 Çilek kokusu göründüğü kadar yumuşaktır.
 - K A L D I R I L D I -
