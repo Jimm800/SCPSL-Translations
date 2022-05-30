@@ -1,22 +1,22 @@
-Höyrystetty Alfa Ydinkärjellä.
-Murtuneet jalat ja jalkaterät viittaavat putoamisesta kuolemaan.
-Merkkejä vakavasta vammasta kummassakin reisiluussa viittaa verenkiertosokin aiheuttamaan kuolemaan.
-Mädäntynyt tasku-ulottuvuudessa.
-Se on jäännös SCP-106:sta.
-Vakavia sähköisiä palovammoja.
-Kuolettava ulkoinen vamma; ruumis on pahasti vahingoittunut.
-[ammotype] luodin haavoja.
-Kaularangan murtuma.
-Kehossa on massiivisia määriä kudoksen hajoamista.
-Elonmerkkien äkillinen loppu. Ei selvää vammaa.
-Tuntematon kuolinsyy.
-Pelaajan <b>[user]</b> ruumis - hän oli [class]!\n\nKuolinsyy: [cause]
-Massiivisia repeytymiä ja liiallinen verenhukka.
-Havaittavissa suuria, syviä puremisen merkkejä kallon ympärillä.
-Sulanut erittäin syövyttävästä aineesta.
-Räjähdyksen sirpaleista aiheutuneita kolmannen asteen palovammoja.
-Kalpea iho ja suusta vuotava veri viittaavat aineen nielemisen aiheuttamaan sisäiseen verenvuotoon.
-Ihmisen taltuttama.
-Ulkoisia vammoja ja pieniä raapaisuja on näkyvissä ruumiissa.
-Syvien haavojen aiheuttama vakava verenhukka.
-Keltainen iho ja paha haju viittaa kuolemaan myrkystä.
+Vaporized by the Alpha Warhead.
+Shattered legs and feet suggest fatal trauma caused by a fall.
+Signs of severe trauma to both femur bones suggests death by circulatory shock.
+Decayed in the Pocket Dimension.
+It's remnants of SCP-106.
+Severe electrical burns.
+Fatal blunt trauma; the body is badly mutilated and pulped.
+[ammotype] bullet wounds.
+Cervical fracture at the base of the skull.
+Massive amounts of tissue decay are present on the body.
+Sudden cessation of life signs. No clear trauma.
+Unknown cause of death.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Massive lacerations and excessive blood loss.
+Large, deep bite marks on the body can be observed.
+Melted by a highly corrosive substance.
+Shrapnel and severe burns caused by an explosion.
+Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
+Recontained.
+Blunt trauma and minor scratches are present on the body.
+Severe blood loss caused by deep wounds.
+Sickly yellow skin and a rancid smell suggests death by poison.
