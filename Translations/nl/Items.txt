@@ -39,3 +39,5 @@
 43~SCP-2176~Je eigen Ghostlight! Voorzichtig, zeer breekbaar...
 44~SCP-244-A~Een ijskoude antieke vaas. Creëert een grote wolk van ijzige mist wanneer geplaatst.
 45~SCP-244-B~Een ijskoude antieke vaas. Creëert een grote wolk van ijzige mist wanneer geplaatst.
+46~SCP-1853~Improves weapon manipulation skills at the cost of higher stamina usage.
+47~3-X Particle Disruptor
