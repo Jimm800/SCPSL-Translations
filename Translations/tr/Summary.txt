@@ -1,12 +1,12 @@
 Raunt bitti!
 SCPler KAZANDI
-VAKIF KAZANDI
 İSYANCILAR KAZANDI
+VAKIF KAZANDI
 BERABERE
-Kaçan denekler tesisi ele geçirdi. Acil müdahale şifrelendi.
+Kaçan denekler tesisi ele geçirdi. Emergency response has been scrambled.
 Güvenliğe yönelik tüm tehditler etkisiz hale getirildi. Site-02 bir kez daha güvende.
 Vakıf mevcudiyeti ortadan kaldırıldı. Operatörler gelecek emirler için beklemede.
-Site-02 kontrol altında, bedeli ağır oldu. Galip belli değil.
+Site-02 kontrol altında, bedeli ağır oldu. The victor is undetermined.
 [summary_d_escaped] d-sınıf kaçtı
 [summary_s_escaped] bilim adam(lar)ı hayatta kaldı
 Alpha Savaş Başlığı'nın infilakı [summary_warhead_kills] varlığı etkisiz hale getirdi.
