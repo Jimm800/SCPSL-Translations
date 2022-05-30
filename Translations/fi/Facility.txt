@@ -1,40 +1,44 @@
-ÄÄNENVOIMAKKUUS
-Kyllä
-PAKOTA ALOITUS
-SCP-106 UUDELLEENERISTYS\nPROSESSIN KÄYNNISTYS
-Käännä Y-akseli
-YHTEENVETO
-Peruuta
-T A V A R A L U E T T E L O
-KIRKKAUS
-ASETUKSET
-KATKAISE YHTEYS
-ALFA YDINKÄRKI ON POISSA PÄÄLTÄ
-PÄÄSY KIELLETTY
-ÄÄNICHATTI
-TAVARALUETTELON YLIKUORMITUS
-HIIREN HERKKYYS
+VOICE VOLUME
+Yes
+FORCE START
+SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
+Invert Y-axis
+SUMMARY
+Cancel
+I N V E N T O R Y
+BRIGHTNESS
+SETTINGS
+DISCONNECT
+ALPHA WARHEAD IS DISABLED
+ACCESS DENIED
+VOICE CHAT
+INVENTORY OVERLOAD
+MOUSE SENSITIVITY
 HACKING
-OTETAAN...
-Iso kirkkaus <b>huonontaa pelin tunnelmaa merkittävästi.</b>\nYritä laittaa tämä niin alhaiseksi kuin voit.\n<b>Oletusarvo on suositeltu.</b>
-[1] AVAA/SULJE OVI\n[2] LUKITSE OVI*\n\n*Oven lukitseminen käyttää erikoiskykyä
-SCP-079 ON LUKINNUT OVEN
-Kokoruututila
-Haluatko varmasti lähteä palvelimelta?
-Perusasetukset. Täysi lista asetuksista päävalikossa.
-ODOTETAAN PELAAJIA
-YHTEENVETO
-JATKA
-PÄÄVOIMAKKUUS
-yhdistetty
-Sinä pakenit tutkijana ja liityit MTF:ään.
-Sinä pakenit D-Luokkana ja liityit Chaos Insurgency:yn.
-SINÄ OLET
-Pakenemisaika: [escape_minutes] minuuttia ja [escape_seconds] sekuntia
-Odota [time] kunnes voit käyttää esinettä [item] uudelleen.
-Paina <color=white><b>F1</b></color> saadaksesi lisätietoja.
-Sinut on pidätetty.\n<size=40>Seuraa ohjeita tai kysy tiimikavereilta apua.</size>
-Nine-Tailed Fox otti sinut kiinni.\nNyt yksi vähempi uhka laitoksessa, he pystyivät vahvistumaan.
-Sinut otettiin vangiksi tutkijana Chaos Insurgencyn toimesta.\nHe pystyivät hyötymään tiedosta jota annoit heille.
-KIERROS ALKAA: <color=yellow>{0}</color>s
-KIERROKSEN ALKAMINEN ON <color=#FF5050>PYSÄYTETTY</color>
+PICKING UP...
+Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
+[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
+DOOR HAS BEEN LOCK-DOWN BY SCP-079
+Fullscreen mode
+Are you sure you want to leave the server?
+Basic options. Full list of settings in the menu.
+WAITING FOR PLAYERS
+SUMMARY
+CONTINUE
+MAIN VOLUME
+connected
+You escaped as a Scientist and joined the MTF units.
+You escaped as a Class D and joined the Chaos Insurgency.
+YOU ARE
+Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Wait [time] until you can use [item] again.
+Press <color=yellow><b>F1</b></color> for help.
+You have been cuffed.\n<size=40>Follow orders or ask teammates for help.</size>
+You were recaptured by the Nine-Tailed Fox.\nWith one less threat in the facility, they were able to reinforce.
+You were taken prisoner as a scientist by the Chaos Insurgency.\nThey were able to gain an advantage from the information you gave them.
+ROUND STARTS IN: <color=yellow>{0}</color>s
+ROUND START IS <color=#FF5050>PAUSED</color>
+AIMING SENS. REDUCTION
+Press [key] to cancel the throw.
+ADS Toggle
+Mute Spectator Chat
