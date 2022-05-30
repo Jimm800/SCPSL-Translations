@@ -1,17 +1,17 @@
-Hjælpestrøm
-EVNENIVEAU
-KAMERA FEED ONLINE
-TRYK [KEY] FOR AT SLÅ OVERVÅGNINGSKORTET TIL OG FRA
-Evneniveau opnået:
-Arbejde sammen
-Assisterede drab på Klasse-D
-Assisterede drab på Kaos Oprørere
-Assisterede drab på MTF
-Assisterede drab på Videnskabsmænd
-Assisterede drab på SCP
-LÅSTE DØRE: [LOCKED_NUM]<size=25>HØJREKLIK FOR AT ÅBNE ALLE DØRE</size>
-Generelle interaktioner
-Du bliver angrebet!
-Du kan nu se generatorer på kortet
-FARE
-SCPs{0}MTF & Sikkerhedsvagter{1}Videnskabsmænd{2}Klasse-D{3}Kaos Oprørere{4}
+AUXILIARY POWER
+EXPERIENCE
+CAMERA FEED ONLINE
+PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
+Experience gained:
+Cooperative work
+Class-D termination assist
+CI termination assist
+MTF termination assist
+Scientist termination assist
+SCP termination assist
+LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
+General interactions
+You are being attacked!
+Generators have been highlighted on the map
+DANGER
+SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}
