@@ -1,6 +1,6 @@
-<color=red>Hozzáférés megtagadva</color>
-Elérted a limitet <color=yellow>[type] típusú lőszerből</color> (<color=yellow>[max_type_count] golyó</color>).
-<b>Már</b> elérted a limitet a <color=yellow>[type] típusú lőszerből</color> (<color=yellow>[max_type_count] golyó</color>).
-Elérted a limitet a <color=yellow>[type] típusú tárgyból</color> (<color=yellow>[max_type_count] tárgy</color>).
-<b>Már</b> elérted a limitet a(z) <color=yellow>[type] típusú tárgyból</color> (<color=yellow>[max_type_count] tárgy</color>).
-Csak <color=yellow>[max_item_count] tárgyat</color> cipelhetsz.
+<color=red>Access denied</color>
+Reached the limit of <color=yellow>[type] ammo</color> (<color=yellow>[max_type_count] rounds</color>).
+<b>Already</b> reached the limit of <color=yellow>[type] ammo</color> (<color=yellow>[max_type_count] rounds</color>).
+Reached the limit of <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>).
+<b>Already</b> reached the limit of <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>).
+Only <color=yellow>[max_item_count] items</color> can be carried.
