@@ -15,7 +15,7 @@ Ausrüstungszeit
 Nachladezeit
 ---
 Zielgeschwindigkeit
-Schrotkugelstreuung
+Pellet spread
 Einheitlichkeit der Muster
 Anzahl der Geschosse
 Nachladegeschwindigkeit
