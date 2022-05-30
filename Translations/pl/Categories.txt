@@ -2,9 +2,9 @@ Brak
 Kart dostępu
 Przedmiotów medycznych
 Radiów
-Broni palnej
+Firearms
 Granatów
 Przedmiotów SCP
 Micro H.I.D.
-Amunicji
-Pancerzy
+Ammo
+Body Armor
