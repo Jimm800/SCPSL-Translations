@@ -1,4 +1,4 @@
-Es ist <b>[user]</b>'s Körper! - Er/Sie war [class]!\n\nTodesgrund: [cause]
+Es ist <b>[user]</b>'s Körper!
 Wieder eingedämmt.
 Vaporisiert durch den Alpha Sprengkopf
 Plötzliches Aufhören der Lebenszeichen. Kein klares Trauma erkennbar.
