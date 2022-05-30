@@ -1,7 +1,7 @@
 Nachrichten
 Server
 Einstellungen
-Beenden
+Ausgeschaltet
 Soziale Medien
 Internet
 Favoriten
@@ -10,11 +10,11 @@ Verlauf
 Freunde
 Suche Server
 Erstelle Server
-<size=12>Erneut Verbinden</size>
-<size=15>Direkt Verbinden</size>
-<size=13>Aktualisieren</size>
-Verstecke leere Server
-Verstecke volle Server
+Zurück
+Verbinden
+Refresh
+Hide Empty Games
+Hide Full Games
 keine Whitelist
 Video
 Audio
@@ -28,35 +28,35 @@ Maximiertes Fenster
 Einfaches Fenster
 V-Sync
 FPS Limit
-Aus
+Aufheben umschalten
 Texturenauflösung
-Blut und Einschusslöcher
+Decals
 Schatten
 Schattenauflösung
 Schattendistanz
 Bewegungsunschärfe
 Farbkorrektur
-Kantenglättung
+Anti Aliasing
 Rendere Licht
-Allgemeine Lautstärke
+Master Volume
 Soundeffekte
 Sprachchat
 Musik im Hauptmenü
 Interface Lautstärke
 Hauptmenü Thema
 Intro schnell ausblenden
-Kamera wackeln
+Head Bob
 Sprint umschalten
 Zeige HP-Punkte an
 Rich Presence
 Öffentliche Lobby
-Aufheben umschalten
+Toggle Search
 SCP-079 - Ansicht umschalten
 SCP-079 - Nachbearbeitung
 Sprache
 Hauptmenü
-Verbinden
-Zurück
+Connect
+Back
 Diese Änderung erfordert einen Neustart des Hauptmenüs.\nJetzt neustarten?
 Ja
 Nein
@@ -71,8 +71,8 @@ Verbinde mit den Central Servern...
 <color=red>Verbindung fehlgeschlagen (Prüfe deine Konsole für Details)</color>
 <color=red>Steam-Authentifizierung fehlgeschlagen (Prüfe deine Konsole für Details)</color></color>
 <color=red>Discord-Authentifizierung fehlgeschlagen (Prüfe deine Konsole für Details)</color></color>
-Ausgeschaltet
-Sekunden
+Disabled
+Sekunde
 Ragdoll Beseitigungszeit
 Zeige Steamprofil an
 Erlaubt anderen Spielern dein Steamprofil aufzurufen wenn sie in der Spielerliste auf ein Icon klicken.
@@ -80,11 +80,11 @@ Do Not Track (DNT)
 Verbietet dem Server deine Daten (IP Adresse, User ID, etc.) zu nutzen, außer für Zwecke welche der Serversicherheit dienen.
 Grafik API
 <size=18>Einen Server direkt im Spiel zu erstellen ist nicht mehr Nativ unterstützt.\nEs gibt zur Zeit 3 Möglichkeiten einen SCP:SL Server zu hosten:\n- Du kannst einen Server auf deinem Rechner mit dem Programm SCP:SL Dedicated Server (Steamapp ID: 996560) hosten.\n – Du kannst einen VPS oder dedizierten Server mieten und dort den SCP:SL Dedicated Server drauf laufen lassen.\n – Du kannst einen vorinstallierten SCP:SL Server von einem Hoster (z.B. Zap Hosting) mieten.\n\nKlicke auf die Links weiter unten um mehr Informationen dazu zu erhalten.\nDu kannst unseren Tech-Support bei Problemen um Hilfe bitten (Link zu unserem Discordserver kann im Hauptmenü gefunden werden)</size>
-<size=18>ERSTELLE TROTZDEM</size>
-<size=18>MEHR LESEN</size>
+CREATE ANYWAY
+READ MORE
 <size=18>MIETE EINEN SERVER</size>
-<size=18>ABBRECHEN</size>
-Sekunde
+CANCEL
+Sekunden
 Für das spielen unseres Spieles!
 Taskleiste beim Spawn aufblinken lassen
 Umgebungsunschärfe
