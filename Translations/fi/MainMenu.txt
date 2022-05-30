@@ -1,91 +1,99 @@
-LIITY
-SULJE
-VARJOJEN RESOLUUTIO
-ASETUKSET
-PERUSTUU PELIIN <i>SCP: CONTAINMENT BREACH</i>
-TAKAISIN
-KIELI
-REUNOJENPEHMENNYS
-Vaihda laatua:\n-PIKSELEIDEN VALOMÄÄRÄ - Enimmäismäärä valonlähteitä, jotka on renderöity yksittäisiin pikseleihin.\n-V-Sync - Salli synkronointi näyttösi virkistystaajuuden kanssa.
-LIITY PELIIN
-JÄLKI-\nKÄSITTELY
-TEKIJÄT
-LOPETA PELI
-Kokonäytöntila
-NÄYTÖN ASETUKSET
-VÄRIKORJAUS
-Anna IP-osoite...
-NÄYTÖN RESOLUUTIO
-PELAA
-PIKSELEIDEN VALOMÄÄRÄ
-VARJON TYYPPI
-VARJOT
-LUO PELI
-Vaihda jälkikäsittelyn asetuksia. Nämä asetukset eivät yleisesti vaihda suorityskykyä, joten oletusarvojen jättäminen on suositeltu.
-Valorenderöinti:\nKun poissa päältä, grafiikkojen laatu on huomattavasti alhaisempi. Tämän asetuksen poistaminen päältä on suositeltu vain huonoille koneille.
+JOIN
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BREACH</i>
+BACK
+LANGUAGE
+ANTIALIASING
+Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
+JOIN GAME
+POST\nPROCESSING
+CREDITS
+QUIT GAME
+Fullscreen mode
+SCREEN SETTINGS
+COLOR CORRECTION
+Enter IP Address...
+SCREEN RESOLUTION
+PLAY
+PIXEL LIGHT COUNT
+SHADOW TYPE
+SHADOWS
+CREATE GAME
+Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
+Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
 V-SYNC
-YHDISTÄ
-LAADUN ASETUKSET
-Vaihda varjojen asetuksia. Laittamalla nämä asetukset alhaisemmaksi voi parantaa pelin sulavuutta.
-PÄÄVALIKKO
-VALORENDERÖINTI
-LIIKESUMENNUS
-VARJOJEN ETÄISYYS
-YKSITYISKOHDAT
+CONNECT
+QUALITY SETTINGS
+Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
+MAIN MENU
+RENDER LIGHTS
+MOTION BLUR
+SHADOW DISTANCE
+DETAILS
 3. SCP-914
-TUTORIAALIT
-VAROITUS
-Selaa saatavilla olevia palvelimia
-Älä näytä uudestaan
-Miten haluaisit yhdistää?
-PALVELINSELAIN
-OKEI
-ETSI PELI
-2. Aseiden käyttö
-Käytämme Discordia keskustelualustanamme. Ei vaadi asenteluja.\n(Klikkaa logoa liittyäksesi)
-Oletuksena palvelin käynnistetään lähiverkossa.\nKaverisi tulevat tarvitsemaan suoran IP-osoitteen yhdistääkseen.\nJos haluat tehdä julkisen palvelimen, valitse LocalAdmin.exe pelin tiedostoista ja seuraa ohjeita.\nJos sinulla on kysymyksiä, kysy meidän tekniseltä tuelta apua. (Linkki päävalikossa)
-1. Perusasiat
-Esitetty peli on vielä beetassa.\nSaatat kohdata yhteysongelmia ja bugeja.\nPelin tämänhetkinen tila ei kuvasta viimeistä versiota.
-4. (Enemmän ohjeita myöhemmin)
-YHDISTÄ SUORAAN
-TEKNINEN TUKI / FOORUMI
-ÄÄNENVOIMAKKUUS
-Anna tietyn palvelimen IP-osoite
-LADATAAN TIETOJA
-EI PALVELIMIA SAATAVILLA
-SULJE/PERUUTA PAINAMALLA ESC-NÄPPÄINTÄ
-NÄPPÄINTEN VAIHTO
-ENIMMÄIS VEREN MÄÄRÄ
-Kuvataajuuden rajoitus
-Kuvataajuuden rajoitus ei toimi kun vSync on päällä!
-Palauta oletukset
-Me käytämme Steamin foorumia keskustelualueenamme. (Paina logoa avataksesi foorumin)
-ÄÄNIASETUKSET
-PÄÄ-ÄÄNENVOIMAKKUUS
-PÄÄVALIKKO MUSIIKKI
-ÄÄNIKESKUSTELU
-ÄÄNITEHOSTEET
-PELIN VAIHTOEHDOT
-NOPEA INFON HAIHTUMINEN
-Luokan esittelyteksti katoaa paljon nopeammin.
-SCP-079 - VAIHDA NÄKYVYYSTILAA
-Paina kerran vaihtaaksesi kameran tilaa.
-SCP-079 - JÄLKIKÄSITTELY
-Jos poissa käytöstä, näytön tehosteet vähenevät huomattavasti.
-PÄÄN KEIKKUMINEN
-Aktivoi ensimmäisen persoonan kameran keikkumisen liikkeessä.
-AKTIVOI JUOKSEMINEN
-Juokseminen vaihtelee päälle ja pois, napin pohjassapitämisen sijaan.
-Erillinen keinotekoinen HP-palkki
-Antaa keinotekoiselle HP:lle oman terveyspalkin peittokuvan sijasta.
-Käännöksemme ovat avointa lähdekoodia GitHubissa!\nHaluatko auttaa? Napsauta tätä päästäksesi repoon.
+TUTORIALS
+WARNING
+Browse available servers
+Don't show it again
+How would you like to connect?
+SERVER BROWSER
+OKAY
+FIND MATCH
+2. Using weapons
+We use Discord as a forum. No installation needed.\n(click the logo to join)
+By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
+1. The basics
+The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+DIRECT CONNECT
+TECH SUPPORT / FORUM
+SOUND VOLUME
+Enter the IP address of the specific server.
+DOWNLOADING DATA
+NO SERVERS AVAILABLE
+PRESS ESC TO CLOSE / CANCEL
+KEY BINDING
+MAX BLOOD AMOUNT
+FPS Limit
+FPS Limit does not work when vSync is enabled!
+Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the forum)
+AUDIO SETTINGS
+MASTER VOLUME
+MENU MUSIC
+VOICE CHAT
+SOUND EFFECTS
+GAMEPLAY OPTIONS
+FAST INTRO FADE
+Class intro text will fade out much more quickly.
+SCP-079 - TOGGLE VIEW MODE
+Press once to swap between camera modes.
+SCP-079 - POST-PROCESSING
+If disabled, camera effects will be heavily reduced.
+HEAD BOB
+Enables first-person camera bobbing during movement.
+TOGGLE SPRINT
+Sprinting toggles on and off, instead of being held down.
+SEPARATE ARTIFICIAL HP BAR
+Gives artificial HP its own health bar, instead of an overlay.
+Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
 RICH PRESENCE
-Jos aktivoituna, statuksesi näkyy Discordissa/Steamissa.
-NÄYTÄ OIKEA HP-ARVO
-Näyttää oikean HP:n, pelkästään prosentin sijasta.
-JULKINEN AULA
-Jos aktivoituna, kaverisi voivat liittyä peliisi ilman lupaa.
+If enabled, your status will be displayed on Discord/Steam.
+DISPLAY EXACT HP VALUE
+Displays exact HP, instead of just the percentage.
+PUBLIC LOBBY
+If enabled, your steam friends can join you without permission.
 HIDE IP
-Jos päällä, piilottaa kaikki IP:t pelikonsolista.
-AKTIVOI NOSTO
-Tavaroiden nosto ei tarvitse napin pohjassapitämistä; paina uudelleen peruaksesi.
+If enabled, any IP in client console is not displayed.
+TOGGLE SEARCH
+Item pickup will not require a held key; press again to cancel.
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+Toggle to show subtitles for cassie announcements.
+Flashes the taskbar when you spawn while the game is not in focus.
+Smoothes lines and removes visual distortions.
+Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.
