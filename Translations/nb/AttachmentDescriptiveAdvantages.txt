@@ -1,4 +1,4 @@
-Lyskilde
-Ammunisjons-teller
-Lysglimt-demper
-Nattkikkert
+Light Source
+Ammo Counter
+Flash Suppression
+Night Vision
