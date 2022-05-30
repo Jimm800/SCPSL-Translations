@@ -1,4 +1,4 @@
-VAROITUS
-OKEI
-<b>Intel grafiikat</b> on havaittu, joita <b>ei tueta</b>.\nOn <b>suositeltua</B> käyttää <b>integroitumatonta</b> näytönohjainta.\nPeli saattaa <b>kaatua useammin</b> nykyisellä asennuksella.
-Tärkeää äänikeskustelun vaatimaa järjestelmäpäivitystä ei löydy. Varmista, että Windows on täysin ajan tasalla, muuten peli ei välttämättä toimi oikein. Jos ongelma jatkuu, ota yhteyttä tekniseen tukitiimiimme saadaksesi lisäapua.(Huom! Tuen kieli on englanti.)
+WARNING
+OKAY
+<b>Intel graphics</b> have been detected which is <b>not supported</b>.\nIt is <b>recommended</b> to use a <b>non-integrated</b> graphics card.\nThe game may <b>often crash</b> with the current setup.
+An important system update that is required by the voice chat cannot be found. Please ensure that your Windows is fully up to date, otherwise the game may not function properly. If this issue persists, please contact our tech support team for further assistance
