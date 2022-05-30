@@ -1,17 +1,17 @@
-hra byla dokončena!
-SCPs vyhráli
-MTF vyhráli
-CLASS-D vyhráli
-Nikdo nevyhrál!
-Jsou odpovědní za smrt [summary_scpfrags] lidí.
-Hrozba eliminována. Toto místo je opět čisté.
-Všechno zabezpečení laboratoře byla vyřazeno.
-Obě strany utrpěly ztráty. Vítěž není nikdo!.
-Uteklo [summary_d_escaped] Personálu třídy- D
-[summary_s_escaped] Vědců
-Hlavice Alpha byla detonována a zabila [summary_warhead_kills] lidí.
-Hlavice Alpha nebyla detonována toto kolo.
-Mise zabrala [summary_round_minutes] minut a [summary_round_seconds] vteřin.
-[summary_scp_terminated] zabitých SCP
-Další kolo za [summary_next_round_countdown] vteřin.
-Způsobili jste [summary_damages] poškození a zabili [summary_kills] hráčů.
+The round has finished!
+SCPS WIN
+FOUNDATION WINS
+INSURGENCY WINS
+STALEMATE
+The escaped subjects have overrun the facility. Emergency response has been scrambled.
+All threats to safety have been neutralized. Site-02 is secure once again.
+Foundation presence has been exterminated. Operatives standing by for further orders.
+Site-02 is under certain control, but not without cost. The victor is undetermined.
+[summary_d_escaped] class-d escaped
+[summary_s_escaped] scientist(s) survived
+The Alpha Warhead's detonation terminated [summary_warhead_kills] beings.
+The Alpha Warhead was not detonated during this mission.
+The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+[summary_scp_terminated] terminated SCPs
+Next round in [summary_next_round_countdown] seconds.
+The SCPs killed [summary_scpfrags] human beings.
