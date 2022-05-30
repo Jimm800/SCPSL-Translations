@@ -1,11 +1,11 @@
-0~Tessera Magnetica del Bidello
+0~Janitor Keycard
 1~Tessera Magnetica dello Scienziato
 2~Tessera Magnetica del Ricercatore
 3~Tessera Magnetica del Responsabile di Zona
 4~Tessera Magnetica della Guardia della Struttura
-5~Tessera Magnetica del Soldato Nine-Tailed Fox
+5~MTF Private Keycard
 6~Tessera Magnetica dell'Ingegnere di Contenimento
-7~Tessera Magnetica del Sergente Nine-Tailed Fox
+7~MTF Sergeant Keycard
 8~Tessera Magnetica del Capitano Nine-Tailed Fox
 9~Tessera Magnetica del Responsabile della Struttura
 10~Dispositivo di accesso della Chaos Insurgency
