@@ -1,17 +1,17 @@
-Lőszer {0}/{1} {2}
-Sebzés
-Tűzgyorsaság
-Csípő Pontosság
-ADS Pontosság
-Súly
-Hosszúság
-ELDOB:
-Sisak Hatékonysága
-Mellény Hatékonysága
-Állóképesség-használat
-Mozgás Sebessége
-Tárgy Limit:
-Lőszer Limit:
-{0} összesen
-Páncélátütés
-Futási Pontosság
+Ammo {0}/{1} {2}
+Damage
+Fire Rate
+Hip Accuracy
+ADS Accuracy
+Weight
+Length
+DROP:
+Helmet Efficacy
+Vest Efficacy
+Stamina Usage
+Movement Speed
+Item Limits:
+Ammo Limits:
+{0} total
+Armor Penetration
+Running Accuracy
