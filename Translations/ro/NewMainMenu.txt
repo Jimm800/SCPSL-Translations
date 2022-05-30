@@ -1,93 +1,93 @@
-Noutăți
-Servere
-Setări
-Ieși
-Rețele Sociale
+News
+Servers
+Settings
+Quit
+Social Media
 Internet
-Favorite
-Oficial
-Istorie
-Prieteni
-Caută Server
-Crează Server
-Re-Intră
-Conectare Directă
-Reîmprospetează
-Ascunde Jocuri Goale
-Ascunde Jocuri Pline
-Fără Whitelist
+Favourites
+Official
+History
+Friends
+Search Servers
+Create Server
+Re-Join
+Direct Connect
+Refresh
+Hide Empty Games
+Hide Full Games
+No Whitelist
 Video
 Audio
-Controale
+Controls
 Gameplay
-Altele
-Mod Fereastră
-Exclusiv Fullscreen
-Fereastră Fără Margini
-Fereastră Maximizată
-Fereastră
+Others
+Window Mode
+Exclusive Fullscreen
+Borderless Window
+Maximized Window
+Windowed
 V-Sync
-Limită FPS
+FPS Limit
 Off
-Calitate Textură
-Decale
-Umbre
-Rezoluție de Umbră
-Distanță de Umbră
-Blur de Moțiune
-Corecție de Culoare
+Texture Quality
+Decals
+Shadows
+Shadow Resolution
+Shadow Distance
+Motion Blur
+Color Correction
 Anti Aliasing
-Rendering de Lumini
-Volum Principal
-Efecte de Sunete
-Chat Vocal
-Muzica Meniului
-Volumul Interfeței
-Tema Meniului
-Introducere Rapidă
-Mișcare de Cap
+Render Lights
+Master Volume
+Sound Effects
+Voice Chat
+Menu Music
+Interface Volume
+Menu Theme
+Fast Intro Fade
+Head Bob
 Toggle Sprint
-Arată Valoarea Exactă de HP
-Prezență Bogată
-Lobby Public
-Toggle Căutare
-SCP-079 - Toggle Modul de Vizualizare
+Display Exact HP Value
+Rich Presence
+Public Lobby
+Toggle Search
+SCP-079 - Toggle View Mode
 SCP-079 - Post-Processing
-Limbă
-Meniu Principal
-Conectați
-Înapoi
-Această schimbare va necesita o reîncărcare.\nReîncărcați meniul acum?
-Da
-Nu
-Ești sigur că vrei să ieși?
-Rezoluția Ecranului
-Ascunde IP
-Bine ai venit, {username}!
-Credite
-AUTENTIFICÂND
-Conectând la servere centrale...
-<color=green>Conexiunea stabilită</color>
-<color=red>Eșecul conexiunii (Verifică consola pentru detalii)</color>
-<color=red>Eșec de autentificare de Steam (Verifică consola pentru detalii)</color>
-<color=red>Eșec de autentificare de Discord (Verifică consola pentru detalii)</color>
-Dezactivat
-Secunde
-Timp de Curățare Corpuri
-Arată Profilul de Steam
-Dă voie jucătorilor să îți vadă profilul de Steam apăsând pe un buton pe lista de jucători.
-Nu Urmări (NU)
-Interzice serverului să vă utilizeze datele (adresă IP, ID-ul utilizatorului etc.) în scopuri care nu au legătură cu securitatea serverului.
-Grafice API
-Crearea serverelor de joc direct din joc nu mai este acceptată.\nÎn prezent există 3 moduri de a crea un server SCP:SL:\n- Puteți descărca serverul dedicat SCP: SL (Steam AppID: 996560) și rulați-l pe computerul dvs.\n- Puteți închiria un VPS sau un Server Dedicat de la un furnizor de găzduire și puteți rula acolo un server dedicat SCP:SL\n- Puteți închiria un server SCP:SL de la un furnizor de găzduire de jocuri care acceptă SCP:SL (de exemplu, ZAP Hosting)\n\nFaceți click pe linkurile de mai jos pentru a obține mai multe informații.\nPuteți solicita asistență tehnică (linkul către serverul nostru Discord poate fi găsit în meniul principal) pentru asistență.
-CREAZĂ ORICUM
-CITEȘTE MAI MULT
-CHIRIAZĂ SERVER
-ANULARE
-Secundă
-Pentru jucând jocul nostru!
-Luminează Taskbar Pe Spawn
-Ocluzie Ambientală
-Lumini Volumetrice
+Language
+Main Menu
+Connect
+Back
+This change will require a reload.\nReload the menu now?
+Yes
+No
+Are you sure you want to quit?
+Screen Resolution
+Hide IP
+Welcome back, {username}!
+Credits
+AUTHENTICATING
+Connecting to central servers...
+<color=green>Connection established</color>
+<color=red>Connection failure (Check console for details)</color>
+<color=red>Steam authentication failure (Check console for details)</color>
+<color=red>Discord authentication failure (Check console for details)</color>
+Disabled
+Seconds
+Ragdoll Cleanup Time
+Display Steam Profile
+Allows players to view your Steam profile by clicking an icon on the player list.
+Do Not Track (DNT)
+Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.
+Graphics API
+Creating game servers directly from the game is no longer supported.\nThere are currently 3 ways of creating a SCP:SL server:\n- You can download SCP:SL dedicated server (Steam AppID: 996560) and run it on your computer\n- You can rent a VPS or a Dedicated Server from a hosting provider and run SCP:SL dedicated server there\n- You can rent a SCP:SL server from a game hosting provider that supports SCP:SL (eg. ZAP Hosting)\n\nClick the links below to get more info.\nYou can ask our tech support (link to our Discord server can be found in the main menu) for assistance.
+CREATE ANYWAY
+READ MORE
+RENT A SERVER
+CANCEL
+Second
+For playing our game!
+Flash Taskbar On Spawn
+Ambient Occlusion
+Volumetric Lights
 Bloom
-Toggle Subtitrări
+Toggle Subtitles
