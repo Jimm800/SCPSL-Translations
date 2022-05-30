@@ -14,26 +14,26 @@ Przedmioty mogą być rzucane (domyślnie pod "T"). Może być to użyte do otwi
 Strefa Niższego Nadzoru jest zamykana po 15 minutach, zabijając w niej każdego. Ucieknij póki możesz!
 Zwiększ swą przewagę poprzez dostosywaniem dodatków do broni zależnie od sytuacji w której się znajdujesz.
 Czym więcej broń posiada dodatków, tym cięższa się ona staje. Wpływa to na zużycie wytrzymałości oraz prędkość ruchu.
-Tłumiki tłumią hałas wystrzału oraz ograniczają błysk powylotowy.
+Not only do suppressors muffle gunshots, they also hide muzzle flashes.
 Dłuższe i cięższe bronie są mniej celne podczas biegu.
 Pancerz zwiększa limit ilości posiadanych przedmiotów i amunicji.
 Pociski przeciwpancerne (AP) są najbardziej skuteczne przeciwko uzbrojonym celom.
-Pociski bezpłaszczowe (JHP) są najbardziej skuteczne przeciwko nieuzbrojonym celom.
+Hollow-point rounds (JHP) do higher damage to unarmored targets but are weaker against armor.
 Naciśnij i przytrzymaj klawisz przeładowania, aby rozładować broń i otrzymać jej amunicję do ekwipunku.
-Bronie Rebelii Chaosu są potężne, lecz amunicja do nich nie znajduje się w placówce. Warto więc ją oszczędzać.
+Bronie Rebelii Chaosu są potężne, lecz amunicja do nich nie znajduje się w placówce. Make it count.
 Granat może być użyty do wyważenia drzwi.
 Granat może być lekko podrzucony poprzez użycie prawego przycisku myszy.
-Micro H.I.D jest w stanie prędko zneutralizować większość podmiotów SCP, lecz ma ograniczony zasób mocy. Użyj go mądrze!
-Micro H.I.D potrzebuje 5 sekund aby się naładować do wystrzału.
-Trzymanie prawego przycisku myszy przytrzyma Micro H.I.D w stanie gotowości, zużywając powoli jego zasób mocy.
-Micro H.I.D jest bardzo głośny podczas ładowania. Miej pewność, że twój cel nie zdąży uciec.
-Dźwięk ładowania Micro H.I.D jest w stanie wystraszyć i popsuć plan przeciwnikom.
+The Micro H.I.D. Micro H.I.D jest w stanie prędko zneutralizować większość podmiotów SCP, lecz ma ograniczony zasób mocy. Użyj go mądrze!
+The Micro H.I.D. Micro H.I.D potrzebuje 5 sekund aby się naładować do wystrzału.
+Trzymanie prawego przycisku myszy przytrzyma Micro H.I.D w stanie gotowości, zużywając powoli jego zasób mocy. at its ready-to-fire state; slowly draining energy.
+The Micro H.I.D. Micro H.I.D jest bardzo głośny podczas ładowania. Miej pewność, że twój cel nie zdąży uciec.
+Dźwięk ładowania Micro H.I.D jest w stanie wystraszyć i popsuć plan przeciwnikom. produces an intimidating sound which is enough to ruin your enemies' plans.
 Butelka SCP-207 nie tylko zwiększa prędkość ruchu, ale również odnawia małą ilość zdrowia.
 Tylko cztery butelki SCP-207 mogą zostać wypite, zauważalnie zwiększając twą prędkość ruchu.
 SCP-500 nie tylko odnawia całe zdrowie, ale również usuwa większość negatywnych efektów oraz daje dodatkową regenerację.
 Nosiciel SCP-268 jest niewidzialny dla każdego, prócz SCP-079 i SCP-939.
 SCP-268 nie uratuje cię przed SCP-096 gdy spojrzysz się na jego twarz.
-SCP-018 jest ogromnie nieprzedywidalna. Gdy rzucona, warto znaleźć jakieś schronienie.
+SCP-018 jest ogromnie nieprzedywidalna. When it’s thrown, take cover.
 SCP-018 może być użyta do zatrzymania ścigającego gdy rzucona w korytarzu.
 SCP-914 może zmienić każdy przedmiot, doliczając w tym broń oraz amunicję.
 SCP-914 może naładować radia oraz Micro H.I.D.
@@ -42,7 +42,7 @@ SCP-079 może zablokowywać drzwi, gasić światła oraz aktywowywać bramy tesl
 Brama tesli staje się aktywna gdy SCP-079 zaczyna ją obserwować.
 SCP-079 nie może gasić świateł w pomieszczeniu z wyważonymi drzwiami.
 SCP-079 może zostać zabezpieczony poprzez znalezienie generatorów w Strefie Wyższego Nadzoru oraz przycisku w jego celi przechowawczej.
-Kamera używana przez SCP-079 zaświeci się na niebiesko.
+Kamera używana przez SCP-079 zaświeci się na niebiesko. You never know when it's watching.
 SCP-173 bez problemu może się poruszać w ciemnych pomieszczeniach, nawet gdy jest obserwowany. Warto przynieść latarkę!
 SCP-173 może w każdej chwili zabić od tyłu, gdy nie jest obserwowany.
 SCP-173 może stworzyć kałużę spowalniającą ludzi przechodzących przez nią, stając się bronią obszarową.
