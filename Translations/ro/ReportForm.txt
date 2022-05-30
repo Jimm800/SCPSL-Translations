@@ -1,7 +1,7 @@
-Raportează Jucător
-Țintă:\nID-ul jucătorului:\nDescriere:
-Anulează
-Raportează pentru stricând regurile serverului
-Raportează pentru trișând sau raiding
-RAPORTÂND
-Te rog Așteaptă...
+Report Player
+Target:\nPlayer ID:\nDescription:
+Cancel
+Report for breaking server rules
+Report for cheating or raiding
+REPORTING
+Please wait...
