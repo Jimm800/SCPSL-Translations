@@ -1,8 +1,8 @@
 ENERGIA
-DOŚWIADCZENIE
+Zdobyto doświadczenie:
 DOSTĘPNA KAMERA ONLINE
 WCIŚNIJ [KEY], ABY PRZEŁĄCZYĆ NA MAPĘ NADZORU
-Zdobyto doświadczenie:
+Experience gained:
 Praca zespołowa
 Pomoc w zabiciu klasy D
 Pomoc w zabiciu CI
@@ -13,5 +13,5 @@ ZABLOKOWANYCH DRZWI: [LOCKED_NUM]<size=25>PRAWY PRZYCISK MYSZY BY ODBLOKOWAĆ WS
 Ogólne interakcje
 Jesteś atakowany!
 Generatory zostały podświetlone na mapie
-ZAGROŻENIE
+DOŚWIADCZENIE
 Ilość SCP{0}Ilość żołnierzy MTF i ochroniarzy{1}Ilość naukowców{2}Ilość personelu klasy D{3}Ilość agentów Rebelii Chaosu{4}
