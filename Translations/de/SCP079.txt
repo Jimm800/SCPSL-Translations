@@ -1,8 +1,8 @@
 RESERVE ENERGIE
-ERFAHRUNG
+Erfahrung gesammelt:
 KAMERA ÜBERTRAGUNG ONLINE
 DRÜCKE [KEY] UM ZUR MINIMAP ZU WECHSELN
-Erfahrung gesammelt:
+Experience gained:
 Zusammenarbeit
 Klasse-D Tötungsassist
 CI Tötungsassist
@@ -13,5 +13,5 @@ VERRIEGELTE TÜREN: [LOCKED_NUM]<size=25>RECHTSKLICK UM VERRIEGELUNG AUFZUHEBEN<
 Allgemeine Interaktionen
 Du wirst attackiert!
 Generatoren wurden auf der Karte markiert
-GEFAHR
+ERFAHRUNG
 SCPs{0}MTF & Sicherheitspersonal{1}Wissenschaftler{2}D-Klassen{3}Chaos Insurgents{4}
