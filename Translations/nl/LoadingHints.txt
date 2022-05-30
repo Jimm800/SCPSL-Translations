@@ -11,7 +11,7 @@ De Alpha Warhead doodt alles binnen de faciliteit wanneer het ontploft. Hij kan 
 De Alpha Warhead detonatiesequentie kan worden geannuleerd vanuit de kamer in Heavy Containment.
 De Intercom kamer in de Ingangszone kan gebruikt worden om een gesproken boodschap uit te zenden naar alle spelers.
 Je kunt voorwerpen gooien ("T" als standaard). Dit kan worden gebruikt om keycard-deuren van een afstand te openen of om glas te breken.
-De Light Containment zone gaat na 15 minuten op slot; iedereen die nog binnen is wordt gedood. Ontsnap nu het nog kan!
+De Light Containment zone gaat na 15 minuten op slot; iedereen die nog binnen is wordt gedood. Escape while you can!
 Maximaliseer je voordeel door je wapenaccessoires aan te passen aan de situatie waarin je je bevindt.
 Hoe meer hulpstukken een wapen heeft, hoe zwaarder het wordt. Dit beïnvloedt het uithoudingsvermogen en de bewegingssnelheid.
 Onderdrukkers dempen niet alleen geweerschoten, ze verbergen ook mondingsflitsen.
@@ -20,7 +20,7 @@ Het dragen van kogelvrije vesten verhoogt het aantal voorwerpen en munitie die j
 Pantserdoorborende kogels (AP) werken het best tegen gepantserde doelen.
 Holle-puntkogels (JHP) brengen meer schade toe aan ongewapende doelen, maar zijn zwakker tegen pantsers.
 Houd de herlaadtoets ingedrukt om een wapen te lossen en de munitie aan je inventaris toe te voegen.
-Chaos Insurgency wapens zijn krachtig, maar hun munitie komt niet in de Facility voor. Wees zuinig!
+Chaos Insurgency wapens zijn krachtig, maar hun munitie komt niet in de Facility voor. Make it count.
 Granaten kunnen worden gebruikt om deuren te vernietigen.
 Granaten kunnen met minder kracht worden gegooid door de rechtermuisknop te gebruiken.
 De Micro H.I.D. kan de meeste SCP's zeer snel doden, maar heeft een beperkte stroomtoevoer. Gebruik hem verstandig!
@@ -36,7 +36,7 @@ SCP-268 redt u niet van SCP-096 als u hem hebt aangekeken.
 SCP-018 is zeer onvoorspelbaar. Als hij wordt gegooid, zoek dan dekking.
 SCP-018 kan gebruikt worden om achtervolgers af te weren als je door een gang stuitert.
 SCP-914 kan alle voorwerpen verwisselen, inclusief wapens en munitie.
-SCP-914 kan radio's en de Micro H.I.D. opladen.
+SCP-914 kan radio's en de Micro H.I.D.
 SCP-079 begint relatief zwak, maar wordt krachtiger naarmate de wedstrijd vordert.
 SCP-079 kan deuren vergrendelen, lichten uitzetten en tesla-gates overladen.
 Een tesla poort die bekeken wordt door SCP-079 zal altijd actief lijken.
