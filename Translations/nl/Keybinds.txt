@@ -3,14 +3,14 @@ Inzoomen
 Springen
 Interactie
 Inventaris
-Herladen
+Reload
 Rennen
 Voice Chat
 Sluipen
 Beweeg Vooruit
 Beweeg Achteruit
-Beweeg naar Links
 Beweeg naar Rechts
+Beweeg naar Links
 Spelerlijst
 Karakterinfo
 Admin op Afstand
@@ -23,7 +23,7 @@ Inspecteren
 Hamer Revolver
 Item Gooien
 Primair Wapen Sneltoets
-Secundair Wapen Sneltoets
+Secondary Weapon Hotkey
 Medische Sneltoets
 Verberg GUI
 Noclip Mist aan/uit
