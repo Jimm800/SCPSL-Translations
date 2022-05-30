@@ -1,27 +1,27 @@
-UNISCITI
-CHIUDI
-QUALITÀ OMBRE
+INDIETRO
+DETTAGLI
+RISOLUZIONE SCHERMO
 IMPOSTAZIONI
 BASATO SU <i>SCP: CONTAINMENT BREACH</i>
-INDIETRO
+OMBRE
 LINGUA
 ANTIALIASING
 Modifica Dettagli:\n-PIXEL LIGHT COUNT - numero massimo di fonti di luce che hanno la loro luce renderizzata per pixel.\n-V-Sync - abilita la sincronizzazione con il refresh rate dello schermo.
-TROVA PARTITA
+ESCI DAL GIOCO
 POST\nPROCESSING
 CREDITI
-ESCI DAL GIOCO
+OPZIONI GAMEPLAY
 Schermo intero
 IMPOSTAZIONI SCHERMO
 CORREZIONE COLORE
 Inserisci Indirizzo IP...
-RISOLUZIONE SCHERMO
-GIOCA
+VOLUME SUONI
+OMBRE
 PIXEL LIGHT COUNT
-OMBRE
-OMBRE
-CREA PARTITA
-Cambia impostazioni di post-processing. Questi cambiamenti non avranno effetti sulla performance. Sarebbe consigliabile lasciare le impostazioni predefinite.
+SOBBALZO TESTA
+CHIUDI
+CREATE GAME
+Cambia impostazioni di post-processing. Sarebbe consigliabile lasciare le impostazioni predefinite.
 MODALITA' DI RENDERIZZAZIONE DELLE LUCI:\nQuando disattivato - il gioco avrà un aspetto peggiore. È consigliabile usarlo solo se si possiede un computer di fascia bassa
 V-SYNC
 CONNETTITI
@@ -30,11 +30,11 @@ Cambia le preferenze sulle ombre. Posizionare questi sliders sul valore più bas
 MENU
 MODALITÀ DI RENDERIZZAZIONE DELLE LUCI
 MOTION BLUR
-DISTANZA OMBRE
-DETTAGLI
+CARICAMENTO DATI
+ATTENZIONE
 3. l'SCP-914
 TUTORIALS
-ATTENZIONE
+VOLUME PRINCIPALE
 Cerca fra i server disponibili
 Non mostrarlo di nuovo
 Come vorresti connetterti?
@@ -49,32 +49,32 @@ Questo gioco è ancora in fase beta.\nPotresti quindi incontrare problemi tipo d
 4. (in arrivo)
 CONNESSIONE DIRETTA
 SUPPORTO TECNICO / FORUM
-VOLUME SUONI
+IMPOSTAZIONI AUDIO
 Inserisci l'indirizzo IP di un server specifico.
-CARICAMENTO DATI
+DOWNLOADING DATA
 NESSUN SERVER DISPONIBILE
 PREMI ESC PER CHIUDERE / ANNULLARE
-MODIFICA TASTI
+KEY BINDING
 SANGUE
 Limita FPS
 Se il vSync è attivo i frame non verranno limitati!
-Ripristina
+Set Default
 Usiamo le discussioni di Steam come un Forum. (Clicca sul logo in basso per aprire i forum)
-IMPOSTAZIONI AUDIO
-VOLUME PRINCIPALE
+EFFETTI SONORI
+MASTER VOLUME
 MUSICA DEL MENU
 CHAT VOCALE
-EFFETTI SONORI
-OPZIONI GAMEPLAY
+SOUND EFFECTS
+GAMEPLAY OPTIONS
 INTRODUZIONE VELOCE
-Velocizza l'introduzione
+Class intro text will fade out much more quickly.
 SCP-079 - MODALITÀ VISUALIZZAZIONE
 Premi una volta per cambiare le modalità della telecamera.
 SCP-079 - POST-PROCESSING
 Se disabilitato gli effetti della camera verranno pesantemente ridotti.
-SOBBALZO TESTA
+HEAD BOB
 Abilita il sobbalzo della telecamera in prima persona durante i movimenti.
-ATTIVA/DISATTIVA CORSA
+TROVA PARTITA
 Attiva o disattiva la corsa con un tasto invece che tenere premuto il pulsante.
 SEPARA BARRA HP ARTIFICIALE
 Fornisce agli HP la propria barra della salute, anziché un overlay.
