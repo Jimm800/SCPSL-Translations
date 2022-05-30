@@ -1,7 +1,7 @@
 <size=6>IL PROCESSO DI DECONTAMINAZIONE AVRÀ INIZIO TRA</size>
-<size=8>PER FAVORE USCITE DALLA ZONA</size>
+PLEASE EXIT THE AREA
 !  EVACUATE  !
 analisi delle minacce in corso
-<size=8>PREPARAZIONE AL SISTEMA DI SICUREZZA</size>
 Sistemi pronti a partire
+systems ready to commence
 Inizio della procedura p-b-3
