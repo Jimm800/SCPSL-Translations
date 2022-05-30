@@ -1,43 +1,43 @@
-0~Cartelă de Acces Om de Serviciu
-1~Cartelă de Acces Om de Știință
-2~Cartelă de Acces Supraveghetor de Cercetare
-3~Cartelă de Acces Manager de Zonă
-4~Cartelă de Acces Pază
-5~Cartelă de Acces MTF Privat
-6~Cartelă de Acces Inginer de Izolare
-7~Cartelă de Acces MTF Sergent
-8~Cartelă de Acces MTF Căpitan
-9~Cartelă de Acces Manager de Facilitate
-10~Dispozitiv de Accesare Insurgența Haosului
-11~Cartelă de Acces nivel-O5
+0~Janitor Keycard
+1~Scientist Keycard
+2~Research Supervisor Keycard
+3~Zone Manager Keycard
+4~Guard Keycard
+5~MTF Private Keycard
+6~Containment Engineer Keycard
+7~MTF Sergeant Keycard
+8~MTF Captain Keycard
+9~Facility Manager Keycard
+10~Chaos Insurgency Access Device
+11~O5-level Keycard
 12~Radio
 13~COM-15
-14~Trusă de Prim Ajutor~Vindecă ranele.
-15~Lanternă~Să fie lumină!
-16~Micro H.I.D.~Dispozitiv mobil de descărcare electrică de înaltă intensitate.
-17~SCP-500~Panaceul.
-18~SCP-207~Crește dăunător viteza.
+14~First Aid Kit~Heals your injuries.
+15~Flashlight~Let there be light!
+16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
+17~SCP-500~The panacea.
+18~SCP-207~Harmfully increases motor skills.
 20~MTF-E11-SR
 21~Crossvec
 23~FSP-9
 24~Logicer
-25~Grenadă Explozivă~Boom!
-26~Grenadă Flashbang~Orbează inamicii tăi.
+25~High-Explosive Grenade~Boom!
+26~Flashbang Grenade~Blinds your enemies.
 30~COM-18
-31~SCP-018~Superminge capabilă să sară cu eficiență extremă.
-32~SCP-268~Când este purtat, vă face temporar invizibil, cu excepția cazului în care este întrerupt de orice interacțiune a utilizatorului.
-33~Adrenalină~Temporar crește rezistența.
-34~Analgezice~Ameliorează rănile minore.
-35~Monedă~Nu ești sigur de ce ai vrea să cari asta cu tine...
-36~Armură Ușoară
-37~Armură de Luptă
-38~Armură Grea 
+31~SCP-018~Superball able to bounce with extreme efficiency.
+32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
+33~Adrenaline~Temporarily increases endurance.
+34~Painkillers~Relieve minor injuries.
+35~Coin~You're not sure why you'd want to carry this around...
+36~Light Armor
+37~Combat Armor
+38~Heavy Armor
 39~.44 Revolver
 40~AK
-41~Pușcă
-42~Pungă cu Bomboane~O pungă care conține următoarele bomboane:
-43~SCP-2176~Propria ta Ghostlight! Atenție, foarte fragil...
-44~SCP-244-A~O vază străveche, îngheață la atingere. Creează un nor mare de ceață rece atunci când este plasată.
-45~SCP-244-B~O vază străveche, îngheață la atingere. Creează un nor mare de ceață rece atunci când este plasată.
-46~SCP-1853~Îmbunătățește abilitățile de manipulare a armei cu prețul utilizării mai mari a rezistenței.
-47~Disruptor de Particule 3-X
+41~Shotgun
+42~Bag of Candies~A bag containing the following candies:
+43~SCP-2176~Your very own Ghostlight! Caution, very fragile...
+44~SCP-244-A~An ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
+45~SCP-244-B~An ancient vase, freezing to the touch. Creates a large cloud of icy fog when placed.
+46~SCP-1853~Improves weapon manipulation skills at the cost of higher stamina usage.
+47~3-X Particle Disruptor
