@@ -1,8 +1,8 @@
 Munition {0}/{1} {2}
 Schaden
 Feuerrate
-Hüftfeuer-Genauigkeit
 Zielende Genauigkeit
+ADS Accuracy
 Gewicht
 Länge
 DROP:
@@ -14,4 +14,4 @@ Gegenstand-Limits:
 Munitions-Limits:
 {0} komplett
 Panzerpenetration
-Rennen-Genauigkeit
+Running Accuracy
