@@ -1,7 +1,7 @@
-Báo cáo người chơi
-Người chơi:\nPlayer ID:\nMô tả:
-Hủy
-Báo cáo vì vi phạm nội quy server
-Báo cáo gian lận
-ĐANG BÁO CÁO
-Vui lòng chờ...
+Report Player
+Target:\nPlayer ID:\nDescription:
+Cancel
+Report for breaking server rules
+Report for cheating or raiding
+REPORTING
+Please wait...
