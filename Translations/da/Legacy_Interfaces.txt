@@ -1,19 +1,19 @@
-GIV ORDRE
-ADLYD ORDRE
-SAMME GRAD
-Klasse-D Personale flygtede
-Videnskabsmænd overlevede
-Dræbt af SCP
-Eliminerede SCP subjekter
-Alfa Sprænghoved
-Detoneret
-Ubrugt
-Den næste runde vil begynde om [time] sekunder.
-SPECIEL EVNE
-SKAB PASSAGE
-BRUG PASSAGE
-DU ER DØD
-Du blev dræbt af
-som
-Passiv
-(skjult)
+GIVE ORDERS
+FOLLOW ORDERS
+SAME RANK
+Class-D Personnel escaped
+Scientists survived
+Killed by SCP
+Terminated SCP subjects
+Alpha Warhead
+Detonated
+Unused
+The next round will start in [time] seconds.
+SPECIAL ABILITY
+CREATE SINKHOLE
+USE SINKHOLE
+YOU DIED
+You were killed by
+as
+Passive
+(hidden)
