@@ -1,17 +1,21 @@
-Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nHold venstreklik + W nede og sigt på fjenden for at angribe.\nDu bevæger dig hurtigere ved lavt helbred.</color>
-Flygt fra området.\nSamarbejd med <color=#008f1e>Kaos Oprørere.</color>\nUndgå andre hold.
-Du vil snart vende tilbage.
-Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nDu kan bevæge dig igennem døre.\nTryk på vensteklik for at skade og teleportere modstandere til din dimension.\nHold TAB nede for at anvende dine teleporteringsevener.</color>
-Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte.\nNedkæmp alt andet.\nBeordre dine soldater. \nAdlyd ordrer fra dine foresatte.
-Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nTryk på venstreklik for at dræbe dine modstandere øjeblikkeligt - med et kort mellemrum.\nHold E nede på en modstander som </color><color=#f00>du</color><color=#ffff00> har dræbt for at genoplive personen og få dem tilbage som allierede.\nDu genopliver hurtigere ved lavt helbred.</color>
-Flygt fra området.\nSamarbejd med <color=#0096FF>MTF.</color>\nUndgå andre hold.
-Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color>
-Hjælp <color=#FF8E00>Klasse-D Personale</color> med at flygte.\nNedkæmp alt andet.
-Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color>
-Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nTryk på venstreklik for at angribe - med en lille forsinkelse.\nDu angriber hurtigere ved lavt helbred.</color>
-Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte.\nNedkæmp alt andet.\nBeordre dine soldater. \nAdlyd ordrer fra dine foresatte.
-Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte.\nNedkæmp alt andet.\nBeordre dine soldater.
-Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte.\nNedkæmp alt andet.\nAdlyd ordrer fra dine foresatte.
-Løs opgaverne for at fuldføre dit mål.
-Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte\nSamarbejd med <color=#0096FF>MTF</color>\nNedkæmp alt andet.
-Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nHold your aim key while being observed to blink.\nYou resist some damage from gunfire, and have a regenerating shield.</color>
+Escape from the facility.\nCooperate with the <color=#008F1e>Chaos Insurgency.</color>\nAvoid other teams.
+You will respawn soon.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nYou can walk through doors.\nLeft click hurts and TPs enemies to your dimension.\nHold TAB to access your TP abilities.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your superiors.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to insta-kill enemies with a short cooldown.\nInteract with a recently-dead human to revive them as an ally.</color>
+Escape from the facility.\nCooperate with the <color=#0096FF>MTF.</color>\nAvoid other teams.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to attack with a short windup.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your captain.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nFollow the orders of your superiors.
+Follow the tasks to complete your objective.
+Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
