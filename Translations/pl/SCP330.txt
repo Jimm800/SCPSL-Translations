@@ -9,7 +9,7 @@ Fioletowy cukierek
 Posiada soczysty zapach winogron. Twoje usta zaczynają ślinieć.
 Przyznaje tymczasową odporność na obrażenia oraz powolną regenerację zdrowia.
 Czerwony cukierek
-Silny zapach wiśni wypełnia pomieszczenie. Jest troszkę <i>za bardzo</i> silny.
+Silny zapach wiśni wypełnia pomieszczenie. It’s a bit... Jest troszkę <i>za bardzo</i> silny.
 Szybko przywraca zdrowie.
 Zielony cukierek
 Nieprzyjemny, ziołowy zapach jest wydzielany z cukierka.
