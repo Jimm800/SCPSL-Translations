@@ -1,38 +1,38 @@
-<size=80>Byl jsi vyhozen</size>\nServer přinutil ukončit spojení.\n<size=26>\nPravděpodobně jsi byl dočasně zaBANován administrátorem \nnebo nesplňuješ požadavky pro připojení (např. spojení se službou Steam).\nZa možné časové BANy <b>nejsou</b> tvůrci hry zodpovědní.\n</size>
-<size=80>ODPOJEN</size>\nVybraný host není dostupný.
-<size=80>ODPOJEN</size>\nVybraný identifikátor neexistuje.
-<size=80>ODPOJEN</size>\nVybraný kanál neexistuje.
-<size=80>ODPOJEN</size>\nServer je plný.
-<size=80>ODPOJEN</size>\nObdržen špatný packet.
-<size=80>ODPOJEN</size>\nSpojení ztraceno (čas vypršel).
-<size=80>ODPOJEN</size>\nSpojení ztraceno (čas vypršel).
-<size=80>ODPOJEN</size>\nOperace není podporována.
-<size=80>ODPOJEN</size>\nŠpatné nastavení serveru (nekompatibilita verzí).
-<size=80>ODPOJEN</size>\nŠpatné nastavení serveru.
-<size=80>ODPOJEN</size>\nZadaná adresa nemůže být dešifrována. Ujistěte se, že se jedná o správnou adresu.
-<size=80>ODPOJEN</size>\nObjevil se neočekávaný problém!
-<size=80>Čekejte prosím</size>\n<size=35>Navazuji spojení...</size>
-<size=80>Restart kola</size>\n<size=35>Server restartuje kolo...</size>
-<size=80>Čekejte prosím</size>\n<size=35>Načítání tutoriálu...</size>
-<size=80>NEKOMPATIBILITA VERZÍ</size>\nVaše verze hry je jiná než verze hry na serveru\n(Vaše - [your]; Serveru - [server])
-<size=80>PŘIPOJENO</size>
-<size=35>Načítání laboratoře...</size>
-<size=80>ODPOJEN</size>\nNa serveru došlo k neurčené chybě.
-<size=80>ODPOJEN</size>\nTento server vyžaduje ověření centrálními servery.
-<size=80>ODPOJEN</size>\nNa tomto serveru nejste na bílé listině.
-<size=80>ODPOJEN</size>\nByl vám udělen globální ban.
-<size=80>ODPOJEN</size>\nByl vám udělen globální ban: [reason].
-<size=80>ODPOJEN</size>\nByl vám udělen ban na tomto serveru.
-<size=80>ODPOJEN</size>\nByl vám udělen ban na tomto serveru.\nBan vyprší v: [date] [time]
-<size=80>ODPOJEN</size>\nPlatnost vašeho ověřovacího tokenu vypršela.\nServer může mít nastavený nesprávný čas nebo časové pásmo.\nObraťte se na správce serveru.
-<size=80>ODPOJEN</size>\nByl vám udělen limit míry dotazů. Zkuste to za pár sekund znovu.
-<size=80>ODPOJEN</size>\nServer nepříjímá připojení z vaší zeměpisné polohy. Název nebo informace o serveru mohou obsahovat další podrobnosti.
-<size=80>ODPOJEN</size>\nByli jste vykopnuti serverovým rozšířením.\n\nDůvod: [reason]\nJedná se o serverovém rozšířením, nikoli o herní funkci.\nPro více informací kontaktujte správce serveru.
-<size=80>ODPOJEN</size>\nVáš ověřovací token byl serverem zamítnut.\nProsím restartujte hru a zkuste to znovu nebo kontaktujte technickou podporu hry.
-<size=80>ODPOJEN</size>\nByl vám udělen ban na tomto serveru.\nDůvod: [reason]
-<size=80>ODPOJEN</size>\nByl vám udělen ban na tomto serveru.\nBan vyprší v: [date] [time]\nDůvod: [reason]
-<size=80>Prosím čekejte</size>\nZpracování ověření zabezpečení serveru...
-<size=80>ODPOJEN</size>\nNepodařilo se zpracovat ověření zabezpečení serveru.
-<size=80>ODPOJEN</size>\nZpracování ověření zabezpečení serveru bylo pro server příliš pomalé.\nZkuste to prosím znovu nebo kontaktujte správce serveru.
-<size=80>AUTH Chyba</size>\nZpráva z centrálního serveru: [message].
-<size=80>ODPOJEN</size>\nServer se vypíná.
+<size=80>YOU HAVE BEEN KICKED</size>\nThe server was forced to stop the connection.
+<size=80>DISCONNECTED</size>\nThe specified host is not available.
+<size=80>DISCONNECTED</size>\nThe specified connection ID does not exist.
+<size=80>DISCONNECTED</size>\nThe specified channel does not exist.
+<size=80>DISCONNECTED</size>\nServer is full.
+<size=80>DISCONNECTED</size>\nReceived wrong packet.
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nOperation is not supported.
+<size=80>DISCONNECTED</size>\nYour game version is different from the server.
+<size=80>DISCONNECTED</size>\nInvalid server config.
+<size=80>DISCONNECTED</size>\nThe address is invalid or could not be resolved.
+<size=80>DISCONNECTED</size>\nAn unexpected problem has occurred!
+<size=80>PLEASE WAIT</size>\n<size=35>Establishing connection...</size>
+<size=80>ROUND RESTART</size>\n<size=35>The round is restarting...</size>
+<size=80>PLEASE WAIT</size>\n<size=35>Loading tutorial...</size>
+<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different from the server\n(Client - [your]; Server - [server])
+<size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
+<size=35>Loading the facility...</size>
+<size=80>DISCONNECTED</size>\nUnspecified error occurred on the server.
+<size=80>DISCONNECTED</size>\nThis server requires authentication by central servers.
+<size=80>DISCONNECTED</size>\nYou are not whitelisted on this server.
+<size=80>DISCONNECTED</size>\nYou have been globally banned.
+<size=80>DISCONNECTED</size>\nYou have been globally banned: [reason].
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]
+<size=80>DISCONNECTED</size>\nYour authentication token has expired.\nServer might have invalid time or timezone set.\nPlease contact an server administrator.
+<size=80>DISCONNECTED</size>\nYou have been rate limited. Try again in a few seconds.
+<size=80>DISCONNECTED</size>\nServer is not accepting connections from your geographic location.\nServer name or info may contain more details.
+<size=80>DISCONNECTED</size>\nYou have been kicked by a server modification.\n\nReason: [reason]\nThis is a server modification, not a game feature.\nContact an server administrator for more information.
+<size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and try again or contact studio technical support.
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nReason: [reason]
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]\nReason: [reason]
+<size=80>Please wait</size>\nProcessing server security verification...
+<size=80>DISCONNECTED</size>\nFailed to process server security verification.
+<size=80>DISCONNECTED</size>\nProcessing of server security verification was too slow for the server.\nPlease try again or contact server administrator.
+<size=80>AUTH ERROR</size>\nCentral Server Message: [message].
+<size=80>DISCONNECTED</size>\nServer is shutting down.
