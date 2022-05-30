@@ -6,14 +6,14 @@ Y-as omdraaien
 SAMENVATTING
 Annuleren
 I N V E N T A R I S
-HELDERHEID
-INSTELLINGEN
 VERLATEN
+SAMENVATTING
+INSTELLINGEN
 ALPHA WARHEAD IS UITGESCHAKELD
-TOEGANG GEWEIGERD
+WACHTEN OP SPELERS
 SPRAAK CHAT
 INVENTARIS OVERBELAST
-M. GEVOELIGHEID
+MOUSE SENSITIVITY
 HACKEN
 OPPAKKEN...
 De helderheid verhoogen <b>verslechtert de stemming</b> van het spel.\nProbeer deze waarde zo laag mogelijk te houden.\n<b> Het is aangeraden om het op de standaard waarde te laten staan.</b>
@@ -22,11 +22,11 @@ DEUR IS VERGRENDELD DOOR SCP-079
 Volledig scherm
 Weet je zeker dat je die server wilt verlaten?
 Basis instelling. Volledige lijst van instellingen zijn in het hoofd menu.
-WACHTEN OP SPELERS
-SAMENVATTING
-DOORGAAN
-HOOFD VOLUME
+WAITING FOR PLAYERS
+HELDERHEID
 verbonden
+HOOFD VOLUME
+connected
 Je bent als Wetenschapper ontsnapt en je deelt nu mee aan de MTF taskforce.
 Je bent ontsnapt as de D-Klasse Personeel en neemt nu deel aan de Chaos Insurgency.
 JE BENT EEN
@@ -34,3 +34,11 @@ Ontsnappings tijd: [escape_minutes] minuten en [escape_seconds] seconden
 Wacht [time] voordat je [item] weer kan gebruiken.
 Druk op <color=yellow><b>F1</b></color> voor hulp.
 Je bent geboeid\n<size=40>volg bevelen of vraag teamgenoten om hulp</size>
+You were recaptured by the Nine-Tailed Fox.\nWith one less threat in the facility, they were able to reinforce.
+You were taken prisoner as a scientist by the Chaos Insurgency.\nThey were able to gain an advantage from the information you gave them.
+ROUND STARTS IN: <color=yellow>{0}</color>s
+ROUND START IS <color=#FF5050>PAUSED</color>
+AIMING SENS. DOORGAAN
+Press [key] to cancel the throw.
+ADS Toggle
+Mute Spectator Chat
