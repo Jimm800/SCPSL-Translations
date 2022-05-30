@@ -1,21 +1,21 @@
 Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Gdy obserwowany, przytrzymaj klawisz celowania aby mrugnąć.\nMasz małą odporność na pociski oraz regenerującą tarczę.</color>
-Ucieknij z placówki.\nWspółpracuj z <color=#008f1e>Rebelią Chaosu</color>.\nUnikaj zagrożeń.
+Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
 Wkrótce się odrodzisz.
 Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Potrafisz przechodzić przez drzwi i bramy.\nNamierz swoją ofiarę i kliknij lewy przycisk myszy, aby ją zranić i wysłać do swojego Wymiaru Łuzowego.\nKliknij TAB, aby otworzyć Menu umiejętności, które pozwalają na teleportowanie się.</color>
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom.\nWykonuj rozkazy od swoich przełożonych.
+Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom. Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWykonuj rozkazy od swoich przełożonych.
 Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Naciśnij lewy przycisk myszy, aby natychmiastowo zabić przeciwnika.\nInteraktuj z ostatnio zabitym człowiekiem, aby go wskrzesić jako swojego sojusznika.</color>
-Ucieknij z placówki.\nWspółpracuj z <color=#0096FF>MTF</color>.\nUnikaj zagrożeń.
+Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
 Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
 Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce.\nWyeliminuj każdą przeszkodę.
 Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
 Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Naciśnij lewy przycisk myszy, aby zaatakować.</color>
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom.\nWykonuj rozkazy od kapitana.
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom.
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWykonuj rozkazy od swoich przełożonych.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom.\nWykonuj rozkazy od kapitana.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nFollow the orders of your superiors.
 Podążaj za wskazówkami, aby ukończyć poradnik.
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWspółpracuj z <color=#0096FF>MTF</color>.\nWyeliminuj zagrożenie.
-Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
-Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
+Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
 Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce.\nWyeliminuj każdą przeszkodę.
 Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce.\nWyeliminuj każdą przeszkodę.
 Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce.\nWyeliminuj każdą przeszkodę.
