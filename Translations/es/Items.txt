@@ -8,7 +8,7 @@
 7~Tarjeta de Sargento de la MTF
 8~Tarjeta de Capitan de la MTF
 9~Tarjeta de Administrador
-10~Aparato de los Insurgentes del Caos
+10~Chaos Insurgency Access Device
 11~Tarjeta Nivel-05
 12~Radio
 13~COM-15
@@ -29,9 +29,9 @@
 33~Adrenalina~Aumenta temporalmente la resistencia.
 34~Analgésicos~Cura heridas menores.
 35~Coin~No estás seguro por qué quieres guardar esto...
-36~Armadura Ligera
 37~Armadura de combate
 38~Armadura pesada
+36~Armadura Ligera
 39~Revolver .44
 40~AK
 41~Escopeta
