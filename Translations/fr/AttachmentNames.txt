@@ -6,12 +6,12 @@ Lunette de Vision Nocturne~Viseur télescopique augmenté d'un dispositif de vis
 Viseur avec Compteur de Munitions~Mires métallique avec dispositif de comptage de munitions intégré.
 Lunette de Précision~Dispositif de visée lourd, fournissant un grossissement optique. Parfait pour les longues distances, mais limite la perception ambiante.
 Crosse Standard~Crosse ordinaire, offrant un meilleur contrôle de l'arme à feu lors de la visée.
-Crosse Allongée~Fournit un meilleur contrôle de l'arme à feu lors de la visée, mais augmente le temps d'équipement.
+Booster~Améliore la cadence de tir, ce qui entraîne plus de dégâts par seconde, mais l'arme est plus difficile à contrôler.
 Crosse Rétractée~Rend l'arme à feu plus compacte, ce qui augmente la mobilité.
 Crosse Légère~Réduit le poids de l'arme à feu, mais rend plus difficile le contrôle du recul lors de la visée.
 Crosse Lourde~Plus de poids réduit la mobilité, mais rend l'arme à feu plus stable lorsque vous visez.
 Crosse à réduction de recul~Crosse équipée d'un système qui tente de disperser la force entre chaque coup de feu.
-Poignée Avant~Poignée verticale située à l'avant. Facilite le maniement lors du relèvement du canon.
+Poignée Avant~Poignée verticale située à l'avant. Makes it easier to handle the muzzle rise.
 Pointeur Laser~Fournit un point de référence visuel sur la cible, ce qui facilite le tir sans viser, mais peut facilement révéler votre position.
 Lampe Torche~Source de lumière commutable. Augmente le poids total de l'arme à feu, mais peut sauver des vies dans les zones sombres.
 Compteur de Munitions~Dispositif comptant les munitions. Une technologie expérimentale qui s'est avérée utile, en particulier avec les chargeurs de grande capacité.
@@ -20,7 +20,7 @@ Canon Allongé~Améliore la puissance de feu globale, mais rend la mobilité fai
 Silencieux~Modérateur de son. Réduit le bruit des coups de feu, mais augmente le poids et la longueur totale de l'arme à feu.
 Suppresseur~Élimine le flash au bout du canon lors des tirs. Améliore la discrétion dans l'obscurité.
 Frein de Bouche~Compensateur de recul. Utilise les gaz expulsés pour réduire le recul, mais augmente l'intensité acoustique des coups de feu.
-Booster~Améliore la cadence de tir, ce qui entraîne plus de dégâts par seconde, mais l'arme est plus difficile à contrôler.
+Muzzle Booster~Improves fire rate, which results in more damage per second, but the weapon is harder to control.
 Chargeur FMJ~Chargeur standard contenant des balles chemisées.
 Chargeur AP~Chargeur standard contenant des balles perforantes.
 Chargeur JHP~Chargeur standard contenant des balles à pointe creuse.
