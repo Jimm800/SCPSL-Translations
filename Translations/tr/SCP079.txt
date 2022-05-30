@@ -1,17 +1,17 @@
 YARDIMCI GÜÇ
-TECRÜBE
-KAMERA GÖRÜŞÜ ÇEVRİMİÇİ
-GÖZETİM HARİTASINI AÇMAK İÇİN [KEY] TUŞUNA BASINIZ
 Tecrübe elde edildi:
+CAMERA FEED ONLINE
+GÖZETİM HARİTASINI AÇMAK İÇİN [KEY] TUŞUNA BASINIZ
+Experience gained:
 Birlik işi
 D-Sınıf saf dışı bırakıldı
-K.İ. saf dışı bırakıldı
-MGG saf dışı bırakıldı
+CI termination assist
+MTF termination assist
 Bilim Adamı saf dışı bırakıldı
 SCP saf dışı bırakıldı
 KİLİTLİ KAPILAR: [LOCKED_NUM]<size=25>HEPSİNİN KİLİDİNİ AÇMAK İÇİN SAĞ TIK'A BASINIZ</size>
 Genel Etkileşimler
 Saldırı altındasın!
 Jeneratörler haritada işaretlendi
-TEHLİKE
+TECRÜBE
 SCP'ler{0}MGG & Gardiyanlar{1}Bilim Adamları{2}D-Sınıf{3}Kaos İsyancısı{4}
