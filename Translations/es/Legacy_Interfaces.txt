@@ -1,6 +1,6 @@
-PUEDES DARLE ÓRDENES
 SIGUE SUS ÓRDENES
-MISMO NIVEL DE AUTORIDAD
+FOLLOW ORDERS
+HAS MUERTO
 Clase-D escapados
 Científicos supervivientes
 Asesinados por SCP
@@ -12,8 +12,8 @@ La próxima ronda comenzará en [time] segundos.
 HABILIDAD ESPECIAL
 CREAR AGUJERO NEGRO
 USAR AGUJERO NEGRO
-HAS MUERTO
 Has sido eliminado por
+You were killed by
 como
 Pasivo
 (oculto)
