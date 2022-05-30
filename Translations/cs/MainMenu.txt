@@ -1,91 +1,99 @@
-PŘIPOJIT SE
-ZAVŘÍT
-KVALITA STÍNŮ
-NASTAVENÍ
-Vytvořeno na základě <i>SCP: CONTAINMENT BREACH</i>
-ZPĚT
-JAZYK
+JOIN
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BREACH</i>
+BACK
+LANGUAGE
 ANTIALIASING
-Změnit detaily:\n-PIXEL LIGHT COUNT - maximální počet světelných zdrojů, jejichž světlo je renderováno na individuálních pixelech.\n-V-Sync - povolí synchronizaci FPS s obnovovací frekvenci monitoru.
-PŘIPOJIT SE
+Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
+JOIN GAME
 POST\nPROCESSING
-AUTOŘI
-UKONČIT HRU
-Přes celou obrazovku
-NASTAVENÍ OBRAZU
-KOREKCE BAREV
-Zadej IP adresu...
-ROZLIŠENÍ OBRAZOVKY
-HRÁT
+CREDITS
+QUIT GAME
+Fullscreen mode
+SCREEN SETTINGS
+COLOR CORRECTION
+Enter IP Address...
+SCREEN RESOLUTION
+PLAY
 PIXEL LIGHT COUNT
-TYP STÍNŮ
-STÍNY
-VYTVOŘIT HRU
-Změnit POST PROCESSING nastavení. Tyto změny neovlivní chod hry. Je doporučeno zanechat předepsané hodnoty.
-Light rendering mode:\nKdyž je vypnutý - hra vypadá hůř. Je doporučeno ho vypnout pouze pokud máte málo výkonný počítač.
+SHADOW TYPE
+SHADOWS
+CREATE GAME
+Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
+Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
 V-SYNC
-PŘIPOJIT
-NASTAVENÍ KVALITY
-Změnit nastavení stínů. Nastavení nižších hodnot zlepší chod hry.
-HLAVNÍ MENU
-LIGHT RENDERING MODE
+CONNECT
+QUALITY SETTINGS
+Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
+MAIN MENU
+RENDER LIGHTS
 MOTION BLUR
-VZDÁLENOST STÍNŮ
-DETAILY
+SHADOW DISTANCE
+DETAILS
 3. SCP-914
-TUTORIÁLY
-VAROVÁNÍ
-Prohledat dostupné servery
-Znovu nezobrazovat
-Jak byste se chtěli připojit?
-PROHLÍŽEČ SERVERŮ
-BUDIŽ
-NAJÍT HRU
-2. Používání zbraní
-Jako hlavní fórum používáme Discord. Nepotřebuje instalaci.\n(klikni na logo a připojíš se)
-Server se vytvoří na tvojí lokální síti.\nAby se tví kamarádi připojili, budou potřebovat tvoji IP adresu.\nChceš-li udělat veřejný server, spusť LocalAdmin.exe a pokračuj dle instrukcí.\nPokud máš jakékoliv otázky, kontaktuj naši technickou podporu (odkaz v hlavním menu)
-1. Základy
-Tato hra je stále v beta verzi.\nTo znamená, že může obsahovat chyby a zasekávat se.\nAktuální stav nepředstavuje finální verzi hry.
-4. (tutoriály přibydou později)
-PŘÍMÉ PŘIPOJENÍ
-PODPORA / FÓRUM
-HLASITOST ZVUKŮ
-Zadej IP adresu specifického serveru.
-STAHUJI DATA
-ŽÁDNÉ DOSTUPNÉ SERVERY
-ZMÁČKNI ESC PRO UKONČENÍ / ZRUŠENÍ
-Klávesy
-Maximální počet krve
+TUTORIALS
+WARNING
+Browse available servers
+Don't show it again
+How would you like to connect?
+SERVER BROWSER
+OKAY
+FIND MATCH
+2. Using weapons
+We use Discord as a forum. No installation needed.\n(click the logo to join)
+By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
+1. The basics
+The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+DIRECT CONNECT
+TECH SUPPORT / FORUM
+SOUND VOLUME
+Enter the IP address of the specific server.
+DOWNLOADING DATA
+NO SERVERS AVAILABLE
+PRESS ESC TO CLOSE / CANCEL
+KEY BINDING
+MAX BLOOD AMOUNT
 FPS Limit
-FPS limit nejde zapnout (V-Sync je zaplý)!
-Reset. nastavení
-Jako fórum používáme diskuse ve službě Steam. (Kliknutím na logo níže otevřete fórum)
-NASTAVENÍ ZVUKŮ
-HLAVNÍ HLASITOST
-HUDBA MENU
-HLASOVÝ CHAT
-ZVUKOVÉ EFEKTY
-HERNÍ NASTAVENÍ
-RYCHLÉ VYHASNUTÍ INTRA
-Informace o třídě zmizí mnohem rychleji.
-SCP-079 - STÁLÝ REŽIM ZOBRAZENÍ
-Jedním stisknutím přepínáte mezi režimy kamery.
+FPS Limit does not work when vSync is enabled!
+Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the forum)
+AUDIO SETTINGS
+MASTER VOLUME
+MENU MUSIC
+VOICE CHAT
+SOUND EFFECTS
+GAMEPLAY OPTIONS
+FAST INTRO FADE
+Class intro text will fade out much more quickly.
+SCP-079 - TOGGLE VIEW MODE
+Press once to swap between camera modes.
 SCP-079 - POST-PROCESSING
-Pokud je vypnuto, efekty kamery budou výrazně omezeny.
-POSKAKOVANÍ HLAVY
-Povoluje poskakování kamery z pohledu první osoby během pohybu.
+If disabled, camera effects will be heavily reduced.
+HEAD BOB
+Enables first-person camera bobbing during movement.
 TOGGLE SPRINT
-Sprint se zapíná a vypíná, namísto toho, aby musel být držen stisknutý.
-ODDĚLENÁ UMĚLÁ LIŠTA HP
-Dává umělému HP vlastní ukazatel zdraví místo překryvného zobrazení.
-Naše překlady jsou open-source na GitHubu!\nChcete pomoci? Kliknutím sem získáte přístup k repozitáři.
+Sprinting toggles on and off, instead of being held down.
+SEPARATE ARTIFICIAL HP BAR
+Gives artificial HP its own health bar, instead of an overlay.
+Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
 RICH PRESENCE
-Pokud je tato možnost povolena, váš stav se zobrazí na Discordu/Steamu.
-ZOBRAZIT PŘESNOU HODNOTU HP
-Zobrazí přesnou hodnotu HP místo pouhých procent.
-VEŘEJNÉ LOBBY
-Pokud je povoleno, mohou se k vám vaši přátelé na Steamu připojit bez povolení.
-SKRÝT IP
-Je-li povoleno, nezobrazí se žádná IP adresa v klientské konzoli.
-STÁLÝ REŽÍM ZVEDNUTÍ PŘEDMĚTŮ
-Zvednutí předmětu nebude vyžadovat podržení klávesy; opětovným stisknutím přerušíte.
+If enabled, your status will be displayed on Discord/Steam.
+DISPLAY EXACT HP VALUE
+Displays exact HP, instead of just the percentage.
+PUBLIC LOBBY
+If enabled, your steam friends can join you without permission.
+HIDE IP
+If enabled, any IP in client console is not displayed.
+TOGGLE SEARCH
+Item pickup will not require a held key; press again to cancel.
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+Toggle to show subtitles for cassie announcements.
+Flashes the taskbar when you spawn while the game is not in focus.
+Smoothes lines and removes visual distortions.
+Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.
