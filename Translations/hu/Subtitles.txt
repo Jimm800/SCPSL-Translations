@@ -1,27 +1,27 @@
-Mobile Task Force Egység Epsilon-11, kijelölt [designation] belépett a létesítménybe.<split>Tanácsolt minden fennmaradó személyzetnek, hogy folytassa az alapértelmezett evakuálási protokollokat, amíg egy MTF osztag eléri a pozícióját.<split>
-Várakozás az újbóli elzárására: [count] SCP-nek.
-Várakozás az újbóli elzárására: 1 SCP-nek.
-Jelentős veszély rejlik a létesítményben -- fokozott éberséggel tevékenykedjenek.
-sikeresen likvidálva. Likvidálás oka ismeretlen.
-likvidálva SCP-[scp] által.
-sikeresen likvidálva az Automatikus Biztonsági Rendszer által.
-sikeresen likvidálva az Alpha Robbanófej által.
-újra elzárva Tudományos Személyzet által.
-újra elzárva D-Osztályú Személyzet által.
-újra elzárva Chaos Insurgency által.
+Mobile Task Force Unit Epsilon-11 designated [designation] has entered the facility.<split>All remaining personnel are advised to proceed with standard evacuation protocols until an MTF squad reaches your destination.<split>
+Awaiting re-containment of: [count] SCP subjects.
+Awaiting re-containment of: 1 SCP subject.
+Substantial threat to safety remains within the facility -- exercise caution.
+successfully terminated. Termination cause unspecified.
+terminated by SCP-[scp].
+successfully terminated by Automatic Security System.
+successfully terminated by Alpha Warhead.
+contained successfully by Science Personnel.
+contained successfully by Class-D Personnel.
+contained successfully by Chaos Insurgency.
 SCP-[scp]
-újra elzárva. Elzárási egység ismeretlen.
-újra elzárva. Elzárási egység: [designation].
-elveszett a Fertőtlenítési Folyamatban.
-[current] a(z) [max] generátorból aktiválva.
-<split>Minden generátor sikeresen be lett kapcsolva.
-Túlterhelés: 3... 2... 1...
-A Létesítmény újból működőképes módban van.
-Figyelem, minden személyzet.<split>A Light Containment Zóna fertőtlenítési folyamat T-15 perc múlva elkezdődik.<split>Minden biológiai anyagot el kell távolítani a megsemmisülés elkerülése érdekében.
-Veszély, Light Containment Zóna teljes fertőtlenítés T-[time] perc múlva.
-Veszély, Light Containment Zóna teljes fertőtlenítés T-1 perc múlva.
-Veszély, Light Containment Zóna teljes fertőtlenítés T-30 másodperc múlva.<split>Minden ellenőrzőponti ajtó véglegesen ki lett nyitva. Kérjük az azonnali evakuálást.
-Light Containment Zóna le van zárva és kész a fertőtlenítésre.<split>Az organikus anyagok eltávolítása elkezdődött.
-ALPHA ROBBANÓFEJ VÉSZHELYZETI DETONÁCIÓS FOLYAMAT BEKAPCSOLVA.<split>A LÉTESÍTMÉNY FÖLD ALATTI RÉSZE FEL LESZ ROBBANTVA T-[time] MÁSODPERCEN BELÜL.
-DETONÁCIÓS FOLYAMAT MEGSZAKÍTVA. A RENDSZEREK ÚJRAINDULNAK.
-DETONÁCIÓS FOLYAMAT FOLYTATÓDIK, T-[time] MÁSODPERC.
+contained successfully. Containment unit unknown.
+contained successfully. Containment Unit [designation].
+lost in Decontamination Sequence.
+[current] out of [max] generators activated.
+<split>All generators have been successfully engaged.
+Overcharge in 3... 2... 1...
+Facility is back in operational mode.
+Attention, all personnel.<split>The Light Containment Zone decontamination process will occur in T-15 minutes.<split>All biological substances must be removed in order to avoid destruction.
+Danger, Light Containment Zone overall decontamination in T-[time] minutes.
+Danger, Light Containment Zone overall decontamination in T-1 minute.
+Danger, Light Containment Zone overall decontamination in T-30 seconds.<split>All checkpoint doors have been permanently opened. Please evacuate immediately.
+Light Containment Zone is locked down and ready for decontamination.<split>The removal of organic substances has now begun.
+ALPHA WARHEAD EMERGENCY DETONATION SEQUENCE ENGAGED.<split>THE UNDERGROUND SECTION OF THE FACILITY WILL BE DETONATED IN T-[time] SECONDS.
+DETONATION CANCELLED. RESTARTING SYSTEMS.
+DETONATION SEQUENCE RESUMED, T-[time] SECONDS.
