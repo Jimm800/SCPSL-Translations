@@ -1,99 +1,99 @@
-VÀO
-ĐÓNG
-CHẤT LƯỢNG ĐỔ BÓNG
-CÀI ĐẶT
-DỰA TRÊN <i>SCP: CONTAINMENT BREACH</i>
-TRỞ VỀ
-NGÔN NGỮ
+JOIN
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BREACH</i>
+BACK
+LANGUAGE
 ANTIALIASING
-Thay đổi chi tiết:\n-PIXEL LIGHT COUNT - Lượng ánh sáng tối đa thể hiện lên một pixel.\n-V-Sync - Cho phép đồng bộ với tần số làm tươi của màn hình.
-VÀO GAME
+Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
+JOIN GAME
 POST\nPROCESSING
 CREDITS
-THOÁT GAME
-Chế độ toàn màn hình
-CÀI ĐẶT MÀN HÌNH
-CĂN CHỈNH MÀU
-Nhập địa chỉ IP...
-ĐỘ PHÂN GIẢI
-CHƠI
+QUIT GAME
+Fullscreen mode
+SCREEN SETTINGS
+COLOR CORRECTION
+Enter IP Address...
+SCREEN RESOLUTION
+PLAY
 PIXEL LIGHT COUNT
-LOẠI BÓNG
-BÓNG
-TẠO GAME
-Chỉnh cài đặt Post-Processing. Cài đặt này không ảnh hưởng nhiều, khuyến nghị để ở giá trị mặc định.
-Light rendering mode:\nKhi tắt, giảm chất lượng đồ họa đi rất nhiều. Chỉ tắt nếu máy bạn quá yếu.
+SHADOW TYPE
+SHADOWS
+CREATE GAME
+Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
+Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
 V-SYNC
-KẾT NỐI
-CÀI ĐẶT CHẤT LƯỢNG
-Chỉnh chất lượng bóng. Để ở mức thấp có thể giúp gameplay mượt hơn.
-MENU CHÍNH
+CONNECT
+QUALITY SETTINGS
+Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
+MAIN MENU
 RENDER LIGHTS
-LÀM MỜ MÀN ẢNH
-KHOẢNG CÁCH BÓNG
-CHI TIẾT
+MOTION BLUR
+SHADOW DISTANCE
+DETAILS
 3. SCP-914
-HƯỚNG DẪN
-CẢNH BÁO
-Tìm các server khả dụng
-Đừng hiện nữa
-Bạn muốn kết nối bằng cách nào?
-TÌM SERVER
+TUTORIALS
+WARNING
+Browse available servers
+Don't show it again
+How would you like to connect?
+SERVER BROWSER
 OKAY
-TÌM VÁN
-2. Dùng vũ khí
-Chúng tôi dùng Discord như diễn đàn. Không cần cái đặt thêm\n(nhấn vào logo để gia nhập)
-Mặc định, server sẽ được đặt trên mạng nội bộ.\nNgười khác sẽ cần địa chỉ IP cụ thể để vào server.\nNếu bạn muốn tạo server công khai, hãy chạy LocalAdmin.exe và làm theo hướng dẫn.\nNếu có thắc mắc, hãy liên hệ hỗ trợ kĩ thuật (link ở menu chính).
-1. Cơ bản
-Game vẫn đang trong giai đoạn Public Beta\nBạn có thể gặp lỗi hoặc kết nối không ổn định.\nPhiên bản này không phải là phiên bản cuối cùng.
-4. (nhiều hướng dẫn hơn sau này)
-KẾT NỐI TRỰC TIẾP
-HỖ TRỢ KĨ THUẬT / DIỄN ĐÀN
-ÂM LƯỢNG
-Nhập IP cụ thể của server:
-TẢI XUỐNG DỮ LIỆU
-KHÔNG CÓ SERVER KHẢ DỤNG
-NHẤN ESC ĐỂ ĐÓNG / HỦY
-THIẾT LẬP PHÍM
-LƯỢNG MÁU TỐI ĐA
-Giới hạn FPS
-Giới hạn FPS không khả dụng nếu Vsync được bật!
-Chỉnh về mặc định
-Chúng tôi dùng Steam Discussions như một diễn đàn. (Nhấn logo bên dưới để mở diễn đàn)
-CÀI ĐẶT ÂM THANH
-ÂM LƯỢNG CHÍNH
-NHẠC MENU
+FIND MATCH
+2. Using weapons
+We use Discord as a forum. No installation needed.\n(click the logo to join)
+By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
+1. The basics
+The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+DIRECT CONNECT
+TECH SUPPORT / FORUM
+SOUND VOLUME
+Enter the IP address of the specific server.
+DOWNLOADING DATA
+NO SERVERS AVAILABLE
+PRESS ESC TO CLOSE / CANCEL
+KEY BINDING
+MAX BLOOD AMOUNT
+FPS Limit
+FPS Limit does not work when vSync is enabled!
+Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the forum)
+AUDIO SETTINGS
+MASTER VOLUME
+MENU MUSIC
 VOICE CHAT
-HIỆU ỨNG ÂM THANH
-LỰA CHỌN GAMEPLAY
-LÀM MỜ NHANH INTRO
-Intro vai trò sẽ biến mất nhanh hơn.
-SCP-079 - BẬT CHẾ ĐỘ NHÌN
-Nhấn một lần để chuyển giữa các chế độ camera.
+SOUND EFFECTS
+GAMEPLAY OPTIONS
+FAST INTRO FADE
+Class intro text will fade out much more quickly.
+SCP-079 - TOGGLE VIEW MODE
+Press once to swap between camera modes.
 SCP-079 - POST-PROCESSING
-Nếu tắt đi, chất lượng hiệu ứng camera sẽ bị giảm sút.
+If disabled, camera effects will be heavily reduced.
 HEAD BOB
-Làm camera nhấp nhô khi di chuyển.
+Enables first-person camera bobbing during movement.
 TOGGLE SPRINT
-Kích hoạt trạng thái chạy bằng cách bật hoặc tắt thay vì nhấn giữ phím để chạy.
-THANH AHP RIÊNG
-Chia AHP thành thanh riêng, thay vì đi kèm theo thanh HP chính.
-Bản dịch của chúng tôi là mã nguồn mở trên GitHub\nMuốn giúp? Nhấn vào đây để truy cập repo.
+Sprinting toggles on and off, instead of being held down.
+SEPARATE ARTIFICIAL HP BAR
+Gives artificial HP its own health bar, instead of an overlay.
+Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
 RICH PRESENCE
-Nếu bật, trạng thái cụ thể trong game của bạn sẽ được hiện lên Discord/Steam.
-HIỆN HP CỤ THỂ
-Hiện cụ thể lượng HP còn lại, thay vì phần trăm.
-PHÒNG CHƠI CÔNG KHAI
-Nếu bật, bạn của bạn có thể vào chung server mà không cần sự cho phép.
-ẨN IP
-Nếu bật, IP của bạn sẽ không hiện trong console.
-BẬT TÌM KIẾM
-Việc nhặt vật phẩm sẽ không cần nhấn giữ nữa, nhấn lại để bỏ chọn.
-Áp dụng bóng mềm vào góc cạnh và chỗ hẹp giúp tạo chiều sâu cho mô hình.
-Thêm chiều sâu cho môi trường xung quanh nhưng đánh đổi hiệu suất.
-Thêm chiều sâu vào ánh sáng bằng hiệu ứng phát sáng tùy thuộc vào cường độ ánh sáng.
-Bật để hiện phụ đề khi CASSIE thông báo.
-Nhấp nháy ở Taskbar khi bạn được spawn nếu bạn đang không ở màn hình game.
-Làm mềm các đường thẳng và loại bỏ rối loạn khúc xạ.
-Đồng bộ FPS game với cường độ làm tươi màn hình để tránh rách khung hình.
-Hiển thị họa tiết vết đạn và vết máu.
+If enabled, your status will be displayed on Discord/Steam.
+DISPLAY EXACT HP VALUE
+Displays exact HP, instead of just the percentage.
+PUBLIC LOBBY
+If enabled, your steam friends can join you without permission.
+HIDE IP
+If enabled, any IP in client console is not displayed.
+TOGGLE SEARCH
+Item pickup will not require a held key; press again to cancel.
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+Toggle to show subtitles for cassie announcements.
+Flashes the taskbar when you spawn while the game is not in focus.
+Smoothes lines and removes visual distortions.
+Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.
