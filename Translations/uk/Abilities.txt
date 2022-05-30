@@ -1,30 +1,31 @@
-Здібність не знайдено:Пов’язаний ідентифікаційний номер здібності не існує.
-Біг:Рухаєтеся швидко, але гучно.
-Скрадання:Рух тихий, але повільний.
-Речі:Прогляньте свої речі та виберіть потрібну за допомогою ЛКМ чи скиньте її за допомогою ПКМ.
-Неозброєний:У вас нічого немає. Знайдіть щось. Хоч щось.
-Картка доступу:Це не найліпша річ, яку можна мати, але краще її не губити.
-Стандартне спорядження:Ви маєте гвинтвіку, гранати, рацію, знезброювач і картку доступу.
-Готовність до бою:Ви маєте легкий кулемет, майстер-ключ (картка доступу) і аптечку.
-Дивовижна швидкість:Ви значно пришвидшуєтеся, якщо люди вас не бачать. Ви не зможете напасти, якщо на вас дивиться хоч одна людина, але всі люди одночасно кліпають очима кожні кілька секунд, тож ви маєте час діяти.
-Паніка:Якщо здоров’я мало, ви рухаєтеся швидше.
-Вирва:Ви можете розміщувати темну калюжу корозії та будь-коли переноситися до неї. Перенесення триває кілька секунд.\nВи будь-коли можете переставити вирву в інше місце.
-Корозія:Для чого відкривати двері, якщо можна просто пройти крізь них.
-Лебедина пісня:Ви майже не отримуєте шкоду від куль, але людська пожертва у вашій камері стримування миттєво зупинить вас.
-Кишеньковий вимір:Швидко вбивайте людей, захоплюючи їх та переносячи до свого кишенькового виміру. Якщо люди не знайдуть правильний вихід, то помруть.
-Сором’язливість:Ви рухаєтеся повільно й не можете нападати, ще й тихенько схлипуєте. Якщо люди довго дивляться на вас, ви завмираєте на 5 секунд, а потім розлючуєтеся.
-Недружелюбна лють:Ви швидко рухаєтеся й голосно кричите. Лють триває 20 секунд, після яких ви на короткий термін не будете кричати, але й не зможете знову розлютитися.\nУ люті натискайте чи затискайте цю кнопку, щоби миттєво вбити всіх людей на невеликій відстані довкола.
-Прорив:У приступі люті ви ламаєте двері.
-Надчутливість:Ви не бачите людей, хіба що вони побіжать, зіткнуться з вами чи стрілятимуть зі зброї поблизу вас.
-Хижак:Ви рухаєтеся безшумно. Утримування призначеної клавіші пришвидшує вас, але кроки стають гучнішими.
-Імітація:Ви можете спілкуватися з будь-яким гравцем поблизу, навіть людьми.
-Укус:Нападайте не людей поблизу та завдавайте значних поранень.
-Протиотрута:Торкніться людей поблизу й миттєво вбийте їх.
-Ліки:Воскресіть нещодавно померлу людину. Воскреслі стають зомбі — рухаються швидко, але мають мало здоров’я.\nВи можете воскрешати необмежену кількість людей.
-Удар:Нападайте на людей і завдавайте середні поранення.
-Взаємодія з дверима:Ви можете відчиняти й зачиняти двері за 5 очок потужності, а також блокувати їх, поки матимете очки потужності.
-Перенавантаження Тесли:Ви можете активувати Браму Тесли за 50 очок активності, убиваючи всіх гравців поблизу неї.
-Блокування:Із доступом 2-го рівня ви можете блокувати приміщення, вимикати все освітлення та зачиняти всі двері. У заблокованих приміщеннях люди не зможуть бачити SCP-173.
-Практично нерушимий:У зоні важкого стримування створюються 5 генераторів. Якщо ви розблокуєте й активуєте всі, то станете нестримними.\nБудь-який гравець може перервати зворотний відлік генератора, натиснувши кнопку «СКАСУВАТИ».
-Скручування шиї:Поки людина не бачить вас чи кліпає очима, затримайте чи клацніть кнопку, щоби скрутити їй шию та миттєво вбити.
-Наступ (у люті): вони заслужили на смерть у цій лабораторії. Вм стрімко рушаєте уперед, руйнуючи все на своєму шляху. Ви навіть можете ударом пробити важкі двері чи ворота.
+Ability Not Found:The ability ID associated with this ability does not exist.
+Sprint:Increases your movement speed, but also increases sound made while moving.
+Sneak:Your movements become silent, at the cost of a lot of speed.
+Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
+Unarmed:You have nothing. Find something. Anything.
+Access Card:You have an access card, it's not the best but don't lose it.
+Standard Issue:You are equipped with a Rifle, Grenades, a Radio and an Access Card.
+Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
+Breakneck Speeds:No matter where they hide, you will find them in little time, and they will see you for less. Double your movement speed and blink distance, at the cost of your lethality. Lasts until shortly after being witnessed, or cancelled manually.
+Blink:Once they lay eyes on you, make them regret breaking sight, even for a moment. When the eye turns crimson, hold and move the indicator to a desired location. Release to teleport and kill the nearest human within 2 meters.
+Sinkhole:You can place a black pool of corrosion and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
+Corrosion:You can move through doors by walking into them.
+Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
+Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
+Scopophobia:You start docile, and become enraged when you're seen or hurt. Quell your rage by killing transgressors - follow their light before your fury subsides. The indignity of each offender adds to your AHP, preventing harm to you as long as it stands.
+Try Not To Cry (Docile):It's too hard. Leaning on a door helps; you become quieter and stand in place against it, calming yourself down... or waiting for someone to come through.
+Melee Attack (Rage):Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and kill most humans instantly.
+Ultrasensitive:You can't see humans unless they run, bump you, or fire a weapon in close proximity to you.
+Predator:Your footsteps are silent. Holding the assigned key increases your speed, but makes your movement audible.
+Mimic:You can speak out loud to any nearby players, including humans.
+Bite:Attacks a human in melee range, instantly dealing severe damage.
+Antidote:Touches a human within close range, instantly killing them.
+The Cure:Reanimates a recently killed human. Cured humans play as zombies with fast movement and low health.\nThere is no limit on how many humans can be reanimated.
+Strike:Attacks a human and deals a moderate amount of damage to them.
+Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
+Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
+Lockdown:Starting at Access Level 2, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
+Virtually Indestructible: Three generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
+Reinforced Concrete:Accept their gazes of admiration, but stand your ground against their vandalism. You have built-in resistance to gunfire. Low-penetration weapons deal significantly less damage compared to piercing weaponry.
+Charge (Rage):Cut their escapes short - they deserve it. You bolt straight ahead, demolishing anything in front of you for a short distance. If you hit a heavy gate, you force yourself through it.
+Tantrum:Let them know your fury. Create a pool of filth underneath you that stains and greatly inhibits the mobility of humans who pass through it. Killing stained humans will recover some of your Hume Shield.
