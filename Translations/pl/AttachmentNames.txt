@@ -1,8 +1,8 @@
 Brak~Podstawowa opcja, która nie wpływa na zachowanie broni.
-Celownik mechaniczny~Podstawowy zestaw przyrządów celowniczych, który nie wpływa znacząco na ciężar broni.
-Celownik kolimatorowy~Niepowiększający celownik z punktem celowniczym w postaci kropki.
-Celownik holograficzny~Kolimator wykorzystujący holograficzny punkt celowniczy. Bardzo efektywny na niskie i średnie dystanse.
-Celownik noktowizyjny~Noktowizor pełniący rolę celownika. Ciężki, ale skuteczny niezależnie od warunków oświetleniowych.
+Iron Sights~A pair of alignment markers making up a simple, lightweight sighting device.
+Dot Sight~Non-magnifying reflex sight with a small illuminated dot indicating the point of aim.
+Celownik holograficzny~Kolimator wykorzystujący holograficzny punkt celowniczy. Effective in close-quarters combat.
+Night-Vision Scope~Telescopic sight augmented with a night-vision device. Ciężki, ale skuteczny niezależnie od warunków oświetleniowych.
 Licznik amunicji~Celownik mechaniczny zintegrowany z licznikiem amunicji.
 Luneta~Celownik optyczny, powiększający obraz. Idealny na duże odległości, lecz ogranicza ogólną percepcję.
 Standardowa kolba~Podstawowy rodzaj kolby. Zwiększa stabilność broni podczas celowania.
@@ -10,16 +10,16 @@ Rozłożona kolba~Zwiększa stabilność broni podczas celowania, ale wydłuża 
 Złożona kolba~Skraca ogólną długość, przez co broń staje się bardziej mobilna.
 Lekka kolba~Zmniejsza ogólną wagę broni, ale utrudnia kontrolę odrzutu podczas celowania.
 Ciężka kolba~Zwiększa ogólną wagę broni, przez co ogranicza mobilność, lecz broń zachowuje się znacznie stabilniej podczas celowania.
-Kolba kompensująca odrzut~Kolba, która opóźnia i redukuje odrzut pomiędzy poszczególnymi strzałami.
-Chwyt~Przedni chwyt, ułatwia kontrolę podrzutu.
+Recoil-Reducing Stock~Stock equipped with a system that attempts to disperse force between individual shots.
+Foregrip~Vertical forward grip. Makes it easier to handle the muzzle rise.
 Celownik laserowy~Pokazuje widoczny punkt w który trafi twój pocisk, ułatwiający strzelanie z biodra, natomiast może łatwo zdradzić twoją pozycję.
 Latarka~Źródło światła z możliwością wyłączenia. Zwiększa ogólną wagę, lecz może się okazać zbawienne w ciemnych pomieszczeniach.
 Licznik amunicji~Urządzenie liczące ilość amunicji. Eksperymentalna technologia, która świetnie się sprawdza przy dużych magazynkach.
 Standardowa lufa~Podstawowa lufa bez żadnego urządzenia wylotowego.
 Przedłużona lufa~Poprawia ogólną siłę ognia, lecz znacząco zwiększa długość i ciężar broni, co ogranicza mobilność.
-Tłumik dźwięku~Wytłumia hałas podczas wystrzału, lecz znacząco ogranicza mobilność przez zwiększoną długość i wagę broni.
-Tłumik płomienia~Ogranicza błysk powylotowy spowodowany przez wystrzał. Ułatwia strzelanie w ciemności i utrudnia wykrycie przez wroga.
-Hamulec wylotowy~Przekierowuje wytworzone gazy prochowe w celu zredukowania odrzutu, co jednak zwiększa natężenie akustyczne wystrzału.
+Suppressor~Sound moderator. Tłumik dźwięku~Wytłumia hałas podczas wystrzału, lecz znacząco ogranicza mobilność przez zwiększoną długość i wagę broni.
+Flash Hider~Eliminates muzzle flash. Ułatwia strzelanie w ciemności i utrudnia wykrycie przez wroga.
+Muzzle Brake~Recoil compensator. Hamulec wylotowy~Przekierowuje wytworzone gazy prochowe w celu zredukowania odrzutu, co jednak zwiększa natężenie akustyczne wystrzału.
 Odrzutnik~Poprawia szybkostrzelność, co przekłada się na wyższe obrażenia na sekundę, lecz broń staje się trudna w kontrolowaniu.
 Magazynek FMJ~Standardowy magazynek zawierający zwykłe pełnopłaszczowe pociski.
 Magazynek AP~Standardowy magazynek zawierający pociski przeciwpancerne.
@@ -37,10 +37,10 @@ Zmniejszony magazynek JHP~Magazynek małej pojemności zawierający pociski bezp
 6-Komorowy bęben~Klasyczny sześciostrzałowiec.
 8-Komorowy bęben~Posiada większą pojemność, ale wymagana jest większą siła potrzebna na zwolnienie spustu.
 Układ karabinkowy~Podstawowy układ broni, stanowiący dobry kompromis między siłą ognia, a mobilnością.
-Układ karabinowy~Pełnowymiarowy układ na amunicję pośrednią, który zwiększa celność i obrażenia, kosztem szybkostrzelności i mobilności.
+Rifle Receiver~Full-size upper receiver improves firepower and accuracy, but a heavier gas system reduces the fire rate.
 Krótka lufa~Skrócona wersja standardowej lufy, poprawia mobilność oraz czas wyciągania broni.
 Czok~Zwiększa ogólny rozrzut śrutu, lecz poprawia przewidywalność rozrzutu.
 Przedłużona lufa~Obniża rozrzut śrutu i sprawia, że strzelba staje się cięższa i dłuższa.
-Bez Kolby~Skraca ogólną długość, przez co broń staje się bardziej mobilna, natomiast usunięta kolba uniemożliwia bezpiecznego z niej celowania.
+No Stock~Short configurations come with high mobility, but removing stocks from a high-recoil rifle isn't always the best idea.
 System jednostrzałowy~Podstawowy system. Jedno pociągniecie spustu skutkuje jednym wystrzałem.
-System dwustrzałowy~Zmodyfikowany mechanism spustu. Jedno pociągniecie skutkuje dwoma wystrzałami na raz.
+System dwustrzałowy~Zmodyfikowany mechanism spustu.
