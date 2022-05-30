@@ -3,7 +3,7 @@ Tesiste dört ana bölge vardır: Light Containment, Heavy Containment, Entrance
 Bilim adamları ve D-Sınıfları, kaçmak için yüzeye ulaşmalıdır.
 Entrance Zone, yüzeye erişim sağlayan iki geçide sahiptir. Bunları açmak için bir karta ihtiyacınız olacak.
 Asansör kullanmak, çoğu SCP'den kaçmanın hızlı ve kolay bir yoludur.
-Kaçan D-Sınıfları Kaos İsyanına katılırken, kaçan Bilim adamları MGG olur.
+Escaped Class-D join the Chaos Insurgency, while escaped Scientists become MTF.
 Adrenalin, enerjinizi anında yenilemek için kullanılabilir ve size savaşta avantaj sağlar.
 Radyoların dört menzil ayarı vardır. Menzil ne kadar uzak olursa, pil o kadar hızlı tüketilir.
 Mobil Görev Gücü birimleri ve Kaos İsyancıları, Yüzey Bölgesinin zıt uçlarında doğarlar.
@@ -11,7 +11,7 @@ Alfa Savaş Başlığı patladığında Tesis içindeki her şeyi öldürür. Y�
 Alfa Savaş Başlığı patlama geri sayımı, Heavy Containment'taki silo odasından iptal edilebilir.
 Entrance Zone'daki İnterkom odası, tüm oyunculara sesli mesaj yayınlamak için kullanılır.
 Öğeleri (varsayılan olarak "T") fırlatabilirsiniz. Bu, kartlı kapıları uzaktan açmak veya cam kırmak için kullanılabilir.
-Light Containment Zone 15 dakika sonra kilitlenecektir; içeride kalan herkes öldürülecektir. Kaç kaçabilirsen!
+Light Containment Zone 15 dakika sonra kilitlenecektir; içeride kalan herkes öldürülecektir. Escape while you can!
 Silah eklentilerinizi içinde bulunduğunuz duruma göre ayarlayarak avantajınızı en üst düzeye çıkarın.
 Bir silahın üzerinde ne kadar fazla eklenti varsa, o kadar ağırlaşır. Bu, enerji kullanımını ve hareket hızını etkiler.
 Susturucular sadece silah seslerini bastırmakla kalmaz, aynı zamanda namlu ateşlerini de gizler.
@@ -20,14 +20,14 @@ Zırh giymek, taşıyabileceğiniz eşya ve cephane sayısını artırır.
 Zırh Delici mermiler (ZD), zırhlı hedeflere karşı en iyi performansı gösterir.
 Ucu Delikli mermiler (UD), zırhsız hedeflere daha yüksek hasar verir ancak zırha karşı daha zayıftır.
 Şarjör değiştirme tuşuna basılı tuttuğunuzda silah şarjörünü çıkartır ve mühimmatını envanterinize ekler.
-Kaos İsyanı silahları güçlüdür ancak mühimmatları Tesis'te bulunmaz. Boşa harcama.
+Kaos İsyanı silahları güçlüdür ancak mühimmatları Tesis'te bulunmaz. Make it count.
 El bombaları, kapıları yok etmek için kullanılabilir.
 El bombaları, farenin sağ tuşu kullanılarak daha az kuvvetle fırlatılabilir.
 Mikro Y.Y.D. çoğu SCP'yi çok hızlı bir şekilde öldürebilir ancak sınırlı bir güç kaynağına sahiptir. Akıllıca kullan!
 Mikro Y.Y.D. ateş edebilmesi için yaklaşık 5 saniye şarj edilmesi gerekir.
-Farenin sağ tuşuna basılı tutmak, Mikro Y.Y.D.'yi ateşlenmeye hazır durumda tutar; enerjisi yavaş yavaş tükenir.
+Farenin sağ tuşuna basılı tutmak, Mikro Y.Y.D.'yi ateşlenmeye hazır durumda tutar; enerjisi yavaş yavaş tükenir. at its ready-to-fire state; slowly draining energy.
 Mikro Y.Y.D. şarj olurken çok gürültülü çıkarır. Hedeflerinizin kaçamayacağı durumlarda kullandığınızdan emin olun.
-Mikro Y.Y.D.'yi şarj etmek düşmanlarınızın planlarını mahvetmeye yetecek kadar korkutucu bir ses çıkarır.
+Charging the Micro H.I.D. Mikro Y.Y.D.'yi şarj etmek düşmanlarınızın planlarını mahvetmeye yetecek kadar korkutucu bir ses çıkarır.
 Bir şişe SCP-207 sadece hareket hızınızı artırmakla kalmaz, aynı zamanda sağlığınızı da kısmen iyileştirir.
 Dört adede kadar SCP-207 şişesi içilebilir, bu da hız çarpanınızı önemli derecede artırır.
 SCP-500 sadece sizi iyileştirmekle kalmaz, çoğu olumsuz etkiyi ortadan kaldırır ve sonrasında yenilenme sağlar.
