@@ -1,7 +1,7 @@
 檢舉玩家
-選擇對象:\n玩家 名稱:\n檢舉描述:
+Target:\nPlayer ID:\nDescription:
 取消
 檢舉玩家違反此伺服器規則
 檢舉玩家作弊或揪團到伺服器
-檢舉中
+REPORTING
 請等候...
