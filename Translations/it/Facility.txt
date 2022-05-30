@@ -1,15 +1,15 @@
 VOLUME VOCE
 Ok
-FORZA L'AVVIO
+VOLUME PRINCIPALE
 RICONTENIMENTO SCP-106
 Inverti asse-Y
-RIEPILOGO PARTITA
+DISCONNETTITI
 Annulla
 I N V E N T A R I O
 LUMINOSITÀ
 OPZIONI
-DISCONNETTITI
-LA TESTATA NUCLEARE È DISABILITATA
+CONTINUA
+ALPHA WARHEAD IS DISABLED
 ACCESSO NEGATO
 CHAT VOCALE
 INVENTARIO PIENO
@@ -23,22 +23,22 @@ Schermo intero
 Sei sicuro di voler abbandonare il server?
 Opzioni base. Troverai più impostazioni nel menu principale.
 IN ATTESA DI GIOCATORI
-RIEPILOGO PARTITA
-CONTINUA
-VOLUME PRINCIPALE
+SUMMARY
 connessi
+FORZA L'AVVIO
+connected
 Sei fuggito come Scienziato e ti sei unito alle forze Nine-Tailed Fox.
 Sei fuggito come Classe-D e ti sei unito alla Chaos Insurgency.
-RUOLO:
+YOU ARE
 Tempo di fuga: [escape_minutes] minuti e [escape_seconds] secondi
 Attendi [time] prima di usare [item] di nuovo.
-TIENI PREMUTO <color=white><b>F1</b></color> PER MAGGIORI INFORMAZIONI
+Press <color=yellow><b>F1</b></color> for help.
 Sei stato ammanettato\n<size=40>segui gli ordini o chiedi aiuto ai tuoi compagni di squadra.</size>
 Eri stato catturato dalle forze Nine-Tailed Fox.\nCon una minaccia in meno nella facility, hanno potuto ottenere rinforzi.
 Eri stato catturato come Scienziato dalla Chaos Insurgency.\nLoro possono avvantaggiarsi delle tue informazioni per trarne vantaggio.
 IL ROUND INIZIERÀ TRA: <color=yellow>{0}</color> SECONDI.
 IL ROUND È IN <color=#FF5050>PAUSA</color>
-RIDUZIONE DELLA SENSIBILITÀ MIRANDO
+AIMING SENS. REDUCTION
 Premi [key] per annullare l'azione
 Attivazione ADS
 Silenzia la chat degli spettatori
