@@ -1,91 +1,99 @@
-BLI MED
-LUKK
-SKYGGEOPPLØSNING
-INNSTILLINGER
-BASERT PÅ <i>SCP: CONTAINMENT BREACH</i>
-TILBAKE
-SPRÅK
-ANTI-ALIASING
-Endre detaljer:\n-ANTALL PIKSEL-LYS - maksimalt antall lyskilder som kan gjengis på individuelle piksler.\n-Vertikal synk - slå på synkronisering av bildefrekvensen mot skjermens oppdateringsfrekvens.
-BLI MED I SPILL
-ETTER-\nBEHANDLING
-MEDVIRKENDE
-AVSLUTT
-Fullskjerm-modus
-SKJERM INNSTILLINGER
-FARGE KORREKSJON
-Skriv inn IP-adresse...
-SKJERMOPPLØSNING
-SPILL
-ANTALL PIKSEL-LYS
-SKYGGETYPE
-SKYGGER
-LAG SPILL
-Endre etterbehandlingsinnstillinger. Disse endringene påvirker ikke ytelsen. Bruk av standardverdier anbefales.
-Lysgjengivelsesmodus:\nNår den er slått av, reduseres grafikkkvaliteten. Deaktivering av denne innstillingen anbefales bare for datamaskiner med lav ytelse.
-VERTIKAL SYNK
-KOBLE TIL
-KVALITETS INNSTILLINGER
-Endre skyggepreferanser. Ved å sette disse sliderene til lavere verdier kan spillet mulig kjøre jevnere.
-HOVEDMENY
-SYNLIG LYS
-BEVEGELSESSLØRING
-SKYGGEDISTANSE
-DETALJER
+JOIN
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BREACH</i>
+BACK
+LANGUAGE
+ANTIALIASING
+Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
+JOIN GAME
+POST\nPROCESSING
+CREDITS
+QUIT GAME
+Fullscreen mode
+SCREEN SETTINGS
+COLOR CORRECTION
+Enter IP Address...
+SCREEN RESOLUTION
+PLAY
+PIXEL LIGHT COUNT
+SHADOW TYPE
+SHADOWS
+CREATE GAME
+Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
+Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
+V-SYNC
+CONNECT
+QUALITY SETTINGS
+Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
+MAIN MENU
+RENDER LIGHTS
+MOTION BLUR
+SHADOW DISTANCE
+DETAILS
 3. SCP-914
-OPPLÆRINGER
-ADVARSEL
-Bla gjennom tilgjengelige servere
-Ikke vis den igjen
-Hvordan ønsker du å koble til?
-SERVERLISTE
-OK
-FINN SERVER
-2. Våpenbruk
-Vi bruker Discord som et forum. Ingen installasjon er nødvendig.\n(klikk på logoen for å bli med)
-Som standard vil serveren settes opp på det lokale nettverket.\nVennene dine vil trenge IP-adressen din for å koble til.\nHvis du vil sette opp en offentlig server, kjør LocalAdmin.exe og følg instruksjonene.\nVennligst spør teknisk støtte dersom du har spørsmål. (lenke i hovedmenyen)
-1. Grunnleggende
-Det presenterte spillet er fortsatt i offentlig beta.\nDu kan oppleve tilkoblingsproblemer og mange andre feil.\nGjeldende status gjenspeiler ikke den endelige versjonen.
-4. (flere veiledninger senere)
-DIREKTE TILKOBLING
-TEKNISK STØTTE / FORUM
-LYDVOLUM
-Angi IP-adressen til den spesifikke serveren.
-LASTER NED DATA
-INGEN SERVERE TILGJENGELIG
-TRYKK ESC FOR Å LUKKE / AVBRYTE
-TASTEBINDINGER
-MAKSIMAL BLODMENGDE
-FPS Grense
-FPS-grensen fungerer ikke når vSync er aktivert!
-Angi standard
-Vi bruker Steam Diskusjoner som et forum. (Klikk på logoen nedenfor for å åpne forumet)
-LYD INNSTILLINGER
-HOVEDVOLUM
-MENY MUSIKK
-STEMMECHAT
-LYDEFFEKTER
-SPILL ALTERNATIVER
-RASK INTRO FALMING
-Klasse intro-tekst vil forsvinne mye raskere.
-SCP-079 – BYTT OBSERVASJONS MODUS
-Trykk en gang for å bytte mellom kameramodusene.
-SCP-079 – ETTER-BEHANDLING
-Kamera-effekter vil reduseres betydelig dersom det deaktiveres.
-HODEBEVEGELSE
-Aktiverer flytting av førstepersons kameraet under bevegelse.
-VEKSLE SPRINT
-Sprinting veksler på og av, i stedet for å bli holdt ned.
-SEPARAT KUNSTIG LIV-POENG INDIKATOR
-Gir kunstig helse sin egen indikator i stede for et overlegg.
-Våre oversettelser er åpenkilde på GitHub!\nVil du hjelpe? Klikk her for å få tilgang til repoet.
+TUTORIALS
+WARNING
+Browse available servers
+Don't show it again
+How would you like to connect?
+SERVER BROWSER
+OKAY
+FIND MATCH
+2. Using weapons
+We use Discord as a forum. No installation needed.\n(click the logo to join)
+By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
+1. The basics
+The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+DIRECT CONNECT
+TECH SUPPORT / FORUM
+SOUND VOLUME
+Enter the IP address of the specific server.
+DOWNLOADING DATA
+NO SERVERS AVAILABLE
+PRESS ESC TO CLOSE / CANCEL
+KEY BINDING
+MAX BLOOD AMOUNT
+FPS Limit
+FPS Limit does not work when vSync is enabled!
+Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the forum)
+AUDIO SETTINGS
+MASTER VOLUME
+MENU MUSIC
+VOICE CHAT
+SOUND EFFECTS
+GAMEPLAY OPTIONS
+FAST INTRO FADE
+Class intro text will fade out much more quickly.
+SCP-079 - TOGGLE VIEW MODE
+Press once to swap between camera modes.
+SCP-079 - POST-PROCESSING
+If disabled, camera effects will be heavily reduced.
+HEAD BOB
+Enables first-person camera bobbing during movement.
+TOGGLE SPRINT
+Sprinting toggles on and off, instead of being held down.
+SEPARATE ARTIFICIAL HP BAR
+Gives artificial HP its own health bar, instead of an overlay.
+Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
 RICH PRESENCE
-Om aktivert vil din status bli vist på Discord/Steam.
-VIS EKSAKT LIV-POENG VERDI
-Viser nøyaktige liv-poeng, i stedet for en prosentandel.
-ÅPEN LOBBY
-Hvis aktivert, kan Steam-venner bli med uten tillatelse.
-SKJUL IP
-Hvis aktivert vises ikke alle IP-adresser i klientkonsollen.
-VEKSLE SØK
-Plukke opp vil ikke kreve en holdt knapp, trykk igjen for å avbryte.
+If enabled, your status will be displayed on Discord/Steam.
+DISPLAY EXACT HP VALUE
+Displays exact HP, instead of just the percentage.
+PUBLIC LOBBY
+If enabled, your steam friends can join you without permission.
+HIDE IP
+If enabled, any IP in client console is not displayed.
+TOGGLE SEARCH
+Item pickup will not require a held key; press again to cancel.
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+Toggle to show subtitles for cassie announcements.
+Flashes the taskbar when you spawn while the game is not in focus.
+Smoothes lines and removes visual distortions.
+Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.
