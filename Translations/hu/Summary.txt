@@ -1,17 +1,17 @@
-A körnek vége!
-Az SCP-k NYERTEK
-ALAPÍTVÁNY NYERT
-INSURGENCY NYERT
-DÖNTETLEN
-Az elszökött alanyok lerohanták a létesítményt. A vészhelyzeti segélykérés blokkolva lett.
-A biztonságot fenyegető összes veszélyt semlegesítettek. Site-02 ismét biztonságos. Ez a létesítmény újra biztonságos.
-Az Alapítvány biztonsági jelenléte meg lett szüntetve. Az ügynökök készen állnak a további rendelkezésekre.
-Site-02 bizonytalan felügyelet alatt áll. A nyertes meghatározatlan marad.
-[summary_d_escaped] d-osztályú szökött meg
-[summary_s_escaped] tudós élte túl
-Az Alpha Robbanófej detonációja [summary_warhead_kills] lényt likvidált.
-Az Alpha Robbanófej nem robbant fel a küldetés során.
-A küldetés [summary_round_minutes] perc [summary_round_seconds] másodpercig tartott.
-[summary_scp_terminated] likvidált SCP
-Következő kör [summary_next_round_countdown] másodperc múlva.
-Az SCP-k [summary_scpfrags] emberi lényt öltek meg.
+The round has finished!
+SCPS WIN
+FOUNDATION WINS
+INSURGENCY WINS
+STALEMATE
+The escaped subjects have overrun the facility. Emergency response has been scrambled.
+All threats to safety have been neutralized. Site-02 is secure once again.
+Foundation presence has been exterminated. Operatives standing by for further orders.
+Site-02 is under certain control, but not without cost. The victor is undetermined.
+[summary_d_escaped] class-d escaped
+[summary_s_escaped] scientist(s) survived
+The Alpha Warhead's detonation terminated [summary_warhead_kills] beings.
+The Alpha Warhead was not detonated during this mission.
+The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+[summary_scp_terminated] terminated SCPs
+Next round in [summary_next_round_countdown] seconds.
+The SCPs killed [summary_scpfrags] human beings.
