@@ -1,54 +1,58 @@
-Giám đốc điều hành Northwood
-Giám đốc thông tin Northwood
-Giám đốc điều hành Northwood
-Quản lý cộng đồng Northwood
-Quản lý Discord Northwood
-Trợ lý điều hành Northwood
-Giám đốc CSKH Northwood
-Nhân lực Northwood
-Quản lý nhân lực Northwood
-Giám đốc nền tảng Marketing Northwood
-Nhân viên Northwood
-Quản lý Steam Northwood
-Giám sát hệ thống Northwood
-Quản lý Wiki Northwood
-Giám độc nghệ thuật SCP:SL
-Giám sát nghệ thuật SCP:SL
-Họa sĩ SCP:SL
-Lập trình Backend SCP:SL
-Quản lý lập trình Backend SCP:SL
-Nhà phát triển SCP:SL
-Người thắng cuộc thi của SCP:SL
-Lập trình Fullstack SCP:SL
-Thiết kế game SCP:SL
-Lập trình gameplay SCP:SL
-Giám sát điều hành SCP:SL
-Điều hành SCP:SL
-Trưởng thiết kế SCP:SL
-Trưởng lập trình gameplay SCP:SL
-Thiết kế màn chơi SCP:SL
-Đối tác SCP:SL
-Hỗ trợ Patreon SCP:SL
-Quản lý chất lượng SCP:SL
-Thiết kế âm thanh SCP:SL
-Giám đốc game SCP:SL
-Quản lý server chính thức SCP:SL
-Chuyên gia xác thực SCP:SL
-Chuyên gia mã nguồn SCP:SL
-Tester chất lượng SCP:SL
-Giám sát chất lượng SCP:SL
-Người đăng ký Twitch SCP:SL
-Quản lý âm thanh SCP:SL
-Quản lý phản hồi Northwood
-Giám xác xác minh Northwood
-Giám sát server chính thức SCP:SL
-Giám sát phản hồi Northwood
-Quản lý xác minh Northwood
-Quản lý Bot Northwood
-Quản lý dịch thuật Northwood
-Quản lý thiết kế game SCP:SL
-Hoạt họa SCP:SL
-Quản lý ngoại giao Northwood
-Hỗ trợ SCP:SL
-Lồng tiếng SCP:SL
-Góp vốn SCP:SL
+Northwood Chief Executive Officer
+Northwood Chief Information Officer
+Northwood Chief Operations Officer
+Northwood Community Director
+Northwood Discord Manager
+Northwood Executive Assistant
+Northwood Feedback Manager
+Northwood Human Resources
+Northwood Human Resources Director
+Northwood Marketing Platform Manager
+Northwood Staff
+Northwood Steam Manager
+Northwood System Administrator
+Northwood Wiki Manager
+SCP:SL Art Manager
+SCP:SL Art Supervisor
+SCP:SL Artist
+SCP:SL Backend Programmer
+SCP:SL Backend Programming Manager
+SCP:SL Developer
+SCP:SL Event Winner
+SCP:SL Fullstack Programmer
+SCP:SL Game Designer
+SCP:SL Gameplay Programmer
+SCP:SL Global Moderation Manager
+SCP:SL Global Moderator
+SCP:SL Lead Game Designer
+SCP:SL Lead Gameplay Programmer
+SCP:SL Level Designer
+SCP:SL Partner
+SCP:SL Patreon Supporter
+SCP:SL Quality Assurance Manager
+SCP:SL Sound Designer
+SCP:SL Game Director
+SCP:SL Official Server Manager
+Northwood Verification Specialist
+SCP:SL Anti-Cheat Developer
+SCP:SL Quality Assurance Tester
+SCP:SL Quality Assurance Supervisor
+SCP:SL Twitch Subscriber
+SCP:SL Audio Manager
+Northwood Feedback Coordinator
+Northwood Verification Supervisor
+SCP:SL Official Server Supervisor
+Northwood Feedback Supervisor
+Northwood Verification Manager
+Northwood Bot Manager
+Northwood Translation Manager
+SCP:SL Game Design Manager
+SCP:SL Animator
+Northwood Public Relations Director
+SCP:SL Community Helper
+SCP:SL Voice Actor
+SCP:SL Foundation Investor
+Northwood Studio Director
+SCP:SL Game Director Assistant
+Northwood Tech Support Supervisor
+Northwood Tech Support Manager
