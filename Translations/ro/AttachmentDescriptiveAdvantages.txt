@@ -1,4 +1,4 @@
-Sursă de Lumină
-Numărător de Amuniție
-Suprimare de Flash
-Vedere Nocturnă
+Light Source
+Ammo Counter
+Flash Suppression
+Night Vision
