@@ -3,7 +3,7 @@ Serwery
 Ustawienia
 Wyjdź
 Media społecznościowe
-Sieć
+Internet
 Ulubione
 Oficjalne
 Historia
@@ -23,14 +23,14 @@ Rozgrywka
 Inne
 Tryb okna gry
 Pełny ekran
-Bez krawędzi
 Zmaksymalizowane okno
 W oknie
+Język
 V-Sync
 Ograniczenie FPS
 Wyłączone
 Jakość tekstur
-Efekty środowiskowe
+Decals
 Cienie
 Rozdzielczość cieni
 Odległość cieni
@@ -38,23 +38,23 @@ Rozmycie w ruchu
 Korekcja kolorów
 Antyaliasing
 Wyświetlaj światła
-Głośność ogólna
+Master Volume
 Efekty dźwiękowe
 Czat głosowy
 Muzyka w menu
 Głośność interfejsu
-Utwór w menu
-Szybsze opisy
-Animacja chodzenia
+Menu główne
+Fast Intro Fade
+Head Bob
 Przełączany bieg
-Wyświetl dokładną ilość zdrowia
+Display Exact HP Value
 Rich Presence
 Publiczne lobby
 Przełączane podniesienie
 SCP-079 - przełącz tryb widoku
 SCP-079 - Post-Processing
-Język
-Menu główne
+Language
+Utwór w menu
 Połącz
 Powrót
 Ta zmiana wymaga zresetowania menu.\nZrestartować menu główne?
@@ -64,7 +64,7 @@ Czy aby na pewno chcesz wyjść?
 Rozdzielczość ekranu
 Ukryj IP
 Witaj, {username}!
-Autorzy
+Credits
 UWIERZYTELNIANIE
 Łączenie z serwerami centralnymi...
 <color=green>Nawiązano połączenie</color>
@@ -79,15 +79,15 @@ Pozwala innym graczom wyświetlić Twój profil Steam, klikając na ikonę w li�
 Nie śledź (DNT)
 Zakazuje serwerowi używania twoich danych (adresu IP, ID użytkownika itd.) w celach niezwiązanych z bezpieczeństwiem serwera.
 Interfejs graficzny
-Tworzenie serwerów z poziomu gry nie jest juz wspierane\nIstnieją trzy sposoby na stworzenie serwera SCP:SL:\n- Możesz pobrać serwer dedykowany SCP:SL (ID aplikacji na Steam: 996560) i uruchomić go na swoim komputerze\n- Możesz wynająć serwer dedykowany lub VPS na hostingu i tam uruchomić serwer dedykowany SCP:SL\n- Możesz wynająć serwer SCP:SL na hostingu serwerów gier, który wspiera SCP:SL (przykładowo ZAP Hosting)\n\nNaciśnij poniższy link po więcej informacji.\nMożesz także poprosić o pomoc naszych techników (link do naszego serwera Discord znajduje się w menu głównym)
-STWÓRZ SERWER MIMO TO
+Tworzenie serwerów z poziomu gry nie jest juz wspierane\nIstnieją trzy sposoby na stworzenie serwera SCP:SL:\n- Możesz pobrać serwer dedykowany SCP:SL (ID aplikacji na Steam: 996560) i uruchomić go na swoim komputerze\n- Możesz wynająć serwer dedykowany lub VPS na hostingu i tam uruchomić serwer dedykowany SCP:SL\n- Możesz wynająć serwer SCP:SL na hostingu serwerów gier, który wspiera SCP:SL (przykładowo ZAP Hosting)\n\nNaciśnij poniższy link po więcej informacji.\nMożesz także poprosić o pomoc naszych techników (link do naszego serwera Discord znajduje się w menu głównym) ZAP Hosting)\n\nClick the links below to get more info.\nYou can ask our tech support (link to our Discord server can be found in the main menu) for assistance.
 CZYTAJ WIĘCEJ
-WYNAJMIJ SERWER
 ANULUJ
-Sekunda
+WYNAJMIJ SERWER
+CANCEL
+Second
 Za rozgrywkę w naszej grze!
-Podświetl ikonę gry przy odrodzeniu
+Flash Taskbar On Spawn
 Ambient occlusion
 Światła wolumetryczne
 Bloom
-Wyświetlaj napisy
+Toggle Subtitles
