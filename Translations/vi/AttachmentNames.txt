@@ -1,44 +1,46 @@
-Trống~Lựa chọn mặc định và không có thêm tác dụng.
-Điểm ruồi~Công cụ cơ bản để ngắm bắn mục tiêu.
-Chấm đỏ~Ống ngắm không phóng đại với chấm nhỏ màu đỏ để ngắm.
-Holosight~Ống ngắm không phóng đại có kẻ ô ở trung tâm. Hiệu quả khi chiến đấu tầm gần.
-Ống ngắm đêm~Ống ngắm phóng đại tích hợp bộ nhìn đêm. Rất nặng nề nhưng hiệu quả trong môi trường ánh sáng yếu.
-Ống ngắm tích hợp bộ đếm~Hệ thống điểm ruồi tích hợp bộ đếm đạn.
-Ống ngắm phóng to~Phụ kiện ngắm bắn lớn, phóng đại được mục tiêu. Hoàn hảo khi chiến đấu tầm xa nhưng kém tiện lợi.
-Báng tiêu chuẩn~Cấu hình mặc định giúp kiểm soát súng khi ngắm bắn.
-Báng dài~Giúp kiểm soát súng rất tốt khi ngắm bắn nhưng tốn thêm thời gian rút súng.
-Báng ngắn~Giúp súng nhỏ gọn hơn, tăng tính cơ động.
-Báng nhẹ~Giảm khối lượng súng nhưng làm tăng độ giật.
-Báng nặng~Tăng khối lượng, giảm tính cơ động và kiểm soát độ giật tốt hơn.
-Báng chống giật~Loại báng súng có tích hợp cơ chế giảm độ giật khi bắn.
-Tay cầm trước~Tay cầm gắn phía trước giúp kiểm soát độ giật.
-Laser~Tia Laser hiển thị điểm ngắm trên mục tiêu giúp bắn tốt hơn khi không ngắm nhưng dễ để lộ vị trí.
-Đèn pin~Nguồn sáng, tăng khối lượng vũ khí nhưng hữu dụng khi ánh sáng yếu.
-Bộ đếm đạn~Bộ đếm đạn tích hợp. Rất hữu dụng, đặc biệt là khi lượng đạn lớn.
-Nòng tiêu chuẩn~Nòng mặc định, chưa tinh chỉnh họng súng.
-Nòng dài~Tăng sức mạnh hỏa lực nhưng làm giảm tính cơ động do khối lượng và độ dài tăng.
-Ống giảm thanh~Kiểm soát âm thanh. Giảm âm lượng phát ra khi khai hỏa nhưng tăng khối lượng và độ dài.
-Chụp che lửa~Che tia lửa phát ra khi bắn giúp không bị lộ tia lửa đầu nòng khi bắn trong bóng tối.
-Chụp bù giật~Giảm độ giật. Dùng thuốc phóng để giảm độ giật nhưng làm tăng cường độ âm thanh.
-Chụp tăng giật~Tăng sát thương mỗi giây nhưng làm súng khó kiểm soát hơn.
-Băng đạn FMJ~Băng đạn chứa đạn bọc kim loại.
-Băng đạn AP~Băng đạn chứa đạn xuyên giáp.
-Băng đạn JHP~Băng đạn chứa đạn đầu rỗng.
-Băng đạn FMJ lớn~Băng đạn mở rộng chứa đạn bọc kim loại.
-Băng đạn AP lớn~Băng đạn mở rộng chứa đạn xuyên giáp.
-Băng đạn JHP lớn~Băng đạn mở rộng chứa đạn đầu rỗng.
-Băng súng máy FMJ~Băng đạn súng máy chứa đạn bọc kim loại.
-Băng súng máy AP~Băng đạn súng máy chứa đạn xuyên giáp.
-Băng súng máy JHP~Băng đạn súng máy chứa đạn đầu rỗng.
-Băng đạn nhỏ FMJ~Băng đạn rút gọn chứa đạn bọc kim loại.
-Băng đạn nhỏ AP~Băng đạn rút gọn chứa đạn xuyên giáp.
-Băng đạn nhỏ JHP~Băng đạn rút gọn chứa đạn đầu rỗng.
-Cò xoay 4 viên~Ít đạn hơn nhưng tăng sát thương cho đối phương mang giáp.
-Cò xoay 6 viên~Súng cò xoay tiêu chuẩn.
-Cò xoay 8 viên~Nhiều đạn hơn nhưng cò xoay nặng hơn khiến thời gian bắn dài hơn.
-Khung Carbine~Khung Carbine giúp cân bằng hỏa lực và tính cơ động.
-Khung súng trường~Khung súng trường giúp tăng hỏa lực và độ chính xác nhưng giảm tốc độ bắn.
-Nòng ngắn~Nòng thu ngắn, giúp tăng tốc độ rút súng và tính cơ động.
-Chụp đầu nòng (Choke)~Tăng phân tán đạn nhưng giúp đạn bay đều và ổn định hơn.
-Nòng dài~Giảm phân tán đạn nhưng tăng khối lượng và độ dài.
-Không báng~Cấu hình thu gọn với tính cơ động cao nhưng vì mất báng nên rất khó để ngắm bắn.
+None~Default option with no effects.
+Iron Sights~A pair of alignment markers making up a simple, lightweight sighting device.
+Dot Sight~Non-magnifying reflex sight with a small illuminated dot indicating the point of aim.
+Holographic Sight~Non-magnifying sight with a holographic reticle. Effective in close-quarters combat.
+Night-Vision Scope~Telescopic sight augmented with a night-vision device. Heavy, but effective in all lighting conditions.
+Ammo Counter Sight~Iron sights with integrated ammunition counting device.
+Telescopic Sight~Heavy sighting device, providing optical magnification. Perfect for long-range, but limits the overall perception.
+Standard Stock~Regular stock, providing better control of the firearm when aiming down the sights.
+Extended Stock~Provides better control of the firearm when aiming down the sights, but increases the equipping time.
+Retracted Stock~Makes the firearm more compact, which increases mobility.
+Lightweight Stock~Reduces the weight of the firearm but makes it harder to control the recoil when aiming down the sights.
+Heavy Stock~Increased weight lowers mobility but makes the firearm more stable when aiming down the sights.
+Recoil-Reducing Stock~Stock equipped with a system that attempts to disperse force between individual shots.
+Foregrip~Vertical forward grip. Makes it easier to handle the muzzle rise.
+Laser Sight~Provides visual reference point onto the target, which helps in hip-firing but can easily reveal your position.
+Flashlight~Toggleable light source. Increases total weight of the firearm but can be life-saving in dark areas.
+Ammo Counter~Ammunition counting device. Experimental technology that has proven to be useful, especially with high-capacity magazines.
+Standard Barrel~Conventional barrel with no muzzle device.
+Extended Barrel~Improves the overall firepower, but contributes to low mobility caused by increased weight and length.
+Suppressor~Sound moderator. Reduces the loudness of gunshots, but increases the overall weight and length of the firearm.
+Flash Hider~Eliminates muzzle flash. Makes it easier to shoot in the darkness.
+Muzzle Brake~Recoil compensator. Uses propellant gases to reduce recoil, but increases the acoustic intensity of gunshots.
+Muzzle Booster~Improves fire rate, which results in more damage per second, but the weapon is harder to control.
+FMJ Magazine~Standard magazine that contains full metal jacket bullets.
+AP Magazine~Standard magazine that contains armor-piercing bullets.
+JHP Magazine~Standard magazine that contains hollow-point bullets.
+Extended FMJ Magazine~Extended magazine that contains full metal jacket bullets.
+Extended AP Magazine~Extended magazine that contains armor-piercing bullets.
+Extended JHP Magazine~Extended magazine that contains hollow-point bullets.
+FMJ Drum~High-capacity drum magazine that contains full metal jacket bullets.
+AP Drum~High-capacity drum magazine that contains armor-piercing bullets.
+JHP Drum~High-capacity drum magazine that contains hollow-point bullets.
+Low-Cap FMJ Magazine~Low-capacity magazine that contains full metal jacket bullets.
+Low-Cap AP Magazine~Low-capacity magazine that contains armor-piercing bullets.
+Low-Cap JHP Magazine~Low-capacity magazine that contains hollow-point bullets.
+4-Shot Cylinder~Holds fewer cartridges but is capable of dealing increased damage to armored enemies.
+6-Shot Cylinder~The classic six-shooter.
+8-Shot Cylinder~Holds more cartridges, but the heavier trigger pull requires more time to perform accurate shots.
+Carbine Receiver~Regular carbine upper receiver that is considered a great compromise between firepower and mobility.
+Rifle Receiver~Full-size upper receiver improves firepower and accuracy, but a heavier gas system reduces the fire rate.
+Short Barrel~Shortened version of the standard barrel, used to improve draw speed and mobility.
+Choke~Increases total radius of spread but improves the consistency of the pattern.
+Extended Barrel~Slightly reduces the spread radius but increases the total firearm weight and length.
+No Stock~Short configurations come with high mobility, but removing stocks from a high-recoil rifle isn't always the best idea.
+Single-Shot System~Standard system. One trigger-pull leads to one discharge.
+Double-Shot System~Modified trigger mechanism which actuates both sears with a single pull.
