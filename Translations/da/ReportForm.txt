@@ -1,7 +1,7 @@
-Rapportér Spiller
-Mål:\nSpiller ID:\nBeskrivelse:
-Annuller
-Rapportér for at bryde serverens regler
-Rapportér for at snyde eller raide
-RAPPORTERER
-Vent venligst...
+Report Player
+Target:\nPlayer ID:\nDescription:
+Cancel
+Report for breaking server rules
+Report for cheating or raiding
+REPORTING
+Please wait...
