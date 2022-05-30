@@ -1,18 +1,21 @@
-Скульптура
+The Sculpture
 -
 -
-Старий
+The Old Man
 -
-Чумний лікар
+The Plague Doctor
 -
-Старий штучний інтелект
+The Old AI
 -
-Сором’язливий
-Вилікуваний
--
--
+The Shy Guy
+The Cured
 -
 -
 -
-Багатоголосий
-Багатоголосий
+-
+-
+With Many Voices
+With Many Voices
+-
+-
+-
