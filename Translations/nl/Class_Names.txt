@@ -16,3 +16,6 @@ TUTORIAL
 Facility Bewaker
 SCP-939-53
 SCP-939-89
+Chaos Insurgency Rifleman
+Chaos Insurgency Marauder
+Chaos Insurgency Repressor
