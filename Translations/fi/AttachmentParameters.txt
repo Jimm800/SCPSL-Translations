@@ -1,19 +1,21 @@
-Tähtäimen suurennus
+ADS zoom
 ---
-Vahinko
-Lävistys
-Tulinopeus
-Rekyyli
-Rekyyli tähdättäessä
-Luodin tarkkuus
-Lonkkatarkkuus
-Tähtäystarkkuus
-Nostonopeus
-Laukauksen äänenvoimakkuus
-Lippaan kapasiteetti
-Nostoaika
-Latausaika
+Damage
+Penetration
+Fire rate
+Recoil
+Recoil when aiming
+Bullet accuracy
+Hip-firing accuracy
+Aiming accuracy
+Equip time
+Gunshot loudness
+Magazine capacity
+Equip time
+Reload time
 ---
-Tähtäysnopeus
-Haulihajonta
-Kuvion yhteneväisyys
+Aiming speed
+Pellet spread
+Pattern consistency
+Projectiles number
+Reload speed
