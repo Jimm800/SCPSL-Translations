@@ -1,7 +1,7 @@
-<size=7>DEKONTAMINATIONS-PROZEDUR BEGINNT IN</size>
+DECONTAMINATION PROCESS BEGINS IN
 BITTE VERLASSE DAS AREAL
 !  BITTE EVAKUIEREN  !
-<size=10>Bedrohungsanalyse in Bearbeitung</size>
+threat analysis in progress
 BEREITE SICHERHEITSSYSTEME VOR
 Systeme bereit zum Starten
 Inititalisiere Prozedur P-B-3
