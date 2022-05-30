@@ -1,11 +1,11 @@
 ENERGÍA AUXILIAR
 EXPERIENCIA
-ENTRADA DE VÍDEO ACTIVADA
+CAMERA FEED ONLINE
 PULSA [KEY] PARA ACTIVAR/DESACTIVAR EL MAPA
 Experiencia obtenida:
 Cooperación
 Muerte asistida de Clase-D
-Muerte asistida de I. C.
+CI termination assist
 Muerte asistida de MTF
 Muerte asistida de Científico
 Muerte asistida de SCP
