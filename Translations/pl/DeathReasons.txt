@@ -1,30 +1,30 @@
 To był <b>[user]</b>, jako [class]!\n\nPrzyczyna zgonu: [cause]
 Zabezpieczony.
-Spopielony przez potężną eksplozję.
+Vaporized by the Alpha Warhead.
 Nagły zanik funkcji życiowych. Brak wyraźnych urazów.
 Nieznany powód śmierci.
 Poważne porażenia elektryczne.
 Niedobór tlenu spowodowało śmierć przez uduszenie.
 Duża utrata krwi spowodowana przez głębokie rany.
-Wykrwawiony.
+You have bled out.
 Złamane żebra oraz miednica sugerują śmiertelny uraz spowodowany upadkiem.
-Śmiertelny upadek z wysokości.
-Zaginął w Wymiarze Łuzowym.
+You have fallen down.
+Decayed in the Pocket Dimension.
 Stopiony przez silnie żrącą substancję.
 Chora żółta skóra oraz zjełczały zapach sugerują śmierć przez otrucie.
 Wykończony przez truciznę.
 Blada skóra oraz krew wyciekająca z ust sugerują krwotok wewnętrzny spowodowany poprzez spożycie jakiejś substancji.
 Wykończony przez SCP-207.
 Nie powinieneś brać więcej niż dwóch!
-Złapany przez bramę Tesli.
+You've been caught by a Tesla Gate.
 Głębokie rany oraz poważne oparzenia spowodowane wybuchem.
 Zabity przez pobliską eksplozję.
 Ogromne rany i nadmierna utrata krwi.
 Złamanie szyi u podstawy czaszki.
 Na ciele widoczne są głębokie ślady po ugryzieniach.
-Na ciele widoczne są zadrapania oraz tępy uraz.
-Rany postrzałowe z amunicji [ammotype].
 Tępy uraz, ciało jest poważnie okaleczone i zmiażdżone.
+Rany postrzałowe z amunicji [ammotype].
+Fatal blunt trauma; the body is badly mutilated and pulped.
 Objawy ciężkich urazów obu kości udowych sugerują śmierć w wyniku wstrząsu krążeniowego.
 Poświęcony w celu zabezpieczenia SCP-106.
 Automatycznie zabity za bratobójczy ogień.
