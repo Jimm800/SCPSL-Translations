@@ -1,7 +1,7 @@
 Amunicja {0}/{1} {2}
-Obrażenia
+Damage
 Szybkostrzelność
-Celność z biodra
+Hip Accuracy
 Celność przy ADS
 Waga
 Długość
