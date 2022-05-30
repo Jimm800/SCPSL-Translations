@@ -1,6 +1,6 @@
 munición {0}/{1} {2}
 Daño
-Cadencia de disparo
+Fire Rate
 Precisión desde la cadera
 Precisión usando la mira
 Peso
