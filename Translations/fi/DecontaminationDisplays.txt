@@ -1,7 +1,7 @@
-DEKONTAMINAATIO ALKAA
-POISTUKAA ALUEELTA
-!  EVAKUOIKAA  !
-tehdään uhka-analyysiä
-VALMISTELLAAN TURVAJÄRJESTELMIÄ
-järjestelmät ovat valmiita käynnistymään
-käynnistetään protokolla p-b-3
+DECONTAMINATION PROCESS BEGINS IN
+PLEASE EXIT THE AREA
+!  PLEASE EVACUATE  !
+threat analysis in progress
+PREPARING SECURITY SYSTEMS
+systems ready to commence
+initializing procedure p-b-3
