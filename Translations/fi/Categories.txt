@@ -1,10 +1,10 @@
-Tyhjä
-Avainkorttien
-Ensiaputarvikkeiden
-Radion
-Aseiden
-Kranaattien
-SCP-esineiden
+None
+Keycard
+Medical Items
+Radio
+Firearms
+Grenades
+SCP Items
 Micro H.I.D.
-Ammusten
-Luotiliivien
+Ammo
+Body Armor
