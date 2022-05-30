@@ -1,7 +1,7 @@
-Játékos jelentése
-Célpont:\nJátékos ID:\nLeírás:
-Mégsem
-Jelentés a szerver szabályzat megsértéséért
-Jelentés csalásért vagy raidelésért
-JELENTÉS
-Kérlek várj...
+Report Player
+Target:\nPlayer ID:\nDescription:
+Cancel
+Report for breaking server rules
+Report for cheating or raiding
+REPORTING
+Please wait...
