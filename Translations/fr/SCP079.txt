@@ -1,12 +1,12 @@
-<size=30>PUISSANCE AUXILIAIRE</size>\n
+AUXILIARY POWER
 EXPERIENCE
 \nTRANSMISSION CAMERA\n<color=red>ONLINE</color>
 APPUYEZ SUR [KEY] POUR BASCULER SUR LA CARTE DE SURVEILLANCE
 Expérience gagnée :
-Assistance
+Cooperative work
 Classe-D éliminée
-Insurrection du chaos éliminé
-FIM E-11 éliminé
+Assistance
+MTF termination assist
 Scientifique éliminé
 SCP éliminé
 PORTES VERROUILLÉES : [LOCKED_NUM]<size=25>CLIC DROIT POUR TOUT DÉVERROUILLER</size>
