@@ -1,6 +1,6 @@
-MOŻESZ DAWAĆ ROZKAZY
+STWÓRZ PRZEJŚCIE
 WYKONUJ ROZKAZY
-PODOBNY POZIOM UPRAWNIEŃ
+MOŻESZ DAWAĆ ROZKAZY
 Klas D uciekło
 Naukowców przetrwało
 Zabitych przez SCP
@@ -10,10 +10,10 @@ Zdetonowana
 Nieużyta
 Następna runda rozpocznie się w ciągu [time] sekund.
 UMIEJĘTNOŚĆ SPECJALNA
-STWÓRZ PRZEJŚCIE
+CREATE SINKHOLE
 UŻYJ PRZEJŚCIA
-NIE ŻYJESZ
 Zostałeś zabity przez
+You were killed by
 jako
 Pasywne
 (ukryto)
