@@ -1,20 +1,20 @@
-Northwood 最高経営責任者
+Northwood 人事ディレクター
 Northwood 最高情報責任者
-Northwood 最高執行責任者
+Northwood 役員補佐
 Northwood コミュニティディレクター
 Northwood Discordマネージャー
-Northwood 役員補佐
+Northwood 最高執行責任者
 Northwood フィードバックマネージャー
 Northwood 人事
-Northwood 人事ディレクター
+Northwood Wikiマネージャー
 Northwood マーケティングプラットフォームマネージャー
 Northwood スタッフ
 Northwood Steamマネージャー
 Northwood システム管理者
-Northwood Wikiマネージャー
+Northwood 認証マネージャー
 SCP:SL アートディレクター
-SCP:SL アートスーパーバイザー
 SCP:SL アーティスト
+SCP:SL アートスーパーバイザー
 SCP:SL バックエンドプログラマ
 SCP:SL バックエンドプログラミングマネージャー
 SCP:SL デベロッパー
@@ -34,7 +34,7 @@ SCP:SL サウンドデザイナー
 SCP:SL ゲームディレクター
 SCP:SL 公式サーバーマネージャー
 Northwood 認証スペシャリスト
-Northwood ネイティブコードスペシャリスト
+SCP:SL ヘルパー
 SCP:SL 品質保証テスター
 SCP:SL 品質保証スーパーバイザー
 SCP:SL Twitchサブスクライバー
@@ -43,12 +43,16 @@ Northwood フィードバックチーム
 Northwood 認証スーパーバイザー
 SCP:SL 公式サーバースーパーバイザー
 Northwood フィードバックスーパーバイザー
-Northwood 認証マネージャー
+Northwood 最高経営責任者
 Northwood ボットマネージャー
 Northwood 翻訳マネージャー
 SCP:SL ゲームデザインマネージャー
 SCP:SL アニメーター
 Northwood PRディレクター
-SCP:SL ヘルパー
-SCP:SL 声優
 SCP:SL 財団投資家
+SCP:SL 声優
+SCP:SL Foundation Investor
+Northwood ネイティブコードスペシャリスト
+SCP:SL Game Director Assistant
+Northwood Tech Support Supervisor
+Northwood Tech Support Manager
