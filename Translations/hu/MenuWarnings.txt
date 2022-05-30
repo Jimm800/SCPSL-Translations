@@ -1,4 +1,4 @@
-FIGYELEM
-RENDBEN
-<b>Intel Grafika</b> észlelve, ami <b>nem támogatott</b>.\n<b>Ajánlott</B>, hogy <b>nem integrált</b> videokártyát használj.\nA játék <b>többször összeomolhat</b> a jelenlegi beállításokkal.
-Egy fontos rendszerfrissítés - ami a hangos csevegéshez szükséges - nem található meg a számítógépen. Kérlek ellenőrízd, hogy a Windows legújabb verziója fut a számítógépen, ellenkező esetben a játék lehet, hogy nem fog rendeltetésszerűen működni. Ha a hiba továbbra is fennáll, kérlek vedd fel a kapcsolatot a "Tech-Support" csapatunkkal további segítségkérésért.
+WARNING
+OKAY
+<b>Intel graphics</b> have been detected which is <b>not supported</b>.\nIt is <b>recommended</b> to use a <b>non-integrated</b> graphics card.\nThe game may <b>often crash</b> with the current setup.
+An important system update that is required by the voice chat cannot be found. Please ensure that your Windows is fully up to date, otherwise the game may not function properly. If this issue persists, please contact our tech support team for further assistance
