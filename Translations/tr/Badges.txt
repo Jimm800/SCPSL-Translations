@@ -1,10 +1,10 @@
-Northwood İcra Kurulu Başkanı
-Northwood Bilgi Yönetim Şefi
-Northwood Operasyon Şefi
 Northwood Topluluk Müdürü
-Northwood Discord Yöneticisi
+Northwood Bilgi Yönetim Şefi
 Northwood Yönetici Asistanı
+Northwood Halkla İlişkiler Direktörü
+Northwood Discord Yöneticisi
 Northwood Geribildirim Yöneticisi
+Northwood Geribildirim Koordinatörü
 Northwood İnsan Kaynakları
 Northwood İnsan Kaynakları Müdürü
 Northwood Pazarlama Platformu Yöneticisi
@@ -21,34 +21,38 @@ SCP:SL Geliştirici
 SCP:SL Etkinlik Kazananı
 SCP:SL Fullstack Programcı
 SCP:SL Oyun Tasarımcısı
-SCP:SL Oynanış Programcısı
+SCP:SL Oyun Müdürü
 SCP:SL Küresel Moderasyon Müdürü
 SCP:SL Küresel Moderatör
 SCP:SL Baş Oyun Tasarımcısı
-SCP:SL Baş Oynanış Programcısı
+SCP:SL Oyun Tasarım Müdürü
 SCP:SL Harita Tasarımcısı
 SCP:SL Partner
 SCP:SL Patreon Destekçisi
 SCP:SL Kalite Güvence Müdürü
 SCP:SL Ses Tasarımcısı
-SCP:SL Oyun Müdürü
+SCP:SL Ses Müdürü
 SCP:SL Resmî Sunucu Müdürü
 Northwood Doğrulama Uzmanı
-Northwood Yerel Kod Uzmanı
+SCP:SL Animatör
 SCP:SL Kalite Güven Deneyen
 SCP:SL Kalite Güven Gözetmeni
 SCP:SL Twitch Abonesi
-SCP:SL Ses Müdürü
-Northwood Geribildirim Koordinatörü
-Northwood Doğrulama Gözetmeni
-SCP:SL Resmi Sunucu Gözetmeni
+SCP:SL Ses Sanatçısı
 Northwood Geribildirim Gözetmeni
 Northwood Doğrulama Müdürü
-Northwood Bot Müdürü
+SCP:SL Resmi Sunucu Gözetmeni
+Northwood İcra Kurulu Başkanı
 Northwood Çeviri Müdürü
-SCP:SL Oyun Tasarım Müdürü
-SCP:SL Animatör
-Northwood Halkla İlişkiler Direktörü
+Northwood Bot Müdürü
+Northwood Yerel Kod Uzmanı
+SCP:SL Baş Oynanış Programcısı
+SCP:SL Oynanış Programcısı
+Northwood Operasyon Şefi
 SCP:SL Yardımcı
-SCP:SL Ses Sanatçısı
 SCP:SL Vakıf Yatırımcısı
+SCP:SL Foundation Investor
+Northwood Studio Director
+SCP:SL Game Director Assistant
+Northwood Doğrulama Gözetmeni
+Northwood Tech Support Manager
