@@ -1,99 +1,99 @@
-INTRĂ
-ÎNCHIDE
-REZOLUȚIA UMBRELOR
-SETĂRI
-BAZAT PE <i>SCP: CONTAINMENT BREACH</i>
-ÎNAPOI
-LIMBĂ
+JOIN
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BREACH</i>
+BACK
+LANGUAGE
 ANTIALIASING
-Modificați detaliile:\n-NUMĂRUL DE LUMINĂ PIXELI - Numărul maxim de surse de lumină care au lumina redată pe pixeli individuali.\n-V-Sync - Activați sincronizarea cu rata de reîmprospătare a dispozitivului de afișare.
-INTRĂ ÎN JOC
+Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
+JOIN GAME
 POST\nPROCESSING
-CREDITE
-IEȘI DIN JOC
-Mod Fullscreen
-SETĂRI ECRAN
-CORECȚIE DE CULOARE
-Intră Adresa IP...
-REZOLUȚIE ECRAN
-JOACĂ
-NUMĂR DE LUMINĂ A PIXELOR
-TIP DE UMBRĂ
-UMBRE
-CREAZĂ JOC
-Modificați setările post-procesare. Aceste setări nu afectează, în general, performanța, se recomandă lăsarea valorilor implicite.
-Mod de redare ușoară:\nCând este oprit, calitatea grafică este redusă semnificativ. Dezactivarea acestei setări este recomandată numai pentru computerele slabe.
+CREDITS
+QUIT GAME
+Fullscreen mode
+SCREEN SETTINGS
+COLOR CORRECTION
+Enter IP Address...
+SCREEN RESOLUTION
+PLAY
+PIXEL LIGHT COUNT
+SHADOW TYPE
+SHADOWS
+CREATE GAME
+Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
+Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
 V-SYNC
-CONECTEAZĂ-TE
-SETĂRI DE CALITATE
-Schimbați preferințele pentru umbră. Setarea acestor glisoare la valori mai mici poate crește netezimea jocului.
-MENIU PRINCIPAL
-RENDER DE LUMINI
-BLUR DE MOȚIUNE
-DISTANȚĂ UMBRE
-DETALII
+CONNECT
+QUALITY SETTINGS
+Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
+MAIN MENU
+RENDER LIGHTS
+MOTION BLUR
+SHADOW DISTANCE
+DETAILS
 3. SCP-914
-TUTORIALE
-PERICOL
-Browse servere valabile
-Nu arăta iarăși
-Cum ai dori să te conectezi?
-BROWSER DE SERVERE
-OK
-CAUTĂ MATCH
-2. Folosind arme
-Folosim Discord ca forum. Nu este necesară instalarea.\n(faceți click pe sigla pentru a vă alătura)
-În mod implicit, serverul se va configura în rețeaua locală.\nPrietenii dvs. vor avea nevoie de adresa IP directă pentru a se conecta.\nDacă doriți să configurați un server public, selectați LocalAdmin.exe și urmați instrucțiunile. \nDacă aveți întrebări, vă rugăm să întrebați asistența noastră tehnică (link în meniul principal)
-1. Bazele
-Jocul prezentat înca este în beta publică. \nAi putea avea probleme de conexiune și multe buguri. \nStarea actuală nu reflectează versiunea finală.
-4. (mai multe tutoriale mai târziu)
-CONECTARE DIRECTA
-TECH SUPORT / FORUM
-VOLUM SUNET
-Intră adresa IP a serverului specific.
-DESCĂRCARE DATA
-NICIUN SERVER VALABIL
-APASĂ ESC SĂ ÎNCHIZI / ANULEZI
-BINDING DE BUTOANE
-CANTITATE MAXIMĂ DE SÂNGE
-Limită de FPS
-Limita de FPS nu funcționează când vSync este activat!
-Setează Default
-Folosim Steam Discussion ca un forum. (Apasă pe sigla de mai jos pentru a deschide forumul)
-SETĂRI AUDIO
-VOLUM PRINCIPAL
-MUZICA MENIULUI
-CHAT VOCAL
-EFECTE DE SUNETE
-OPȚIUNI GAMEPLAY
-DISPARIȚIE RAPIDĂ DE INTRODUCERE
-Scris de introducere a clasei va dispărea mult mai rapid.
-SCP-079 - TOGGLE MOD DE VIZUALIZARE
-Apasă o dată pentru a schimba între moduri de cameră.
-SCP-079 - POST-PROCESARE
-Dacă dezactivat, efecte de cameră vor fi reduse puternic.
-MIȘCARE DE CAP
-Activează mișcare de cameră în first-person în mișcare.
+TUTORIALS
+WARNING
+Browse available servers
+Don't show it again
+How would you like to connect?
+SERVER BROWSER
+OKAY
+FIND MATCH
+2. Using weapons
+We use Discord as a forum. No installation needed.\n(click the logo to join)
+By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
+1. The basics
+The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+DIRECT CONNECT
+TECH SUPPORT / FORUM
+SOUND VOLUME
+Enter the IP address of the specific server.
+DOWNLOADING DATA
+NO SERVERS AVAILABLE
+PRESS ESC TO CLOSE / CANCEL
+KEY BINDING
+MAX BLOOD AMOUNT
+FPS Limit
+FPS Limit does not work when vSync is enabled!
+Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the forum)
+AUDIO SETTINGS
+MASTER VOLUME
+MENU MUSIC
+VOICE CHAT
+SOUND EFFECTS
+GAMEPLAY OPTIONS
+FAST INTRO FADE
+Class intro text will fade out much more quickly.
+SCP-079 - TOGGLE VIEW MODE
+Press once to swap between camera modes.
+SCP-079 - POST-PROCESSING
+If disabled, camera effects will be heavily reduced.
+HEAD BOB
+Enables first-person camera bobbing during movement.
 TOGGLE SPRINT
-Toggles Sprinting-ul on și off, în loc de a fi ținut.
-BARĂ DE HP ARTIFICIALĂ SEPARATĂ
-Dă HP-ul artificial propria bară de viață, în loc de un overlay.
-Traducerele noastre sunt open-source pe GitHub!\nVrei să ajuți? Apasă aici sa accesezi.
-PREZENȚĂ BOGATĂ
-Dacă activat, status-ul tău va fi arătat pe Discord/Steam.
-ARATĂ VALOAREA EXACTĂ DE HP
-Arată HP-ul exact, în loc de un procent.
-LOBBY PUBLIC
-Dacă activat, prietenii tăi steam pot să se alătureze fără permisiunea ta.
-ASCUNDE IP
-Dacă activat, orice IP în consola client nu va fi arătată.
-TOGGLE CĂUTARE
-Ridicând un item nu va necesita un buton ținut; apasă iarăși să anulezi.
-Aplică umbre fine colțurilor și zonelor înguste pentru a da modelelor mai multă adâncime.
-Oferă mediului mai multă profunzime la un cost de performanță mare.
-Oferă luminii mai multă profunzime prin aplicarea unei străluciri bazată pe intensitatea luminii.
-Toggle pentru a afișa subtitrări pentru anunțurile cassie.
-Iluminează taskbar-ul când te spaunezi dacă jocul nu este focalizat.
-Netezește liniile și scoate distorsiunile vizuale.
-Sincronizează FPS-ul jocului cu rata de reîmprospătare a monitorului pentru a opri ruperea ecranului.
-Texturi proiectate, cum ar fi găuri de gloanțe sau stropi de sânge.
+Sprinting toggles on and off, instead of being held down.
+SEPARATE ARTIFICIAL HP BAR
+Gives artificial HP its own health bar, instead of an overlay.
+Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
+RICH PRESENCE
+If enabled, your status will be displayed on Discord/Steam.
+DISPLAY EXACT HP VALUE
+Displays exact HP, instead of just the percentage.
+PUBLIC LOBBY
+If enabled, your steam friends can join you without permission.
+HIDE IP
+If enabled, any IP in client console is not displayed.
+TOGGLE SEARCH
+Item pickup will not require a held key; press again to cancel.
+Applies soft shadows to corners and tight areas to give models more depth.
+Gives the environment more depth at a high performance cost.
+Gives lighting more depth by applying a glow based on the light intensity.
+Toggle to show subtitles for cassie announcements.
+Flashes the taskbar when you spawn while the game is not in focus.
+Smoothes lines and removes visual distortions.
+Synchronizes the in-game frame rate with your monitor's refresh rate to stop screen tearing.
+Projected textures such as bullet holes or blood splatter.
