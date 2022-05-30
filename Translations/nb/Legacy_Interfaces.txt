@@ -1,19 +1,19 @@
-GI ORDRE
-FØLG ORDRE
-SAMME RANG
-Klasse D-personell rømte
-Forskere overlevde
-Drept av SCP
-Uskedeliggjorte SCPer
-Stridshode Alpha
-Detonert
-Ubrukt
-Neste runde starter om [time] sekunder.
-SPESIALEVNE
-LAG SYNKEHULL
-BRUK SYNKEHULL
-DU DØDE
-Du ble drept av
-som
-Passiv
-(skjult)
+GIVE ORDERS
+FOLLOW ORDERS
+SAME RANK
+Class-D Personnel escaped
+Scientists survived
+Killed by SCP
+Terminated SCP subjects
+Alpha Warhead
+Detonated
+Unused
+The next round will start in [time] seconds.
+SPECIAL ABILITY
+CREATE SINKHOLE
+USE SINKHOLE
+YOU DIED
+You were killed by
+as
+Passive
+(hidden)
