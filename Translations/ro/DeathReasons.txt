@@ -1,32 +1,32 @@
-Este corpul lui <b>[user]</b> - ei erau [class]!\n\nCauza morții: [cause]
-Reținut.
-Vaporizat de Alfa Warhead.
-Încetarea bruscă a semnelor de viață. Fără traume clare.
-Cauza a morții neștiută.
-Multe arsuri electrice.
-Lipsa de oxigen a dus la moartea prin asfixie.
-Pierderi severe de sânge căuzate de răni profunde.
-Ai sângerat.
-Picioarele sparte sugerează traume fatale căuzate de o cădere.
-Ai căzut jos.
-Decedat în Dimensiunea de Buzunar.
-Topit de o substanță foarte corozivă.
-Pielea galbenă bolnavă și mirosul rânced sugerează moartea prin otravă.
-Otrava te-a terminat.
-Pielea palidă și sângele care scurge din gură sugerează sângerări interne căuzate de ingestia de substanțe.
-SCP-207 te-a terminat.
-Nu ar fi trebuit să iei mai mult de două!
-Ai fost prins de o Poartă Tesla.
-Shrapnel și arsuri grave căuzate de o explozie.
-Ai fost ucis de o explozie din apropiere.
-Lacerări masive și pierderi excesive de sânge.
-Fractură cervicală la baza craniului.
-Se pot observa urme mari de mușcături adânci pe corp.
-Traumele contondente și zgârieturile minore sunt prezente pe corp.
-Rane de glonț [ammotype].
-Traumatism contondent fatal; corpul este grav mutilat și pulpat.
-Semnele unui traumatism sever la ambele oase ale femurului sugerează moartea prin șoc circulator.
-Ai fost sacrificat pentru a recontamina SCP-106.
-Ucis automat pentru friendly fire.
-Pielea rece și degetele înghețate sugerează o moarte prin hipotermie.
-Ai înghețat până la moarte.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Recontained.
+Vaporized by the Alpha Warhead.
+Sudden cessation of life signs. No clear trauma.
+Unknown cause of death.
+Severe electrical burns.
+Oxygen deprivation resulted in a death of asphyxia.
+Severe blood loss caused by deep wounds.
+You have bled out.
+Shattered legs and feet suggest fatal trauma caused by a fall.
+You have fallen down.
+Decayed in the Pocket Dimension.
+Melted by a highly corrosive substance.
+Sickly yellow skin and a rancid smell suggests death by poison.
+The poison has finished you.
+Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
+SCP-207 has finished you.
+You shouldn't have taken more than two!
+You've been caught by a Tesla Gate.
+Shrapnel and severe burns caused by an explosion.
+You've been killed by a nearby explosion.
+Massive lacerations and excessive blood loss.
+Cervical fracture at the base of the skull.
+Large, deep bite marks on the body can be observed.
+Blunt trauma and minor scratches are present on the body.
+[ammotype] bullet wounds.
+Fatal blunt trauma; the body is badly mutilated and pulped.
+Signs of severe trauma to both femur bones suggests death by circulatory shock.
+You've been sacrificed to recontain SCP-106.
+Automatically killed for friendly fire.
+Cold skin and frostbitten fingers suggest a death by hypothermia.
+You have frozen to death.
