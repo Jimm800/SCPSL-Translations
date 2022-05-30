@@ -1,18 +1,21 @@
-Zabijte všechny.\nZabraňte útěku.\nSpolupracujte s ostatními <color=#F00>SCP.</color><color=#FFFF00>\nPodržte klávesu pro míření, zatímco jste pozorováni, abyste mohli mrkat.\nOdoláváte určitému poškození střelbou a máte regenerační štít.</color>.
-Uteč ze zařízení.\nSpolupracuj se <color=#008F1e>Vzbouřenci Chaosu.</color>\nDrž si odstup od ostatních týmů
-Brzy se znovuzrodíš.
-Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color><color=#FFFF00>\nMůžeš procházet dveřmi.\nLevým tlačítkem myši chytáš nepřátelé do své dimenze\nPodržením TAB získáš přístup ke svým schopnostem.</color>
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout.\nNeutralizuj ostatní objekty.\nPouč své vojáky. \nŘiď se rozkazy svých velitelů.
-Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color><color=#FFFF00>\nLevým tlačítkem myši instatně zabiješ nepřítele s krátkým cooldownem.\nInteraguj s nedávno mrtvým člověkem a oživ ho jako svého spojence.</color>
-Uteč ze zařízení.\nSpolupracuj s <color=#0096FF>MTF.</color>\nDrž si odstup od ostatních týmů
-Zabij všechny.\nVšechny zabíj.\nSpolupracuj s ostatními <color=#F00>SCPs.</color>
-Pomoz <color=#FF8E00>personálu Třídy-D</color> uprchnout\nNeutralizuj ostatní objekty
-Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color>
-Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color><color=#FFFF00>\nLevým tlačítkem myši utočíš na krátkou vzdálenost.</color>
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty\nPouč své vojáky. \nŘiď se rozkazy svých velitelů.
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty\nPouč své vojáky.
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty\nŘiďte se pokyny svých nadřízených.
-Pro dokončení postupujte dle pokynů.
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nSpolupracuj s <color=#0096FF>MTF</color>\nNeutralizuj ostatní objekty
-Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color>
-Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nHold your aim key while being observed to blink.\nYou resist some damage from gunfire, and have a regenerating shield.</color>
+Escape from the facility.\nCooperate with the <color=#008F1e>Chaos Insurgency.</color>\nAvoid other teams.
+You will respawn soon.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nYou can walk through doors.\nLeft click hurts and TPs enemies to your dimension.\nHold TAB to access your TP abilities.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your superiors.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to insta-kill enemies with a short cooldown.\nInteract with a recently-dead human to revive them as an ally.</color>
+Escape from the facility.\nCooperate with the <color=#0096FF>MTF.</color>\nAvoid other teams.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to attack with a short windup.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your captain.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nFollow the orders of your superiors.
+Follow the tasks to complete your objective.
+Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
+Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
