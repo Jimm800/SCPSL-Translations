@@ -1,6 +1,6 @@
 0~Hausmeister Zugangskarte
-1~Wissenschaftler Zugangskarte
 2~Hauptwissenschaftler Zugangskarte
+2~Research Supervisor Keycard
 3~Zonenmanager Zugangskarte
 4~Sicherheitspersonal Zugangskarte
 5~MTF Gefreiter Zugangskarte
