@@ -1,31 +1,32 @@
-Thi thể của <b>[user]</b> - Thi thể này từng là [class]!\n\nNguyên nhân chết: [cause]
-Bị tái giam giữ.
-Nghiền nát bởi đầu đạn hạt nhân.
-Mất sự sống đột ngột. Không rõ nguyên nhân.
-Không rõ nguyên nhân chết.
-Giật điện.
-Chết do thiếu oxy.
-Mất máu vì vết thương nặng.
-Bạn đã mất quá nhiều máu.
-Cẳng chân bị nghiền nát nên có thể chết do ngã.
-Bạn đã bị ngã.
-Bị phân rã trong Không gian Túi.
-Nghiền nát bởi áp suất cao.
-Chết do trúng độc với biểu hiện da vàng và nặng mùi.
-Chất độc đã giết bạn.
-Da tái nhợt và máu chảy từ miệng nên có thể đã bị ngộ độc.
-SCP-207 đã giết bạn.
-Đáng lẽ không nên dùng quá 2 lần!
-Bạn đã bị Cổng điện đánh trúng.
-Mảnh vỡ và vết bỏng từ một vụ nổ.
-Bạn đã bị giết bởi chất nổ.
-Vết rách lớn và mất máu nhiều.
-Nứt gãy nặng ở xương.
-Vết cắn lớn hiện rõ trên thi thể.
-Vết bầm và xước trên thi thể.
-Bị đạn[ammotype]bắn.
-Tổn thương nghiêm trọng, thi thể đã bị cắt xén hoặc nghiền nhỏ.
-Tổn thương ở hai xương đùi, chết do sốc tim.
-Bạn đã hi sinh để giam giữ SCP-106.
-Tự động bị giết vì bắn đồng đội.
-Da lạnh và bàn tay đông cứng nên có thể do mất nhiệt.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Recontained.
+Vaporized by the Alpha Warhead.
+Sudden cessation of life signs. No clear trauma.
+Unknown cause of death.
+Severe electrical burns.
+Oxygen deprivation resulted in a death of asphyxia.
+Severe blood loss caused by deep wounds.
+You have bled out.
+Shattered legs and feet suggest fatal trauma caused by a fall.
+You have fallen down.
+Decayed in the Pocket Dimension.
+Melted by a highly corrosive substance.
+Sickly yellow skin and a rancid smell suggests death by poison.
+The poison has finished you.
+Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
+SCP-207 has finished you.
+You shouldn't have taken more than two!
+You've been caught by a Tesla Gate.
+Shrapnel and severe burns caused by an explosion.
+You've been killed by a nearby explosion.
+Massive lacerations and excessive blood loss.
+Cervical fracture at the base of the skull.
+Large, deep bite marks on the body can be observed.
+Blunt trauma and minor scratches are present on the body.
+[ammotype] bullet wounds.
+Fatal blunt trauma; the body is badly mutilated and pulped.
+Signs of severe trauma to both femur bones suggests death by circulatory shock.
+You've been sacrificed to recontain SCP-106.
+Automatically killed for friendly fire.
+Cold skin and frostbitten fingers suggest a death by hypothermia.
+You have frozen to death.
