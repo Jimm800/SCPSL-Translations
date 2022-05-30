@@ -1,8 +1,8 @@
-Aumento con la mira
+ADS zoom
 ---
 Daño
 Penetración
-Cadencia
+Velocidad de recarga
 Retroceso
 Retroceso al apuntar
 Precisión de las balas
@@ -15,7 +15,7 @@ Tiempo de desenfundado
 Tiempo de recarga
 ---
 Velocidad de apuntado
-Dispersión de los perdigones
+Pellet spread
 Consistencia del patrón
 Número de proyectiles
-Velocidad de recarga
+Reload speed
