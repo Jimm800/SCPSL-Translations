@@ -1,10 +1,10 @@
-Nic
-Karta
-Zdravotnické předměty
-Vysílačka
-Zbraně
-Granáty
-SCP položky
+None
+Keycard
+Medical Items
+Radio
+Firearms
+Grenades
+SCP Items
 Micro H.I.D.
-Náboje
-Vesta
+Ammo
+Body Armor
