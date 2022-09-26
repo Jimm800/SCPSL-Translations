@@ -32,13 +32,17 @@
 /Translations/nb/ @Rnen
 *norwegian.vdf @Rnen
 
-# Polish by zabszk
-Translations/pl/ @zabszk
-*polish.vdf @zabszk
+# Polish by zabszk & Petris
+Translations/pl/ @zabszk @MichalPetryka
+*polish.vdf @zabszk @MichalPetryka
 
 # Russian by GuyFawkes
 /Translations/ru/ @GuyFawkes76
 *russian.vdf @GuyFawkes76
+
+# Spanish by Dr-Ham
+/Translations/es/ @Dr-Ham
+*spanish.vdf @Dr-Ham
 
 # zh & zh-Hant by Tychus-Xiaoyi
 /Translations/zh/ @Tychus-Xiaoyi
